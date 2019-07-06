@@ -12,7 +12,11 @@
         }
     },
     updateTotalLevelScore: function (totalLevel) {
-        kongregate.stats.submit("Total Level", totalLevel);
+        window.kongregate.stats.submit("Total Level", totalLevel);
+    },
+    updatePensionTotal: function (pensionTotal) {
+        window.kongregate.stats.submit("Total Pension", pensionTotal);
+        return pensionTotal;
     },
     createSortableList: function (listElement) {
         Sortable.create(listElement, {});
