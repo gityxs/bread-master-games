@@ -37,7 +37,7 @@
             return "";
         }
         else {
-            return windowkongregate.services.getGameAuthToken();
+            return window.kongregate.services.getGameAuthToken();
         }
     },
     LoginWithKongregateID: function () {
