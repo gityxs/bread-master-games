@@ -29,4 +29,21 @@
             return window.kongregate.services.getGameAuthToken();
         }
     },
+    LoginWithKongregateID:function(){
+        PlayFab.settings.titleId = "1A3BB";
+        var username = this.getUsername();
+        var token = this.getToken();
+        var loginRequest = {
+        // Currently, you need to look up the correct format for this object in the API-docs:
+        // https://api.playfab.com/documentation/Client/method/LoginWithCustomID
+            TitleId: PlayFab.settings.titleId,
+            KongregateId: username,
+            CreateAccount: true,
+            AuthTicket:token
+    };
+        PlayFabClientSDK.LoginWithCustomID(loginRequest, LoginCallback);
+        
+    }
+
+
 };
