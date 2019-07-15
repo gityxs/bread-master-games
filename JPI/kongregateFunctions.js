@@ -20,5 +20,13 @@
     },
     createSortableList: function (listElement) {
         Sortable.create(listElement, {});
-    }
+    },
+    getToken: function () {
+        if (window.kongregate.services.isGuest()) {
+            return "";
+        }
+        else {
+            return window.kongregate.services.getGameAuthToken();
+        }
+    },
 };

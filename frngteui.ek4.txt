@@ -1,0 +1,26 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   JPI/_framework/_bin/Japanese Pension Idle.dll
+#	new file:   JPI/_framework/_bin/Japanese Pension Idle.pdb
+#	new file:   JPI/_framework/_bin/Microsoft.AspNetCore.Blazor.dll
+#	new file:   JPI/_framework/_bin/Microsoft.AspNetCore.Components.Browser.dll
+#	new file:   JPI/_framework/_bin/Microsoft.AspNetCore.Components.dll
+#	new file:   JPI/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+#	new file:   JPI/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll
+#	new file:   JPI/_framework/_bin/Microsoft.JSInterop.dll
+#	new file:   JPI/_framework/_bin/Mono.Security.dll
+#	new file:   JPI/_framework/_bin/Mono.WebAssembly.Interop.dll
+#	new file:   JPI/_framework/_bin/System.ComponentModel.Annotations.dll
+#	new file:   JPI/_framework/_bin/System.Core.dll
+#	new file:   JPI/_framework/_bin/System.Net.Http.dll
+#	new file:   JPI/_framework/_bin/System.dll
+#	new file:   JPI/_framework/_bin/mscorlib.dll
+#
+
+add bin
