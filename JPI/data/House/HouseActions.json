@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Clean",
+    "effect": "Clean",
+    "effectDescription": "Increases the cleanliness of your home",
+    "boostPerLevel": 0.1,
+    "difficultyMultiplier": 0.5,
+    "id": 2000
+  },
+  {
+    "Name": "Improve",
+    "effect": "Improve",
+    "effectDescription": "Improves the quality of your home",
+    "boostPerLevel": 0.15,
+    "difficultyMulitplier": 2,
+    "id": 2001
+  }
+
+]

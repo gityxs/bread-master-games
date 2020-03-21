@@ -1,0 +1,27 @@
+[
+  {
+    "name": "No University",
+    "description": "Save money, at the cost of any quality education.",
+    "cost": 0
+  },
+  {
+    "name": "Cheap Rural U",
+    "description": "A regular public school. The standard education.",
+    "cost": 1900000
+  },
+  {
+    "name": "University of Regular Education",
+    "description": "A regular public school and standard after school tutoring.",
+    "cost": 2300000
+  },
+  {
+    "name": "Private University",
+    "description": "A standard prive school. Smaller class sizes and more directed educational practices.",
+    "cost": 3000000
+  },
+  {
+    "name": "Daitou",
+    "description": "A standard prive school and guided after school tutoring.",
+    "cost": 3400000
+  }
+]

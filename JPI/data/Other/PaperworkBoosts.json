@@ -1,0 +1,80 @@
+[
+  {
+    "buttonText": "Eat Breakfast",
+    "description": "A healthy way to start the day. Miso! Natto! Tamago!",
+    "boosts": "Paperwork Per Hour",
+    "amount": 0.1
+  },
+  {
+    "buttonText": "Rajio Taisou",
+    "description": "Get that blood pumping! A strong heart produces much paperwork.",
+    "boosts": "Paperwork Per Hour",
+    "amount": 0.3
+  },
+  {
+    "buttonText": "Drink Lokari Sweat",
+    "description": "Despite the name, it's actually a hydration beverage. Boost your daily paperwork by drinking it!",
+    "boosts": "Paperwork Per Day",
+    "amount": 2
+  },
+  {
+    "buttonText": "Wear an Ab Toner",
+    "description": "Jiggle yourself into shape! It doesn't really work, but it's enough to keep you from getting too comfortable at work.",
+    "boosts": "Paperwork Per Hour",
+    "amount": 1
+  },
+  {
+    "buttonText": "Learn Your Jiko Shoukai",
+    "description": "Learning the proper introduction strategies and the fastest way to yoroshikus can end up saving you a lot of time.",
+    "boosts": "Efficiency Growth",
+    "amount": 1
+  },
+  {
+    "buttonText": "Ambidextrous Training",
+    "description": "Type with one hand and stamp with the other!",
+    "boosts": "Paperwork Per Hour",
+    "amount": 2
+  },
+  {
+    "buttonText": "Reduce Redundancy",
+    "description": "Almost all the paperwork you file covers reduntant information. By merging certain forms and data fields, you can cut back on the amount of work required per paperwork.",
+    "boosts": "Efficiency Growth",
+    "amount": 1
+  },
+  {
+    "buttonText": "Improve Email Response Times",
+    "description": "A prompt enough email response can really keep the information flowing properly.",
+    "boosts": "Emailing",
+    "amount": 1
+  },
+  {
+    "buttonText": "Optimize Circulation Methods",
+    "description": "Circulating finalized paperwork can really take a long time. Knowing who will take the longest to respond and how to encourage quick confirmations can save lots of time.",
+    "boosts": "Circulating",
+    "amount": 1
+  },
+  {
+    "buttonText": "Develop Better Scanning Pipeline",
+    "description": "The scanning machines have lots of buttons, but if you finally learn what they all do it will increase scanning speeds greatly.",
+    "boosts": "Scanning",
+    "amount": 1
+  },
+  {
+    "buttonText": "Split the Day",
+    "description": "Actually doing work in the morning instead of pretending can make your whole day twice as productive!",
+    "boosts": "Double PPH",
+    "amount": 2
+  },
+  {
+    "buttonText": "Convert To E-Fax",
+    "description": "It's the future! We don't need a fax machine anymore. Use E-Faxes!",
+    "boosts": "Faxing",
+    "amount": 1
+  },
+  {
+    "buttonText": "Excel Document Production Training",
+    "description": "If you can't make documents in Excel, you can't really make documents at all.",
+    "boosts": "Efficiency Starts at 50%",
+    "amount": 1
+  }
+]

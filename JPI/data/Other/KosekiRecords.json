@@ -1,0 +1,126 @@
+[
+  {
+    "name": "You're The Boss Now",
+    "description": "Become a Buchou.",
+    "image": "Boss"
+  },
+  {
+    "name": "Make 1000000000 Yen",
+    "description": "Become a billionaire, in yen.",
+    "image": "Yen"
+  },
+  {
+    "name": "Big Spender",
+    "description": "Buy everything you can from your house.",
+    "image": "Spender"
+  },
+  {
+    "name": "Way to go, Romeo",
+    "description": "Marry the first girl you meet.",
+    "image": "Romeo"
+  },
+  {
+    "name": "Thanks, Mom",
+    "description": "Reach age 30 without getting married.",
+    "image": "Unmarried"
+  },
+  {
+    "name": "I Like This One",
+    "description": "Have a favorite son.",
+    "image": "Favorite"
+  },
+  {
+    "name": "Good Dad",
+    "description": "Be best friends with all your heirs.",
+    "image": "GoodDad"
+  },
+  {
+    "name": "Ready to Work",
+    "description": "Complete 5 Work Projects.",
+    "image": "Work"
+  },
+  {
+    "name": "Work, Work",
+    "description": "Complete 25 Work Projects.",
+    "image": "Work"
+  },
+  {
+    "name": "More Work?",
+    "description": "Complete 100 Work Projects.",
+    "image": "Work"
+  },
+  {
+    "name": "Job's Done",
+    "description": "Complete 500 Work Projects.",
+    "image": "Work"
+  },
+  {
+    "name": "You're Pretty Good",
+    "description": "Level any action to level 100."
+  },
+  {
+    "name": "You're Over-Overflowing",
+    "description": "Spend your whole career in overflow."
+  },
+  {
+    "name": "You're The Boss' Boss Now",
+    "description": "Become a Kaichou"
+  },
+  {
+    "name": "Truly Content",
+    "description": "Never get promoted past Ippanshain."
+  },
+  {
+    "name": "I Spent 100s of Hours Designing $",
+    "description": "Max a Work Project."
+  },
+  {
+    "name": "You're Sodai Gomi Now",
+    "description": "Spend over 90% of your waking hours at work."
+  },
+  {
+    "name": "Tired",
+    "description": "Spend 5 years getting too little sleep."
+  },
+  {
+    "name": "The Power of Friendship",
+    "description": "Become friends with your boss at each promotion level."
+  },
+  {
+    "name": "Prodigy",
+    "description": "Get promoted in your first week on the job."
+  },
+  {
+    "name": "So Now That You've Retired, Are You Moving Out?",
+    "description": "Never move out from your parent's house."
+  },
+  {
+    "name": "Where'd The Money Go???",
+    "description": "Retire with less than 10,000 yen in your bank account."
+  },
+  {
+    "name": "Well Rested",
+    "description": "Spend your whole life sleeping."
+  },
+  {
+    "name": "Twice As Smart",
+    "description": "Double your Intelligence through self-improvement."
+  },
+  {
+    "name": "Twice As Strong",
+    "description": "Double your Strength through self-improvement."
+  },
+  {
+    "name": "Twice As Cool",
+    "description": "Double your Charisma through self-improvement."
+  },
+  {
+    "name": "F Is For Friends",
+    "description": "Make at least 15 friends in one life."
+  },
+  {
+    "name": "EZ Game",
+    "description": "Submit a successful Work Project without revising it."
+  }
+
+]

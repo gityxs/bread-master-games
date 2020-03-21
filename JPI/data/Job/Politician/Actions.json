@@ -1,0 +1,130 @@
+[
+  {
+    "Name": "Drive Megaphone Van",
+    "effect": "Gain Support",
+    "effectDescription": "Increases support for your campaign",
+    "boostPerLevel": 0.01,
+    "cost": 1000,
+    "rankGain": 1,
+    "ID": 0
+  },
+  {
+    "Name": "Give Speech From Megaphone Van",
+    "effect": "Gain Support",
+    "effectDescription": "Increases support for your campaign",
+    "boostPerLevel": 0.01,
+    "difficultyMultiplier": 1.3,
+    "cost": 1000,
+    "rankGain": 1,
+    "ID": 1
+  },
+  {
+    "Name": "Put Up Campaign Posters",
+    "effect": "Gain Popularity",
+    "effectDescription": "Increases popularity for your campaign",
+    "boostPerLevel": 0.03,
+    "difficultyMultiplier": 0.3,
+    "cost": 1000,
+    "rankGain": 1,
+    "ID": 2
+  },
+  {
+    "name": "Raise Funds",
+    "effect": "Gain Funds",
+    "effectDescription": "Earn money based on your support",
+    "boostPerLevel": 0.25,
+    "rankGain": 1,
+    "ID": 3
+  },
+  {
+    "name": "Make Empty Promises",
+    "effect": "",
+    "effectDescription": "Increases support for your campaign by 3%",
+    "difficultyMultiplier": 0.8,
+    "ID": 4
+  },
+  {
+    "name": "Apologize For Rude Comments",
+    "effect": "Schmooze With Boss,Schmooze With Coworkers",
+    "effectDescription": "Increases support for your campaign by 3%",
+    "showRequirements": "Give Speech From Megaphone Van:10",
+    "unlockRequirements": "Give Speech From Megaphone Van:10",
+    "isShown": false,
+    "isLocked": true,
+    "difficultyMultiplier": 0.8,
+    "boostPerLevel": 0.035,
+    "ID": 5
+  },
+  {
+    "name": "Focus On Fundraising",
+    "effectDescription": "Boost fundraising by 10%",
+    "effect": "Fundraising:0.1",
+    "state": "Normal",
+    "ID": 6
+  },
+  {
+    "name": "Focus On Gaining Popularity",
+    "effectDescription": "Boost popularity gain by 8%",
+    "effect": "Popularity:0.08",
+    "state": "Normal",
+    "ID": 7
+  },
+  {
+    "name": "Focus On Gaining Support",
+    "effectDescription": "Boost support gain by 5%",
+    "effect": "Support:0.05",
+    "state": "Normal",
+    "ID": 8
+  },
+  {
+    "name": "Target Young Voters",
+    "effectDescription": "Gain support and popularity from the Young demographic",
+    "effect": "Youth",
+    "state": "Normal",
+    "ID": 9
+  },
+  {
+    "name": "Target Elderly Voters",
+    "effect": "Elderly",
+    "effectDescription": "Gain support and popularity from the Eldery demographic",
+    "state": "Normal",
+    "ID": 10
+  },
+  {
+    "name": "Target Wealthy Voters",
+    "effect": "Wealthy",
+    "effectDescription": "Gain support and popularity from Wealthy individuals",
+    "state": "Normal",
+    "ID": 11
+  },
+  {
+    "name": "Target Poor Voters",
+    "effect": "Poor",
+    "effectDescription": "Gain support and popularity from Poor individuals",
+    "state": "Normal",
+    "ID": 12
+  },
+  {
+    "name": "Target Middle Class Voters",
+    "effect": "Middle Class",
+    "effectDescription": "Gain support and popularity from the middle class",
+    "state": "Normal",
+    "ID": 13
+  },
+  {
+    "name": "Target Urban Voters",
+    "effect": "Urban",
+    "effectDescription": "Gain support and popularity from city folk",
+    "state": "Normal",
+    "ID": 14
+  },
+  {
+    "name": "Target Rural Voters",
+    "effect": "Rural",
+    "effectDescription": "Gain support and popularity from rural farm folk",
+    "state": "Normal",
+    "ID": 15
+  }
+
+
+]

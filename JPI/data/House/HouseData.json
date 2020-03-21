@@ -1,0 +1,148 @@
+[
+  {
+    "name": "Parent's House",
+    "rent": 0,
+    "commute": 120,
+    "description": "Live with your parents. It's free, and they won't kick you out even though they probably should.",
+    "layoutGrid": [
+      [0,0],
+      [0,0]
+    ]
+  },
+  {
+    "name": "One Room Apartment",
+    "rent": 20000,
+    "commute": 60,
+    "description": "An incredibly small apartment. There's a separate room for the toilet, so it's technically two rooms! Cockroaches incl. at no cost.",
+    "layoutGrid": [
+      [0,0,0],
+      [0,0,0],
+      [0,0,0]
+    ]
+  },
+  {
+    "name": "1K Apartment",
+    "rent": 35000,
+    "commute": 60,
+    "description": "A very small apartment with a separate kitchen. You no longer need to heat your cup ramen in the same room you eat it in!",
+    "layoutGrid": [
+      [0,0,0,0],
+      [0,0,0,0],
+      [0,0,1,5],
+      [0,0,1,5]
+    ]
+  },
+  {
+    "name": "2K Apartment",
+    "rent": 45000,
+    "commute": 60,
+    "description": "An apartment with two rooms and a kitchen. What will you do with all that extra space?",
+    "layoutGrid": [
+      [0,0,1,5,5],
+      [0,0,1,5,5],
+      [0,0,1,0,0],
+      [0,0,0,0,0]
+    ]
+
+  },
+  {
+    "name": "2DK Apartment",
+    "rent": 128000,
+    "commute": 40,
+    "description": "A decent sized apartment, perfect for more than one person to live in at the same time.",
+    "layoutGrid": [
+      [ 5, 5, 1, 0, 0, 0 ],
+      [ 5, 5, 1, 0, 0, 0 ],
+      [ 0, 0, 1, 0, 0, 0 ],
+      [ 0, 0, 1, 0, 1, 0 ],
+      [ 0, 0, 0, 0, 1, 0 ]
+    ]
+  },
+  {
+    "name": "2LDK Apartment",
+    "rent": 280000,
+    "commute": 60,
+    "description": "A full sized apartment with a living room, dining room, kitchen, and two bedrooms.",
+    "layoutGrid": [
+      [ 5, 5, 1, 0, 0, 0, 0 ],
+      [ 5, 5, 1, 0, 0, 0, 0 ],
+      [ 5, 5, 1, 0, 0, 0, 0 ],
+      [ 0, 0, 1, 0, 0, 0, 0 ],
+      [ 0, 0, 1, 0, 1, 1, 1 ],
+      [ 0, 0, 0, 0, 0, 0, 0 ],
+      [ 0, 0, 0, 0, 0, 0, 0 ]
+    ]
+  },
+  {
+    "name": "Large 2LDK Apartment",
+    "rent": 650000,
+    "commute": 30,
+    "description": "A very spacious 2LDK, perfect for a wealthy couple with no kids."
+  },
+  {
+    "name": "3LDK Apartment",
+    "rent": 1490000,
+    "commute": 30,
+    "description": "A full sized apartment with a living room, dining room, kitchen, and three bedrooms. Good for a growing family."
+  },
+  {
+    "name": "4LDK Apartment",
+    "rent": 3220000,
+    "commute": 30,
+    "description": "A massive apartment with 4 bedrooms located in downtown Tokyo."
+  },
+  {
+    "name": "Luxurious 4LDK",
+    "rent": 4550000,
+    "commute": 20,
+    "description": "An extremely luxurious apartment for a wealthy businessman."
+  },
+  {
+    "name": "Small Mansion",
+    "cost": 3500000,
+    "commute": 20,
+    "description": "A small condo for a starting family. High purchase cost but no rent price."
+  },
+  {
+    "name": "Mansion",
+    "cost": 8800000,
+    "commute": 20,
+    "description": "A regular condo."
+  },
+  {
+    "name": "Mansion",
+    "cost": 15600000,
+    "commute": 20,
+    "description": "A regular condo."
+  },
+  {
+    "name": "Mansion",
+    "cost": 374800000,
+    "commute": 15,
+    "description": "A regular condo."
+  },
+  {
+    "name": "Mansion",
+    "cost": 558800000,
+    "commute": 10,
+    "description": "A regular condo."
+  },
+  {
+    "name": "Mansion",
+    "cost": 880000000,
+    "commute": 10,
+    "description": "A regular condo."
+  },
+  {
+    "name": "Mansion",
+    "cost": 3500000000,
+    "commute": 5,
+    "description": "A regular condo."
+  },
+  {
+    "name": "Mansion",
+    "cost": 25900000000,
+    "commute": 0,
+    "description": "A regular condo."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Super Saver Public School",
+    "description": "Save money, at the cost of any quality education.",
+    "cost": 0
+  },
+  {
+    "name": "Public School",
+    "description": "A regular public school. The standard education.",
+    "cost": 1900000
+  },
+  {
+    "name": "Public School + Juku",
+    "description": "A regular public school and standard after school tutoring.",
+    "cost": 2300000
+  },
+  {
+    "name": "Private School",
+    "description": "A standard prive school. Smaller class sizes and more directed educational practices.",
+    "cost": 3000000
+  },
+  {
+    "name": "Private School + Juku",
+    "description": "A standard prive school and guided after school tutoring.",
+    "cost": 3400000
+  },
+  {
+    "name": "Daitou University Middle Preparatory School",
+    "description": "Not required for attending Daitou University, but an easy guaranteed path for those with money.",
+    "cost": 4710000
+  }
+]

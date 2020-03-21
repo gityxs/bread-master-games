@@ -1,0 +1,65 @@
+[
+  {
+    "Name": "Meet Coworkers",
+    "effect": "New Coworker",
+    "effectDescription": "Meet a new coworker",
+    "difficultyMultiplier": 2,
+    "state": "Normal",
+    "ID": 0,
+    "maxLevel": 5
+  },
+  {
+    "name": "Meet Boss",
+    "effect": "Boss",
+    "effectDescription": "Meet your boss",
+    "difficultyMultiplier": 3,
+    "state": "Normal",
+    "ID": 1,
+    "maxLevel": 1
+  },
+  {
+    "name": "Optimize Time Use",
+    "effect": "Work Bonus",
+    "effectDescription": "Learn to use your time at work more effectively. 1% More work done per hour per level.",
+    "boostPerLevel": 0.01,
+    "difficultyMultiplier": 1,
+    "state": "Normal",
+    "maxLevel": 1000,
+    "showExp": true,
+    "hideOnMax": false,
+    "ID": 2
+  },
+  {
+    "name": "Build Motivational Habits",
+    "effect": "Motivation Bonus",
+    "effectDescription": "Become a more driven person: Motivation gain +10% per Ganbaru Point",
+    "difficultyMultiplier": 1,
+    "state": "Normal",
+    "ID": 3,
+    "hideOnMax": false,
+    "showExp": true,
+    "maxLevel": 250
+  },
+  {
+    "name": "Develop Skill Learning Strategies",
+    "effect": "Skill Bonus",
+    "effectDescription": "Learn to learn: Skill gain +10% per Ganbaru Point",
+    "difficultyMultiplier": 5,
+    "state": "Normal",
+    "showExp": true,
+    "ID": 4,
+    "hideOnMax": false,
+    "maxLevel": 1000
+  },
+  {
+    "name": "Grow Your Yaruki",
+    "effect": "Ganbaru Points",
+    "effectDescription": "Grow in spirit, Ganbaru. +7% <img style=\"width:25px;height:25px;margin-top:-3px;\"src=\"data/Images/Ganbaru3.png\" /> gained",
+    "difficultyMultiplier": 5,
+    "state": "Normal",
+    "showExp": true,
+    "ID": 5,
+    "hideOnMax": false,
+    "maxLevel": 1000
+  }
+]

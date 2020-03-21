@@ -1,0 +1,278 @@
+[
+  {
+    "name": "Wagashi",
+    "rarity": "Common"
+  },
+  {
+    "name": "Sakura Mochi",
+    "rarity": "Common"
+  },
+  {
+    "name": "Ohagi",
+    "rarity": "Common"
+  },
+  {
+    "name": "Mitarashi Dango",
+    "rarity": "Common"
+  },
+  {
+    "name": "Nattou",
+    "rarity": "Common"
+  },
+  {
+    "name": "Soumen",
+    "rarity": "Common"
+  },
+  {
+    "name": "Menchi Katsu",
+    "rarity": "Common"
+  },
+  {
+    "name": "Chawanmushi",
+    "rarity": "Common"
+  },
+  {
+    "name": "Toufu",
+    "rarity": "Common"
+  },
+  {
+    "name": "Poteto Sarada",
+    "rarity": "Common"
+  },
+  {
+    "name": "Yasai",
+    "rarity": "Common"
+  },
+  {
+    "name": "Korokke",
+    "rarity": "Common"
+  },
+  {
+    "name": "Howaito Sandaa",
+    "rarity": "Common"
+  },
+  {
+    "name": "Sutoroberii Choko Miruku",
+    "rarity": "Common"
+  },
+  {
+    "name": "Yaki Imo",
+    "rarity": "Common"
+  },
+  {
+    "name": "Niku Jaga",
+    "rarity": "Common"
+  },
+  {
+    "name": "Chikin Nanban",
+    "rarity": "Common"
+  },
+  {
+    "name": "Tamago Yaki",
+    "rarity": "Common"
+  },
+  {
+    "name": "Edamame",
+    "rarity": "Common"
+  },
+  {
+    "name": "Butaniku no Shougayaki",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Karei no Nitsuke",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Tai no Nitsuke",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Nihoncha",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Kani Nabe",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Kani Kuriimu Korokke",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Oden",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Konnyaku",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Daikon",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Oden Tamago",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Okome",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Ebi Furai",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Aji Furai",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Saamon Furai",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Kaki Furai",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Omuraisu",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Bataa Shouyu Pasuta",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Naporitan",
+    "rarity": "Uncommon"
+  },
+  {
+    "name": "Oyako Don",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Gyuudon",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Katsudon",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Soba",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Okonomiyaki",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Miso Shiru",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Gyuutan",
+    "rarity": "Super Rare"
+  },
+  {
+    "name": "Ichigo",
+    "rarity": "Super Rare"
+  },
+  {
+    "name": "Meron",
+    "rarity": "Super Rare"
+  },
+  {
+    "name": "Kaki",
+    "rarity": "Super Rare"
+  },
+  {
+    "name": "Nashi",
+    "rarity": "Super Rare"
+  },
+  {
+    "name": "Yose Nabe",
+    "rarity": "Super Rare"
+  },
+  {
+    "name": "Mizutaki",
+    "rarity": "Super Rare"
+  },
+  {
+    "name": "Chanko Nabe",
+    "rarity": "Super Rare"
+  },
+  {
+    "name": "Unajuu",
+    "rarity": "Super Rare"
+  },
+  {
+    "name": "Yakizakana",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Onigiri",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Takoyaki",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Yakisoba",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Sukiyaki",
+    "rarity": "Super Rare"
+  },
+  {
+    "name": "Udon",
+    "rarity": "Rare"
+  },
+  {
+    "name": "Shabu Shabu",
+    "rarity": "Super Super Rare"
+  },
+  {
+    "name": "Tonkatsu",
+    "rarity": "Super Super Rare"
+  },
+  {
+    "name": "Gyouza",
+    "rarity": "Super Super Rare"
+  },
+  {
+    "name": "Yakitori",
+    "rarity": "Super Super Rare"
+  },
+  {
+    "name": "Karee Raisu",
+    "rarity": "Super Super Rare"
+  },
+  {
+    "name": "Karaage",
+    "rarity": "Super Super Rare"
+  },
+  {
+    "name": "Sashimi",
+    "rarity": "Super Super Rare"
+  },
+  {
+    "name": "Tempura",
+    "rarity": "Super Super Rare"
+  },
+  {
+    "name": "Raamen",
+    "rarity": "Ultra Rare"
+  },
+  {
+    "name": "Yakiniku",
+    "rarity": "Ultra Rare"
+  },
+  {
+    "name": "Sushi",
+    "rarity": "Ultra Rare"
+  }
+]

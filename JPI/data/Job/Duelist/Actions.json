@@ -1,0 +1,83 @@
+[
+  {
+    "Name": "Play Card Games",
+    "effect": "Card Game Skill",
+    "effectDescription": "Increases your card game skill.",
+    "unlocks": "Travel To Tournaments:10",
+    "boostPerLevel": 1,
+    "difficultyMultiplier": 1.2,
+    "ID": 1
+  },
+  {
+    "Name": "Improve Deck Composition",
+    "effect": "Deck",
+    "effectDescription": "Increases your deck's potential.",
+    "boostPerLevel": 1,
+    "difficultyMultiplier": 1.4,
+    "ID": 2
+  },
+  {
+    "Name": "Buy Cards",
+    "effect": "Deck",
+    "effectDescription": "Increases your deck's potential quickly, but at a cost.",
+    "boostPerLevel": 1,
+    "difficultyMultiplier": 1.1,
+    "ID": 3
+  },
+  {
+    "Name": "Trade Cards",
+    "effect": "Deck",
+    "effectDescription": "Increases your deck's minimum potential.",
+    "boostPerLevel": 1,
+    "difficultyMultiplier": 1.3,
+    "ID": 4
+  },
+  {
+    "Name": "Travel To Tournaments",
+    "effect": "Card Game Skill, Prestige",
+    "effectDescription": "Increases your card game skill and makes a name for yourself.",
+    "unlocks": "Enter World Championship:10",
+    "boostPerLevel": 1,
+    "difficultyMultiplier": 1.6,
+    "ID": 5
+  },
+  {
+    "Name": "Enter World Championship",
+    "effect": "Card Game Skill, Prestige, Deck",
+    "effectDescription": "Compete for the title of best card game player on a desert island.",
+    "unlocks": "Earn Corn Chips:1/Defeat Good Players:1",
+    "boostPerLevel": 1,
+    "isButton": true,
+    "hideOnUnlock": true,
+    "difficultyMultiplier": 1.2,
+    "ID": 6
+  },
+  {
+    "Name": "Earn Corn Chips",
+    "effect": "Chips",
+    "effectDescription": "Increases your chips.",
+    "unlocks": "Win The Tournament:5",
+    "boostPerLevel": 3,
+    "difficultyMultiplier": 1.1,
+    "ID": 7
+  },
+  {
+    "Name": "Defeat Good Players",
+    "effect": "Chips",
+    "effectDescription": "Increases your chips.",
+    "unlocks": "Win The Tournament:5",
+    "boostPerLevel": 8,
+    "difficultyMultiplier": 1.5,
+    "ID": 8
+  },
+  {
+    "Name": "Win The Tournament",
+    "effect": "Card Game Skill, Prestige, Deck",
+    "effectDescription": "Claim the title of World Champion.",
+    "unlocksRequired": 2,
+    "unlockDescription": "Total Corn Chips:100",
+    "boostPerLevel": 1,
+    "difficultyMultiplier": 1.2,
+    "ID": 9
+  }
+]

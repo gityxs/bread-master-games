@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Beginner Duelist",
+    "ID": 0,
+    "Salary": 10000,
+    "DifficultyMultiplier": 25,
+    "workLevel": 10,
+    "minimumWorkMinutes": 400,
+    "AddedActionNames": [
+      "Play Card Games",
+      "Improve Deck Composition",
+      "Travel To Tournaments"
+    ]
+  },
+  {
+    "Name": "Adept Duelist",
+    "ID": 1,
+    "Salary": 13000,
+    "DifficultyMultiplier": 35,
+    "workLevel": 10,
+    "minimumWorkMinutes": 400
+  }
+]

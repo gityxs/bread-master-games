@@ -1,0 +1,281 @@
+[
+  {
+    "Name": "Microwaver",
+    "ID": 0,
+    "DifficultyMultiplier": 2,
+    "AddedActionNames": [
+      "Learn New Recipes",
+      "Read Cookbook",
+      "Eat Food"
+    ]
+  },
+  {
+    "Name": "Egg Burner",
+    "ID": 1,
+    "DifficultyMultiplier": 4,
+    "AddedActionNames": [
+      "Take Cooking Classes"
+    ]
+  },
+  {
+    "Name": "Crockpot Novice",
+    "ID": 2,
+    "DifficultyMultiplier": 6
+  },
+  {
+    "Name": "Successfully Cooks Some Dishes",
+    "ID": 3,
+    "DifficultyMultiplier": 9,
+    "AddedActionNames": [
+      "Make a Dish",
+      "Try New Recipe"
+    ]
+  },
+  {
+    "Name": "Spice User",
+    "ID": 4,
+    "DifficultyMultiplier": 15
+  },
+  {
+    "Name": "Sushi Slicer",
+    "ID": 5,
+    "DifficultyMultiplier": 20
+  },
+  {
+    "Name": "Competent Cook",
+    "ID": 6,
+    "DifficultyMultiplier": 23,
+    "RemovedActionNames": [
+      "Take Cooking Classes"
+    ]
+  },
+  {
+    "Name": "Recipe Designer",
+    "ID": 7,
+    "DifficultyMultiplier": 30,
+    "AddedActionNames": [
+      "Create New Recipes"
+    ]
+  },
+  {
+    "Name": "Culinary Artist",
+    "ID": 8,
+    "DifficultyMultiplier": 40
+  },
+  {
+    "Name": "Amateur Chef",
+    "ID": 9,
+    "DifficultyMultiplier": 50
+  },
+  {
+    "Name": "Skilled Chef",
+    "ID": 10,
+    "DifficultyMultiplier": 70
+  },
+  {
+    "Name": "Brilliant Chef",
+    "ID": 11,
+    "DifficultyMultiplier": 90
+  },
+  {
+    "Name": "Iron Chef",
+    "ID": 12,
+    "DifficultyMultiplier": 130
+  },
+  {
+    "Name": "King Chef",
+    "ID": 13,
+    "DifficultyMultiplier": 175
+  },
+  {
+    "Name": "Ryouri Jinbutsu",
+    "ID": 14,
+    "DifficultyMultiplier": 250,
+    "AddedActionNames": [
+      "Write Cookbooks"
+    ]
+  },
+  {
+    "Name": "Sekai Ichi Ryouri Jinbutsu",
+    "ID": 15,
+    "DifficultyMultiplier": 500
+  },
+  {
+    "Name": "Total Noob",
+    "ID": 16,
+    "DifficultyMultiplier": 1,
+    "AddedActionNames": [
+      "Practice Techskill",
+      "Watch Matches",
+      "Play With Friends"
+    ]
+  },
+  {
+    "Name": "Beginner",
+    "ID": 17,
+    "DifficultyMultiplier": 3
+  },
+  {
+    "Name": "0-2 Fodder",
+    "ID": 18,
+    "DifficultyMultiplier": 6,
+    "AddedActionNames": [
+      "Study Matches",
+      "Enter Tournaments"
+    ]
+  },
+  {
+    "Name": "Occasional Match Winner",
+    "ID": 19,
+    "DifficultyMultiplier": 12,
+    "AddedActionNames": [
+      "Money Match Players"
+    ]
+  },
+  {
+    "Name": "Competent But Bad",
+    "ID": 20,
+    "DifficultyMultiplier": 21
+  },
+  {
+    "Name": "Competent",
+    "ID": 21,
+    "DifficultyMultiplier": 35
+  },
+  {
+    "Name": "Above Average",
+    "ID": 22,
+    "DifficultyMultiplier": 51,
+    "AddedActionNames": [
+      "Play Top Players"
+    ]
+  },
+  {
+    "Name": "HM on PR",
+    "ID": 23,
+    "DifficultyMultiplier": 75
+  },
+  {
+    "Name": "Power Ranked",
+    "ID": 24,
+    "DifficultyMultiplier": 101
+  },
+  {
+    "Name": "Top 3 in City",
+    "ID": 25,
+    "DifficultyMultiplier": 135,
+    "DDEDActionNames": [
+      "Enter Large Tournaments"
+    ]
+  },
+  {
+    "Name": "Best Player in City",
+    "ID": 26,
+    "DifficultyMultiplier": 151
+  },
+  {
+    "Name": "Top 5 in Japan",
+    "ID": 27,
+    "DifficultyMultiplier": 175
+  },
+  {
+    "Name": "Best Player in Japan",
+    "ID": 28,
+    "DifficultyMultiplier": 201,
+    "AddedActionNames": [
+      "Enter International Tournaments"
+    ]
+  },
+  {
+    "Name": "Top 10 Worldwide",
+    "ID": 29,
+    "DifficultyMultiplier": 301
+  },
+  {
+    "Name": "Top 5 Worldwide",
+    "ID": 30,
+    "DifficultyMultiplier": 401,
+    "AddedActionNames": [
+      "Invite Top Players to Practice"
+    ]
+  },
+  {
+    "Name": "Contender for Best in the World",
+    "ID": 31,
+    "DifficultyMultiplier": 501
+  },
+  {
+    "Name": "Best in the World",
+    "ID": 32,
+    "DifficultyMultiplier": 601
+  },
+  {
+    "Name": "The Greatest of All Time",
+    "ID": 33,
+    "DifficultyMultiplier": 777
+  },
+  {
+    "Name": "Casual Viewer",
+    "ID": 34,
+    "DifficultyMultiplier": 2,
+    "AddedActionNames": [
+      "Watch Anime",
+      "Read Manga"
+    ]
+  },
+  {
+    "Name": "Long-time Viewer",
+    "ID": 35,
+    "DifficultyMultiplier": 2
+  },
+  {
+    "Name": "MAL User",
+    "ID": 36,
+    "DifficultyMultiplier": 2
+  },
+  {
+    "Name": "Obscure Anime Viewer",
+    "ID": 37,
+    "DifficultyMultiplier": 2
+  },
+  {
+    "Name": "Otaku",
+    "ID": 38,
+    "DifficultyMultiplier": 2
+  },
+  {
+    "Name": "Merch Buyer",
+    "ID": 39,
+    "DifficultyMultiplier": 2
+  },
+  {
+    "Name": "Pillow Owner",
+    "ID": 40,
+    "DifficultyMultiplier": 2
+  },
+  {
+    "Name": "Anime Addict",
+    "ID": 41,
+    "DifficultyMultiplier": 2
+  },
+  {
+    "Name": "Even Seen the Bad Ones",
+    "ID": 42,
+    "DifficultyMultiplier": 2
+  },
+  {
+    "Name": "Practically 2D",
+    "ID": 43,
+    "DifficultyMultiplier": 2
+  },
+    {
+    "Name": "Isekai Adventurer",
+    "ID": 44,
+    "DifficultyMultiplier": 2,
+    "AddedActionNames": [
+      "Enter Isekai World"
+    ]
+  }
+
+
+]

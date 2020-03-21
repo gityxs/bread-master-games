@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "Strength",
+    "effect": "Strength",
+    "effectDescription": "Increases Strength",
+    "boostPerLevel": 0.1,
+    "difficultyMultiplier": 1,
+    "ID": 1000,
+    "maxLevel": 100
+  },
+  {
+    "Name": "Charisma",
+    "effect": "Charisma",
+    "effectDescription": "Increases Charisma",
+    "boostPerLevel": 0.1,
+    "difficultyMultiplier": 1,
+    "ID": 1001,
+    "maxLevel": 100
+  },
+  {
+    "Name": "Intelligence",
+    "effect": "Intelligence",
+    "effectDescription": "Increases Intelligence",
+    "boostPerLevel": 0.1,
+    "difficultyMultiplier": 1,
+    "ID": 1002,
+    "maxLevel": 100
+  }
+
+]

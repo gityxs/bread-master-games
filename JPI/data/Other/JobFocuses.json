@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Boss Opinion",
+    "ganbaruPointsPerExp": 15,
+    "maxLevel": 100,
+    "state": "Hidden",
+    "promotionValue": 0.75
+  },
+  {
+    "name": "Coworker Opinion",
+    "ganbaruPointsPerExp": 8,
+    "maxLevel": 100,
+    "state": "Hidden",
+    "promotionValue": 0.45
+  },
+  {
+    "name": "Motivation",
+    "ganbaruPointsPerExp": 500,
+    "maxLevel": 100,
+    "state": "Hidden",
+    "promotionValue": 2
+  },
+  {
+    "name": "Declarative Knowledge",
+    "ganbaruPointsPerExp": 5,
+    "maxLevel": 100,
+    "state": "Hidden",
+    "promotionValue": 0.5
+  },
+  {
+    "name": "Skill",
+    "maxLevel": 100,
+    "state": "Normal",
+    "ganbaruPointsPerExp": 1,
+    "promotionValue": 0.25
+  }
+]

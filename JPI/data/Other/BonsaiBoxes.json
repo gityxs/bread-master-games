@@ -1,0 +1,108 @@
+[
+  {
+    "name": "Box 1",
+    "xPos": 0,
+    "yPos": 10,
+    "purchasedColor": "saddlebrown"
+  },
+  {
+    "name": "Box 1.2",
+    "xPos": 0,
+    "yPos": 90,
+    "parentName": "Box 1",
+    "purchasedColor": "saddlebrown"
+  },
+  {
+    "name": "Box 2",
+    "xPos": 80,
+    "yPos": 170,
+    "parentName": "Box 1.2",
+    "stemSize": 40
+  },
+  {
+    "name": "Box 3",
+    "xPos": -80,
+    "yPos": 170,
+    "parentName": "Box 1.2"
+  },
+  {
+    "name": "Box 4",
+    "xPos": -190,
+    "yPos": 220,
+    "parentName": "Box 3"
+  },
+  {
+    "name": "Box 5",
+    "xPos": 160,
+    "yPos": 220,
+    "parentName": "Box 2",
+    "stemSize": 35
+  },
+  {
+    "name": "Box 6",
+    "xPos": 250,
+    "yPos": 290,
+    "parentName": "Box 5"
+  },
+  {
+    "name": "Box 7",
+    "xPos": 70,
+    "yPos": 280,
+    "parentName": "Box 5",
+    "stemSize": 30
+  },
+  {
+    "name": "Box 8",
+    "xPos": 280,
+    "yPos": 360,
+    "parentName": "Box 6"
+  },
+  {
+    "name": "Box 9",
+    "xPos": 350,
+    "yPos": 250,
+    "parentName": "Box 6"
+  },
+  {
+    "name": "Box 10",
+    "xPos": 430,
+    "yPos": 210,
+    "parentName": "Box 9",
+    "stemSize": 10
+  },
+  {
+    "name": "Box 11",
+    "xPos": 360,
+    "yPos": 160,
+    "parentName": "Box 9",
+    "stemSize": 10
+  },
+  {
+    "name": "Box 12",
+    "xPos": 290,
+    "yPos": 190,
+    "parentName": "Box 9",
+    "stemSize": 10
+  },
+  {
+    "name": "Box 13",
+    "xPos": 300,
+    "yPos": 450,
+    "parentName": "Box 8",
+    "stemSize": 10
+  },
+  {
+    "name": "Box 14",
+    "xPos": 370,
+    "yPos": 420,
+    "parentName": "Box 8",
+    "stemSize": 10
+  },
+  {
+    "name": "Box 15",
+    "xPos": 220,
+    "yPos": 430,
+    "parentName": "Box 8",
+    "stemSize": 10
+  }
+]

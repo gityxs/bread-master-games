@@ -1,0 +1,28 @@
+[
+  {
+    "Name": "Sonchou",
+    "ID": 0,
+    "Salary": 37000,
+    "DifficultyMultiplier": 25,
+    "workLevel": 10,
+    "AddedActionNames": [
+      "Focus On Fundraising",
+      "Focus On Gaining Popularity",
+      "Focus On Gaining Support",
+      "Target Young Voters",
+      "Target Elderly Voters",
+      "Target Wealthy Voters",
+      "Target Poor Voters",
+      "Target Middle Class Voters",
+      "Target Urban Voters",
+      "Target Rural Voters"
+    ]
+  },
+  {
+    "Name": "Chouchou",
+    "ID": 1,
+    "Salary": 37000,
+    "DifficultyMultiplier": 25,
+    "workLevel": 10
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Make Some Tea",
+    "effect": "",
+    "unlocks": "",
+    "effectDescription": "Drink Delicious Tea",
+    "state": "Normal",
+    "ID": 0
+  },
+  {
+    "Name": "Do Nothing",
+    "effect": "",
+    "effectDescription": "Do nothing but exist",
+    "difficultyMultiplier": 10,
+    "state": "Normal",
+    "ID": 1
+  },
+  {
+    "Name": "Watch Anime",
+    "effect": "Anime",
+    "effectDescription": "Grow In Wisdom",
+    "difficultyMultiplier": 0.1,
+    "state": "Normal",
+    "ID": 2
+  },
+  {
+    "Name": "Play MMOs",
+    "effect": "Play MMOs",
+    "effectDescription": "Farm gold for money",
+    "difficultyMultiplier": 0.01,
+    "state": "Normal",
+    "ID": 3
+  }
+
+]

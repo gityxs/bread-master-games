@@ -1,0 +1,53 @@
+[
+  {
+    "Name": "Chat With $",
+    "effect": "Improve Relations $",
+    "effectDescription": "Improve relations with $",
+    "boostPerLevel": 1,
+    "difficultyMultiplier": 0.5,
+    "unlocks": "Get To Know $:10",
+    "hideOnUnlock": true,
+    "isShown": true,
+    "maxLevel": 10
+  },
+  {
+    "Name": "Get To Know $",
+    "effect": "Learn Stats $",
+    "effectDescription": "Get to know $'s stats",
+    "boostPerLevel": 1,
+    "difficultyMulitplier": 1,
+    "unlocksRequired": 1,
+    "hideOnMax": true,
+    "maxLevel": 50,
+    "state": "Hidden"
+  },
+  {
+    "name": "Go On Cheap Date With $",
+    "effect": "Improve Relations $",
+    "effectDescription": "Visit the park, free art gallery, or historical site for cheap",
+    "state": "Hidden",
+    "cost": 1000,
+    "unlockIfDating": true,
+    "maxLevel": 100
+  },
+  {
+    "name": "Go On Date With $",
+    "effect": "Improve Relations $",
+    "effectDescription": "Visit a restaurant, movie theater, or the aquarium",
+    "state": "Hidden",
+    "cost": 4000,
+    "unlockIfDating": true,
+    "maxLevel": 100
+  },
+  {
+    "name": "Go On Extravagant Date With $",
+    "effect": "Improve Relations $",
+    "effectDescription": "Take your data fine dining, on ferry rides and shopping trips",
+    "state": "Hidden",
+    "cost": 10000,
+    "unlockIfDating": true,
+    "maxLevel": 100
+  }
+
+
+]

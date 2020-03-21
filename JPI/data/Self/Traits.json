@@ -1,0 +1,132 @@
+[
+  {
+    "Name": "Friendly",
+    "Description": "Gain the power of people liking you more. Relationships improve 15% faster.",
+    "Group": "Charisma",
+    "subGroup": "Private",
+    "Effect": "Friendly",
+    "ModifiedStat": "Relationships",
+    "Image": "GoodDad",
+    "Power": 0.15
+  },
+  {
+    "Name": "Likability at a Distance",
+    "Description": "People like you before ever meeting you. Start relationships with 5000 Relationship Points",
+    "Group": "Charisma",
+    "subGroup": "Public",
+    "Effect": "Likability",
+    "ModifiedStat": "Relationship Points",
+    "additiveBonus": true,
+    "Image": "Charm",
+    "Power": 5000
+  },
+  {
+    "Name": "Marriage Material",
+    "Description": "Who wouldn't want to marry you? Marriage success odds +30%",
+    "Group": "Charisma",
+    "subGroup": "Private",
+    "Effect": "Marriage Material",
+    "Image": "Marriage",
+    "Power": 0.3
+  },
+  {
+    "Name": "I can do it myself, mom!",
+    "Description": "Convince your mother to hold off on an arranged marriage for an extra 5 years.",
+    "Group": "Charisma",
+    "subGroup": "Private",
+    "Effect": "Delayed Arranged Marriage",
+    "Image": "LoveTime",
+    "Power": 5
+  },
+  {
+    "Name": "Speed Dating",
+    "Description": "Unlocking this trait instantly pairs you with two new marriage candidates.",
+    "Group": "Charisma",
+    "subGroup": "Public",
+    "Effect": "Speed Dating",
+    "Image": "SpeedDate",
+    "Power": 2
+  },
+  {
+    "Name": "The Boss Likes You Now",
+    "Description": "Increasing your Boss Opinion now costs 25% less.",
+    "Group": "Charisma",
+    "subGroup": "Public",
+    "Effect": "Boss Opinion Discount",
+    "Image": "BossLove",
+    "Power": 0.25
+  },
+  {
+    "Name": "Office Hero",
+    "Description": "Increasing your Coworker Opinion now costs 25% less.",
+    "Group": "Charisma",
+    "subGroup": "Private",
+    "Effect": "Coworker Opinion Discount",
+    "Image": "OfficeLove",
+    "Power": 0.25
+  },
+  {
+    "Name": "Clear Mind",
+    "Description": "Build strength to build a better you. 15% faster Strength, Charisma, and Intelligence gain.",
+    "Group": "Strength",
+    "subGroup": "Healthy",
+    "Effect": "Self Gain",
+    "ModifiedStat": "Self",
+    "Image": "ClearMind",
+    "Power": 0.15
+  },
+  {
+    "Name": "Intimidation",
+    "Description": "Intimidate everyone you meet with your superior Strength. Boosts Promotion and Electability.",
+    "Group": "Strength",
+    "subGroup": "Powerful",
+    "Effect": "Intimidation",
+    "Image": "Intimidate",
+    "Power": 1
+  },
+  {
+    "Name": "Healthy Lifestyle",
+    "Description": "You're strong and healthy. Extends your life by 5 years. (Note:This does not affect retirement age.)",
+    "Group": "Strength",
+    "subGroup": "Healthy",
+    "Effect": "Lifespan",
+    "Image": "Healthy",
+    "Power": 5
+  },
+  {
+    "Name": "Strong Leader",
+    "Description": "Intimidate everyone you meet with your superior Strength. Boosts Promotion and Electability.",
+    "Group": "Strength",
+    "subGroup": "Powerful",
+    "Effect": "Intimidation",
+    "Image": "StrongLeader",
+    "Power": 1
+  },
+  {
+    "Name": "Powerful Sleeper",
+    "Description": "Work Hard, Sleep Hard. Reduce required sleep time by 10%",
+    "Group": "Strength",
+    "subGroup": "Healthy",
+    "Effect": "Powerful Sleeper",
+    "Image": "PowerSleep",
+    "Power": -0.1
+  },
+  {
+    "Name": "Extra Strong",
+    "Description": "Being strong sometimes means being really strong. +5 Strength levels to anything that checks or requires Strength.",
+    "Group": "Strength",
+    "subGroup": "Powerful",
+    "Effect": "Extra Strong",
+    "Image": "Strong",
+    "Power": 5
+  },
+  {
+    "Name": "Clever Clogs",
+    "Description": "You're a know-it-all and you know it. +10% faster skill gain.",
+    "Group": "Intelligence",
+    "subGroup": "Book",
+    "Effect": "Skill Gain",
+    "Image": "Smart",
+    "Power": 0.1
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "Name": "Shinyuusha",
+    "ID": 0,
+    "Salary": 12000,
+    "DifficultyMultiplier": 25,
+    "workLevel": 10,
+    "minimumWorkMinutes": 480,
+    "AddedActionNames": [
+      "Meet Coworkers",
+      "Meet Boss",
+      "Optimize Time Use",
+      "Build Motivating Habits",
+      "Develop Skill Learning Strategies",
+      "Grow Your Yaruki"
+    ],
+    "nextPromotionName": "Ippanshain",
+    "description": "You're a new recruit to the office. Get to know your coworkers and boss to reach the next level, of Ippanshain:a regular employee."
+  },
+  {
+    "Name": "Ippanshain",
+    "ID": 1,
+    "Salary": 15000,
+    "minimumWorkMinutes": 480,
+    "workLevel": 30,
+    "DifficultyMultiplier": 50,
+    "nextPromotionName": "Kachoudairi"
+  },
+  {
+    "Name": "Kachoudairi",
+    "ID": 2,
+    "Salary": 22000,
+    "minimumWorkMinutes": 480,
+    "workLevel": 50,
+    "DifficultyMultiplier": 100,
+    "nextPromotionName": "Kachou"
+  },
+  {
+    "Name": "Kachou",
+    "ID": 3,
+    "Salary": 30000,
+    "minimumWorkMinutes": 480,
+    "workLevel": 50,
+    "DifficultyMultiplier": 200,
+    "nextPromotionName": "Buchoudairi"
+  },
+  {
+    "Name": "Buchoudairi",
+    "ID": 4,
+    "Salary": 42000,
+    "minimumWorkMinutes": 480,
+    "workLevel": 50,
+    "DifficultyMultiplier": 700,
+    "nextPromotionName": "Buchou"
+  },
+  {
+    "Name": "Buchou",
+    "ID": 5,
+    "Salary": 70000,
+    "minimumWorkMinutes": 420,
+    "workLevel": 50,
+    "DifficultyMultiplier": 1000,
+    "nextPromotionName": "Torishimariyakudairi"
+  },
+  {
+    "Name": "Torishimariyakudairi",
+    "ID": 6,
+    "Salary": 90000,
+    "minimumWorkMinutes": 420,
+    "workLevel": 50,
+    "DifficultyMultiplier": 1400,
+    "nextPromotionName": "Torishimariyaku"
+  },
+  {
+    "Name": "Torishimariyaku",
+    "ID": 7,
+    "Salary": 138000,
+    "minimumWorkMinutes": 420,
+    "workLevel": 50,
+    "DifficultyMultiplier": 2500,
+    "nextPromotionName": "Jomu Torishimariyakudairi"
+  },
+  {
+    "Name": "Jomu Torishimariyakudairi",
+    "ID": 8,
+    "Salary": 180000,
+    "minimumWorkMinutes": 420,
+    "workLevel": 50,
+    "DifficultyMultiplier": 4500,
+    "nextPromotionName": "Jomu Torishimariyaku"
+  },
+  {
+    "Name": "Jomu Torishimariyaku",
+    "ID": 9,
+    "Salary": 250000,
+    "minimumWorkMinutes": 360,
+    "workLevel": 50,
+    "DifficultyMultiplier": 9000,
+    "nextPromotionName": "Sunmu Torishimariyakudairi"
+  },
+  {
+    "Name": "Sunmu Torishimariyakudairi",
+    "ID": 10,
+    "Salary": 388000,
+    "minimumWorkMinutes": 360,
+    "workLevel": 50,
+    "DifficultyMultiplier": 16000,
+    "nextPromotionName": "Sunmu Torishimariyaku"
+  },
+  {
+    "Name": "Sunmu Torishimariyaku",
+    "ID": 11,
+    "Salary": 598000,
+    "minimumWorkMinutes": 360,
+    "workLevel": 50,
+    "DifficultyMultiplier": 45000,
+    "nextPromotionName": "Fukushachou"
+  },
+  {
+    "Name": "Fukushachou",
+    "ID": 12,
+    "Salary": 1080000,
+    "minimumWorkMinutes": 300,
+    "workLevel": 50,
+    "DifficultyMultiplier": 80000,
+    "nextPromotionName": "Shachou"
+  },
+  {
+    "Name": "Shachou",
+    "ID": 13,
+    "Salary": 2998000,
+    "minimumWorkMinutes": 300,
+    "workLevel": 50,
+    "DifficultyMultiplier": 100000,
+    "nextPromotionName": "Kaichou"
+  },
+  {
+    "Name": "Kaichou",
+    "ID": 14,
+    "Salary": 5080000,
+    "minimumWorkMinutes": 240,
+    "workLevel": 50,
+    "DifficultyMultiplier": 1000000
+  }
+]
