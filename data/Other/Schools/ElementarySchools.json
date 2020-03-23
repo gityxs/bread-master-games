@@ -9,30 +9,35 @@
     "name": "Public School",
     "description": "A regular public school. The standard education.",
     "cost": 1900000,
-    "id": 1
+    "id": 1,
+    "educationBonus": 1
   },
   {
     "name": "Public School + Juku",
     "description": "A regular public school and standard after school tutoring.",
     "cost": 2300000,
-    "id": 2
+    "id": 2,
+    "educationBonus": 2
   },
   {
     "name": "Private School",
     "description": "A standard prive school. Smaller class sizes and more directed educational practices.",
     "cost": 3000000,
-    "id": 3
+    "id": 3,
+    "educationBonus": 4
   },
   {
     "name": "Private School + Juku",
     "description": "A standard prive school and guided after school tutoring.",
     "cost": 3400000,
-    "id": 4
+    "id": 4,
+    "educationBonus": 5
   },
   {
     "name": "Daitou University Elementary Preparatory School",
     "description": "Not required for attending Daitou University, but an easy guaranteed path for those with money.",
     "cost": 4710000,
-    "id": 5
+    "id": 5,
+    "educationBonus": 6
   }
 ]

@@ -23,6 +23,7 @@
     "color": "blue",
     "category": "Bed",
     "comfort": 1,
+    "cost": 13500,
     "description": "A cheap futon. You can sleep in it, but you won't like it."
   },
   {
@@ -30,6 +31,7 @@
     "id": 3,
     "color": "#24411B",
     "category": "Toilet",
+    "cost": 30000,
     "comfort": 1,
     "convenience": 1,
     "description": "It's a toilet. It's cheap. What more do you want?"
@@ -51,6 +53,7 @@
     "color": "blue",
     "category": "Bed",
     "comfort": 2,
+    "cost": 120000,
     "description": "A nice futon for a nice rest."
   },
   {
@@ -60,6 +63,7 @@
     "color": "blue",
     "category": "Bed",
     "comfort": 4,
+    "cost": 900000,
     "description": "Every feather in the Ultimate Down Futon was hand plucked by a Duck Expert for maximum softness, volume, and color."
   },
   {
@@ -68,6 +72,7 @@
     "color": "#266811",
     "category": "Toilet",
     "comfort": 2,
+    "cost": 85000,
     "convenience": 1,
     "description": "A substantial upgrade from a cheap toilet. Be the you you want to be."
   },
@@ -78,6 +83,7 @@
     "category": "Toilet",
     "comfort": 3,
     "convenience": 1,
+    "cost": 155000,
     "description": "An excellent toilet. Comes with all the add-ons you'd expect from a 20,000 yen toilet."
   },
   {
@@ -87,6 +93,7 @@
     "category": "Toilet",
     "comfort": 4,
     "convenience": 2,
+    "cost": 705000,
     "description": "The ARDH improves significantly on previous models, its memory foam exterior ensures the perfect fit for every body shape. Bidet-included."
   },
   {
@@ -96,6 +103,7 @@
     "category": "Toilet",
     "comfort": 8,
     "convenience": 2,
+    "cost": 1285000,
     "description": "The ARDX Super is the latest in toilet technology. Shaped like a stasis pod, you'll forget what you were even doing in the first place."
   },
   {
