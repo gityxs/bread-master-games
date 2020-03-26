@@ -10,15 +10,15 @@
     "Power": 0.15
   },
   {
-    "Name": "Likability at a Distance",
-    "Description": "People like you before ever meeting you. Start relationships with 5000 Relationship Points",
+    "Name": "Likable at a Distance",
+    "Description": "People like you before ever meeting you. Start relationships with 250 Relationship Points",
     "Group": "Charisma",
     "subGroup": "Public",
     "Effect": "Likability",
     "ModifiedStat": "Relationship Points",
     "additiveBonus": true,
     "Image": "Charm",
-    "Power": 5000
+    "Power": 250
   },
   {
     "Name": "Marriage Material",
@@ -30,11 +30,12 @@
     "Power": 0.3
   },
   {
-    "Name": "I can do it myself, mom!",
+    "Name": "I Can Do It Myself, Mom!",
     "Description": "Convince your mother to hold off on an arranged marriage for an extra 5 years.",
     "Group": "Charisma",
     "subGroup": "Private",
-    "Effect": "Delayed Arranged Marriage",
+    "ModifiedStat": "Auto Marry Age",
+    "additiveBonus": true,
     "Image": "LoveTime",
     "Power": 5
   },
@@ -49,21 +50,21 @@
   },
   {
     "Name": "The Boss Likes You Now",
-    "Description": "Increasing your Boss Opinion now costs 25% less.",
+    "Description": "Increasing your Boss Opinion Job Focus now costs -25% <img style=\"height:30px;width:30px;margin-top:35px;\" src=\"data/Images/Ganbaru3.png\"/>",
     "Group": "Charisma",
     "subGroup": "Public",
-    "Effect": "Boss Opinion Discount",
+    "modifiedStat": "Boss Opinion",
     "Image": "BossLove",
-    "Power": 0.25
+    "Power": -0.25
   },
   {
     "Name": "Office Hero",
-    "Description": "Increasing your Coworker Opinion now costs 25% less.",
+    "Description": "Increasing your Coworker Opinion Job Focus now costs -25% <img style=\"height:30px;width:30px;margin-top:35px;\" src=\"data/Images/Ganbaru3.png\"/>",
     "Group": "Charisma",
     "subGroup": "Private",
-    "Effect": "Coworker Opinion Discount",
+    "modifiedStat": "Coworker Opinion",
     "Image": "OfficeLove",
-    "Power": 0.25
+    "Power": -0.25
   },
   {
     "Name": "Clear Mind",
@@ -77,12 +78,13 @@
   },
   {
     "Name": "Intimidation",
-    "Description": "Intimidate everyone you meet with your superior Strength. Boosts Promotion and Electability.",
+    "Description": "Intimidate everyone you meet with your superior Strength. Boosts Promotion Speed by 5%.",
     "Group": "Strength",
     "subGroup": "Powerful",
     "Effect": "Intimidation",
+    "modifiedStat": "Promotion Growth",
     "Image": "Intimidate",
-    "Power": 1
+    "Power": 0.05
   },
   {
     "Name": "Healthy Lifestyle",
@@ -90,12 +92,13 @@
     "Group": "Strength",
     "subGroup": "Healthy",
     "Effect": "Lifespan",
+    "ModifiedStat": "Death Age",
     "Image": "Healthy",
     "Power": 5
   },
   {
     "Name": "Strong Leader",
-    "Description": "Intimidate everyone you meet with your superior Strength. Boosts Promotion and Electability.",
+    "Description": "Strong leaders inspire those beneath themselves to rise up to greater heights.",
     "Group": "Strength",
     "subGroup": "Powerful",
     "Effect": "Intimidation",
@@ -108,6 +111,7 @@
     "Group": "Strength",
     "subGroup": "Healthy",
     "Effect": "Powerful Sleeper",
+    "ModifiedStat": "Sleep",
     "Image": "PowerSleep",
     "Power": -0.1
   },
@@ -117,6 +121,7 @@
     "Group": "Strength",
     "subGroup": "Powerful",
     "Effect": "Extra Strong",
+    "modifiedStat": "Strength Bonus",
     "Image": "Strong",
     "Power": 5
   },
@@ -128,5 +133,78 @@
     "Effect": "Skill Gain",
     "Image": "Smart",
     "Power": 0.1
+  },
+  {
+    "Name": "Pin Point Focus",
+    "Description": "Your massive brain can focus on one thing better than a regular person. +15% Job Focus Gain.",
+    "Group": "Intelligence",
+    "subGroup": "Street",
+    "Effect": "Focus Gain",
+    "Image": "JobFocus",
+    "Power": 0.15
+  },
+  {
+    "Name": "Efficient Brain",
+    "Description": "Your intelligence has grown to become more efficient by its very nature. +8% Efficiency.",
+    "Group": "Intelligence",
+    "subGroup": "Book",
+    "Effect": "Efficiency",
+    "Image": "JobFocus",
+    "Power": 0.08
+  },
+  {
+    "Name": "Price Comparer",
+    "Description": "You've learned to do your research before buying anything. 10% Cost reduction on anything you buy.",
+    "Group": "Intelligence",
+    "subGroup": "Book",
+    "Effect": "Cost",
+    "Image": "JobFocus",
+    "Power": 0.1
+  },
+  {
+    "Name": "Ironman",
+    "Description": "You've researched the science of sleep, and how to make sure every hour counts the most. -30 minutes Required Sleep.",
+    "Group": "Intelligence",
+    "subGroup": "Street",
+    "Effect": "Sleep",
+    "Image": "JobFocus",
+    "Power": -30,
+    "additiveBonus": true
+  },
+  {
+    "Name": "Investor",
+    "Description": "Learn the stock market, and invest a portion of your money every month. Gain +3% of your current Yen every month.",
+    "Group": "Intelligence",
+    "subGroup": "Book",
+    "Effect": "Income",
+    "Image": "JobFocus",
+    "Power": 0.03
+  },
+  {
+    "Name": "Planner",
+    "Description": "Plans are useless, but planning is essential. +15% Faster Planning in Work Projects.",
+    "Group": "Intelligence",
+    "subGroup": "Book",
+    "Effect": "Planning",
+    "Image": "JobFocus",
+    "Power": 0.15
+  },
+  {
+    "Name": "No Time Wasted",
+    "Description": "Free time is for the lesser minded. You can go with the bare minimum to keep yourself sane. -30 minutes Required Freetime.",
+    "Group": "Intelligence",
+    "subGroup": "Street",
+    "Effect": "FreeTime",
+    "Image": "JobFocus",
+    "Power": 0.15
+  },
+  {
+    "Name": "Pension Pusher",
+    "Description": "You realize the only way to pay off the yakuza and free your family from debt is to pump money into your pension. +30% Monthly Pension Payments.",
+    "Group": "Intelligence",
+    "subGroup": "Street",
+    "Effect": "Pension",
+    "Image": "JobFocus",
+    "Power": 0.30
   }
 ]

@@ -4,6 +4,7 @@
     "Description": "This person is taller than most people.",
     "Group": "Height",
     "Effect": "Tall",
+    "Image": "Tall",
     "Power": 0.1
   },
   {
@@ -11,6 +12,7 @@
     "Description": "This person is shorter than most people.",
     "Group": "Height",
     "Effect": "Tall",
+    "Image": "Short",
     "Power": -0.1
   },
   {
@@ -18,6 +20,7 @@
     "Description": "This person is taller than almost everyone.",
     "Group": "Height",
     "Effect": "Tall",
+    "Image": "Giant",
     "Power": 0.2
   },
   {
@@ -25,6 +28,7 @@
     "Description": "This person is shorter than almost everyone.",
     "Group": "Height",
     "Effect": "Tall",
+    "Image": "Tiny",
     "Power": -0.1
   },
   {
@@ -33,6 +37,7 @@
     "Group": "Appearance",
     "Effect": "Ugly",
     "ModifiedStat": "Relationships",
+    "Image": "Ugly",
     "Power": -0.1
   },
   {
@@ -41,6 +46,7 @@
     "Group": "Appearance",
     "Effect": "Beautiful",
     "ModifiedStat": "Relationships",
+    "Image": "Beautiful",
     "Power": 0.1
   },
   {
@@ -48,6 +54,7 @@
     "Description": "Good people have extra chances to do good, and sometimes can't be evil.",
     "Group": "Morality",
     "Effect": "Good",
+    "Image": "Good",
     "Power": 0.1
   },
   {
@@ -55,6 +62,7 @@
     "Description": "Evil people have extra chances to do evil, and sometimes can't do good.",
     "Group": "Morality",
     "Effect": "Evil",
+    "Image": "Evil",
     "Power": 0.1
   },
   {
@@ -62,6 +70,7 @@
     "Description": "A hard worker has a slight boost to general productivity at work.",
     "Group": "Work Ethic",
     "Effect": "Hardworking",
+    "Image": "Hardworking",
     "ModifiedStat": "Work",
     "Power": 0.1
   },
@@ -70,6 +79,7 @@
     "Description": "Being lazy makes life a lot harder. Thankfully you can always just become a NEET.",
     "Group": "Work Ethic",
     "Effect": "Lazy",
+    "Image": "Lazy",
     "ModifiedStat": "Work",
     "Power": 0.1
   },
@@ -78,6 +88,7 @@
     "Description": "Introverts make friends and get to know people more slowly, but gain levels at self improvement and personal hobbies more quickly.",
     "Group": "Personality",
     "Effect": "Introverted",
+    "Image": "Introverted",
     "ModfiedStat": "Relationships",
     "Power": -0.05
   },
@@ -86,6 +97,7 @@
     "Description": "Extraverts make friends more quickly, but require more time to improve themselves and at hobbies.",
     "Group": "Personality",
     "Effect": "Extraverted",
+    "Image": "Koseki/GoodDad",
     "ModfiedStat": "Relationships",
     "Power": 0.05
   },
@@ -93,6 +105,7 @@
     "Name": "Lucky",
     "Description": "Being lucky does very little unless you're playing games.",
     "Group": "Luck",
+    "Image": "Lucky",
     "Effect": "Lucky",
     "Power": 0.1
   },
@@ -100,6 +113,7 @@
     "Name": "Unlucky",
     "Description": "Being unlucky makes your life harder with no upsides. What did you expect?",
     "Group": "Luck",
+    "Image": "Unlucky",
     "Effect": "Unlucky",
     "Power": -0.1
   },
@@ -108,6 +122,7 @@
     "Description": "A frugal person will save money and pay less for almost everything.",
     "Group": "Economic",
     "Effect": "Frugal",
+    "Image": "Frugal",
     "modifiedStat": "Cost",
     "Power": -0.1
   },
@@ -116,6 +131,7 @@
     "Description": "An extravagant person is compelled to spend extra on almost everything they buy, but they'll look cool doing it.",
     "Group": "Economic",
     "Effect": "Extravagant",
+    "Image": "Extravagant",
     "modifiedStat": "Cost",
     "Power": 0.1
   },
@@ -124,6 +140,7 @@
     "Description": "A heavy sleeper gets by on less sleep without penalty.",
     "Group": "Sleep",
     "modifiedStat": "Sleep",
+    "Image": "HeavySleeper",
     "Effect": "Heavy Sleeper",
     "Power": -0.1
   },
@@ -132,14 +149,16 @@
     "Description": "A light sleeper wakes often at night and requires more sleep every day to be well rested.",
     "Group": "Sleep",
     "modifiedStat": "Sleep",
+    "Image": "LightSleeper",
     "Effect": "Light Sleeper",
     "Power": 0.1
-  },  
+  },
   {
     "Name": "Neat",
     "Description": "A neat person has a higher minimum comfortable cleanliness level, and won't be happy in a house below that level.",
     "Group": "Cleanliness",
     "Effect": "Neat",
+    "Image": "Neat",
     "Power": 0.1
   },
   {
@@ -147,18 +166,7 @@
     "Description": "A slob has a lower minimum comfortable cleanliness level. Potentially even 0. While it saves a lot of effort for them, it can be detrimental to their family.",
     "Group": "Cleanliness",
     "Effect": "Slob",
-    "Power": -0.1
-  },
-  {
-    "name": "Prefers Texting",
-    "Description": "Some people don't like face-to-face communication.",
-    "Group": "Communication Preference",
-    "Power": 0.1
-  },
-  {
-    "name": "Hates Texting",
-    "Description": "Some people don't like texting.",
-    "Group": "Communication Preference",
+    "Image": "Slob",
     "Power": -0.1
   },
   {
@@ -167,6 +175,7 @@
     "group": "Vampire",
     "power": 1,
     "effect": "Vampire",
+    "Image": "Vampire",
     "occursNaturally": false
   }
 ]
