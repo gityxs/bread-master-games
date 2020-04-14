@@ -3,21 +3,24 @@
     "Name": "Beginner Duelist",
     "ID": 0,
     "Salary": 10000,
-    "DifficultyMultiplier": 25,
-    "workLevel": 10,
-    "minimumWorkMinutes": 400,
+    "DifficultyMultiplier": 25000,
+    "workLevel": 1000,
+    "minimumWorkMinutes": 0,
     "AddedActionNames": [
-      "Play Card Games",
-      "Improve Deck Composition",
-      "Travel To Tournaments"
+      "Play Practice Games",
+      "Study Past Matches",
+      "Read Top Player Forum Posts"
     ]
   },
   {
-    "Name": "Adept Duelist",
+    "Name": "In Tournament",
     "ID": 1,
     "Salary": 13000,
-    "DifficultyMultiplier": 35,
-    "workLevel": 10,
-    "minimumWorkMinutes": 400
+    "DifficultyMultiplier": 35000,
+    "workLevel": 1000,
+    "minimumWorkMinutes": 0,
+    "AddedActionNames": [
+      "Meet Tournament Goers"
+    ]
   }
 ]

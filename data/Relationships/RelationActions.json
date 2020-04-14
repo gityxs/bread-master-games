@@ -22,9 +22,21 @@
     "state": "Hidden"
   },
   {
+    "name": "Go On Extremely Cheap Date With $",
+    "effect": "Improve Relations $",
+    "effectDescription": "Find the cheapest places; only the lowest prices for your date",
+    "state": "Hidden",
+    "tooltip": "Costs 300 <img style=\"height:30px;width:30px;margin-top:-5px;\" src=\"data/Images/Yen.png\"/> /Day",
+    "cost": 300,
+    "unlockIfDating": true,
+    "maxLevel": 100,
+    "requiredTrait": "Frugal"
+  },
+  {
     "name": "Go On Cheap Date With $",
     "effect": "Improve Relations $",
     "effectDescription": "Visit the park, free art gallery, or historical site for cheap",
+    "tooltip": "Costs 1000 <img style=\"height:30px;width:30px;margin-top:-5px;\" src=\"data/Images/Yen.png\"/> / Day",
     "state": "Hidden",
     "cost": 1000,
     "unlockIfDating": true,
@@ -35,18 +47,31 @@
     "effect": "Improve Relations $",
     "effectDescription": "Visit a restaurant, movie theater, or the aquarium",
     "state": "Hidden",
+    "tooltip": "Costs 4000 <img style=\"height:30px;width:30px;margin-top:-5px;\" src=\"data/Images/Yen.png\"/> / Day",
     "cost": 4000,
+    "unlockIfDating": true,
+    "maxLevel": 100
+  },
+  {
+    "name": "Go On Expensive Date With $",
+    "effect": "Improve Relations $",
+    "effectDescription": "Take your date fine dining, on gondola rides and shopping trips",
+    "state": "Hidden",
+    "tooltip": "Costs 12000 <img style=\"height:30px;width:30px;margin-top:-5px;\" src=\"data/Images/Yen.png\"/> / Day",
+    "cost": 12000,
     "unlockIfDating": true,
     "maxLevel": 100
   },
   {
     "name": "Go On Extravagant Date With $",
     "effect": "Improve Relations $",
-    "effectDescription": "Take your data fine dining, on ferry rides and shopping trips",
+    "effectDescription": "Take your date to the most expensive places you can find; flex your wealth",
     "state": "Hidden",
-    "cost": 10000,
+    "tooltip": "Costs 50000 <img style=\"height:30px;width:30px;margin-top:-5px;\" src=\"data/Images/Yen.png\"/> / Day",
+    "cost": 50000,
     "unlockIfDating": true,
-    "maxLevel": 100
+    "maxLevel": 100,
+    "requiredTrait": "Extravagant"
   }
 
 

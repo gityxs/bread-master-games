@@ -2,9 +2,11 @@
   {
     "Name": "Salaryman",
     "ID": 0,
+    "hasCommute": true,
     "LevelNames": [
       "Shinyuusha",
       "Ippanshain",
+      "Kakarichou",
       "Kachoudairi",
       "Kachou",
       "Buchoudairi",
@@ -13,16 +15,18 @@
       "Torishimariyaku",
       "Jomu Torishimariyakudairi",
       "Jomu Torishimariyaku",
-      "Sunmu Torishimariyakudairi",
-      "Sunmu Torishimariyaku",
-      "Fuku Shachou",
+      "Senmu Torishimariyakudairi",
+      "Senmu Torishimariyaku",
+      "Fukushachou",
       "Shachou",
+      "Fukukaichou",
       "Kaichou"
     ]
   },
   {
     "Name": "Politician",
     "ID": 1,
+    "hasCommute": true,
     "LevelNames": [
       "Sonchou",
       "Chouchou",
@@ -52,7 +56,7 @@
     "ID": 4,
     "LevelNames": [
       "Beginner Duelist",
-      "Adept Duelist"
+      "In Tournament"
     ]
   },
   {

@@ -4,7 +4,6 @@
     "Description": "Gain the power of people liking you more. Relationships improve 15% faster.",
     "Group": "Charisma",
     "subGroup": "Private",
-    "Effect": "Friendly",
     "ModifiedStat": "Relationships",
     "Image": "GoodDad",
     "Power": 0.15
@@ -14,7 +13,6 @@
     "Description": "People like you before ever meeting you. Start relationships with 250 Relationship Points",
     "Group": "Charisma",
     "subGroup": "Public",
-    "Effect": "Likability",
     "ModifiedStat": "Relationship Points",
     "additiveBonus": true,
     "Image": "Charm",
@@ -25,7 +23,7 @@
     "Description": "Who wouldn't want to marry you? Marriage success odds +30%",
     "Group": "Charisma",
     "subGroup": "Private",
-    "Effect": "Marriage Material",
+    "modifiedStat": "Marriage Success Chance",
     "Image": "Marriage",
     "Power": 0.3
   },
@@ -58,6 +56,15 @@
     "Power": -0.25
   },
   {
+    "Name": "Mind Reader",
+    "Description": "You've gotten to know enough people that reading them has become second nature. Know more things about the people around you.",
+    "Group": "Charisma",
+    "subGroup": "Private",
+    "modifiedStat": "",
+    "Image": "ClearMind",
+    "Power": 1
+  },
+  {
     "Name": "Office Hero",
     "Description": "Increasing your Coworker Opinion Job Focus now costs -25% <img style=\"height:30px;width:30px;margin-top:35px;\" src=\"data/Images/Ganbaru3.png\"/>",
     "Group": "Charisma",
@@ -71,7 +78,6 @@
     "Description": "Build strength to build a better you. 15% faster Strength, Charisma, and Intelligence gain.",
     "Group": "Strength",
     "subGroup": "Healthy",
-    "Effect": "Self Gain",
     "ModifiedStat": "Self",
     "Image": "ClearMind",
     "Power": 0.15
@@ -81,7 +87,6 @@
     "Description": "Intimidate everyone you meet with your superior Strength. Boosts Promotion Speed by 5%.",
     "Group": "Strength",
     "subGroup": "Powerful",
-    "Effect": "Intimidation",
     "modifiedStat": "Promotion Growth",
     "Image": "Intimidate",
     "Power": 0.05
@@ -91,7 +96,6 @@
     "Description": "You're strong and healthy. Extends your life by 5 years. (Note:This does not affect retirement age.)",
     "Group": "Strength",
     "subGroup": "Healthy",
-    "Effect": "Lifespan",
     "ModifiedStat": "Death Age",
     "Image": "Healthy",
     "Power": 5
@@ -101,7 +105,6 @@
     "Description": "Strong leaders inspire those beneath themselves to rise up to greater heights.",
     "Group": "Strength",
     "subGroup": "Powerful",
-    "Effect": "Intimidation",
     "Image": "StrongLeader",
     "Power": 1
   },
@@ -110,7 +113,6 @@
     "Description": "Work Hard, Sleep Hard. Reduce required sleep time by 10%",
     "Group": "Strength",
     "subGroup": "Healthy",
-    "Effect": "Powerful Sleeper",
     "ModifiedStat": "Sleep",
     "Image": "PowerSleep",
     "Power": -0.1
@@ -120,7 +122,6 @@
     "Description": "Being strong sometimes means being really strong. +5 Strength levels to anything that checks or requires Strength.",
     "Group": "Strength",
     "subGroup": "Powerful",
-    "Effect": "Extra Strong",
     "modifiedStat": "Strength Bonus",
     "Image": "Strong",
     "Power": 5
@@ -130,7 +131,6 @@
     "Description": "You're a know-it-all and you know it. +10% faster skill gain.",
     "Group": "Intelligence",
     "subGroup": "Book",
-    "Effect": "Skill Gain",
     "Image": "Smart",
     "Power": 0.1
   },
@@ -139,7 +139,6 @@
     "Description": "Your massive brain can focus on one thing better than a regular person. +15% Job Focus Gain.",
     "Group": "Intelligence",
     "subGroup": "Street",
-    "Effect": "Focus Gain",
     "Image": "JobFocus",
     "Power": 0.15
   },
@@ -148,8 +147,8 @@
     "Description": "Your intelligence has grown to become more efficient by its very nature. +8% Efficiency.",
     "Group": "Intelligence",
     "subGroup": "Book",
-    "Effect": "Efficiency",
-    "Image": "JobFocus",
+    "modifiedStat": "Efficiency",
+    "Image": "EfficientBrain",
     "Power": 0.08
   },
   {
@@ -157,8 +156,7 @@
     "Description": "You've learned to do your research before buying anything. 10% Cost reduction on anything you buy.",
     "Group": "Intelligence",
     "subGroup": "Book",
-    "Effect": "Cost",
-    "Image": "JobFocus",
+    "Image": "PriceComparer",
     "Power": 0.1
   },
   {
@@ -166,8 +164,7 @@
     "Description": "You've researched the science of sleep, and how to make sure every hour counts the most. -30 minutes Required Sleep.",
     "Group": "Intelligence",
     "subGroup": "Street",
-    "Effect": "Sleep",
-    "Image": "JobFocus",
+    "Image": "Ironman",
     "Power": -30,
     "additiveBonus": true
   },
@@ -176,8 +173,7 @@
     "Description": "Learn the stock market, and invest a portion of your money every month. Gain +3% of your current Yen every month.",
     "Group": "Intelligence",
     "subGroup": "Book",
-    "Effect": "Income",
-    "Image": "JobFocus",
+    "Image": "Investor",
     "Power": 0.03
   },
   {
@@ -185,26 +181,25 @@
     "Description": "Plans are useless, but planning is essential. +15% Faster Planning in Work Projects.",
     "Group": "Intelligence",
     "subGroup": "Book",
-    "Effect": "Planning",
-    "Image": "JobFocus",
+    "Image": "Planner",
     "Power": 0.15
   },
   {
     "Name": "No Time Wasted",
-    "Description": "Free time is for the lesser minded. You can go with the bare minimum to keep yourself sane. -30 minutes Required Freetime.",
+    "Description": "Free time is for the lesser minded. You can go with the bare minimum to keep yourself sane. -25% Freetime Required.",
     "Group": "Intelligence",
     "subGroup": "Street",
-    "Effect": "FreeTime",
-    "Image": "JobFocus",
-    "Power": 0.15
+    "Image": "TimeWaste",
+    "modifiedStat": "Free Time",
+    "Power": -0.25
   },
   {
     "Name": "Pension Pusher",
-    "Description": "You realize the only way to pay off the yakuza and free your family from debt is to pump money into your pension. +30% Monthly Pension Payments.",
+    "Description": "You realize the only way to pay off the yakuza and free your family from debt is to pump money into your pension. +30% Monthly Pension Payments. (This does lower your take-home pay.)",
     "Group": "Intelligence",
     "subGroup": "Street",
-    "Effect": "Pension",
-    "Image": "JobFocus",
+    "Image": "Pension",
+    "modifiedStat": "Pension",
     "Power": 0.30
   }
 ]

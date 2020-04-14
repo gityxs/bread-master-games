@@ -77,11 +77,16 @@
   {
     "name": "Auto Advance",
     "titleText": "Auto Advance",
-    "dataText": "Automatically advance to the next step of the project when it becomes available. You can set the level you want it to advance at on the right of the action bar."
+    "dataText": "Auto advance will move on to the next step of the project at a set level. You can change the level on the right side of the action when Auto Advance is enabled."
   },
   {
     "name": "Pension Desc.",
     "titleText": "Pension",
     "dataText": "Your pension builds up over time as you work. Every generation can choose to withdraw the pension to fund their heir, or deposit it into the Family Vault."
+  },
+  {
+    "name": "Legacy Level",
+    "titleText": "Legacy Level",
+    "dataText": "Your ancestors have proven their ability in this action in the past, and some of that has been passed on down to you. Things are a bit easier when they run in the family."
   }
 ]

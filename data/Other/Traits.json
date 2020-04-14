@@ -13,7 +13,7 @@
     "Group": "Height",
     "Effect": "Tall",
     "Image": "Short",
-    "Power": -0.1
+    "Power": -0.05
   },
   {
     "Name": "Giant",
@@ -38,7 +38,7 @@
     "Effect": "Ugly",
     "ModifiedStat": "Relationships",
     "Image": "Ugly",
-    "Power": -0.1
+    "Power": -0.05
   },
   {
     "Name": "Beautiful",
@@ -81,7 +81,7 @@
     "Effect": "Lazy",
     "Image": "Lazy",
     "ModifiedStat": "Work",
-    "Power": 0.1
+    "Power": -0.05
   },
   {
     "Name": "Introverted",
@@ -176,6 +176,24 @@
     "power": 1,
     "effect": "Vampire",
     "Image": "Vampire",
+    "occursNaturally": false
+  },
+  {
+    "name": "Close to Father",
+    "description": "You were Best Friends with your Father. Relationship growth with your own children +30%",
+    "group": "Paternal Relationship",
+    "power": 0.3,
+    "modifiedStat": "Son Relationship",
+    "Image": "Koseki/GoodDad",
+    "occursNaturally": false
+  },
+  {
+    "name": "Distant Father",
+    "description": "You hardly knew your father. Relationship growth with your own children -30%",
+    "group": "Paternal Relationship",
+    "power": -0.3,
+    "modifiedStat": "Son Relationship",
+    "Image": "Introverted",
     "occursNaturally": false
   }
 ]

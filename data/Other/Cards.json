@@ -43,8 +43,32 @@
     "name": "Base Burn",
     "role": 5,
     "archetype": "Basic",
-    "rarity": 0,
+    "rarity": 1,
     "description": "A curse that burns down the enemy's wall, basically.",
+    "deckStyle": 0
+  },
+  {
+    "name": "Mr. Boss Man",
+    "role": 0,
+    "archetype": "Basic",
+    "rarity": 2,
+    "description": "He's a Boss! He's Strong!",
+    "deckStyle": 0
+  },
+  {
+    "name": "Build it Up",
+    "role": 4,
+    "archetype": "Basic",
+    "rarity": 3,
+    "description": "Build faster, it's quite basic really.",
+    "deckStyle": 0
+  },
+  {
+    "name": "Basic Attacker 2.0",
+    "role": 3,
+    "archetype": "Basic",
+    "rarity": 4,
+    "description": "Power creep at its finest.",
     "deckStyle": 0
   },
   {
@@ -128,10 +152,34 @@
     "deckStyle": 0
   },
   {
+    "name": "Banana Bunch Boss",
+    "role": 0,
+    "archetype": "Fruit",
+    "rarity": 2,
+    "description": "A group of bananas is far more powerful than any single banana could ever be.",
+    "deckStyle": 0
+  },
+  {
+    "name": "Peel",
+    "role": 4,
+    "archetype": "Fruit",
+    "rarity": 3,
+    "description": "Sometimes peel is a noun. This time it's a verb!",
+    "deckStyle": 0
+  },
+  {
+    "name": "Two Pineapples Glued Together",
+    "role": 2,
+    "archetype": "Fruit",
+    "rarity": 4,
+    "description": "This shouldn't work... But it does. A delicious Defender to be sure.",
+    "deckStyle": 0
+  },
+  {
     "name": "Gashadokuro",
     "role": 0,
     "archetype": "Quepland",
-    "rarity": 2,
+    "rarity": 3,
     "description": "There might be a plastisteel knife inside.",
     "deckStyle": 1
   },
@@ -153,21 +201,21 @@
     "name": "Tree Man",
     "role": 3,
     "archetype": "Quepland",
-    "rarity": 2,
+    "rarity": 0,
     "deckStyle": 1
   },
   {
     "name": "Ono Style",
     "role": 4,
     "archetype": "Quepland",
-    "rarity": 2,
+    "rarity": 1,
     "deckStyle": 1
   },
   {
     "name": "Cleave",
     "role": 5,
     "archetype": "Quepland",
-    "rarity": 2,
+    "rarity": 4,
     "deckStyle": 1
   },
   {
@@ -202,14 +250,14 @@
     "name": "Make Money",
     "role": 4,
     "archetype": "Quepland",
-    "rarity": 3,
+    "rarity": 4,
     "deckStyle": 1
   },
   {
     "name": "Make Fuzzy",
     "role": 5,
     "archetype": "Quepland",
-    "rarity": 3,
+    "rarity": 4,
     "deckStyle": 1
   },
   {
@@ -230,49 +278,49 @@
     "name": "Infrared Insurer",
     "role": 2,
     "archetype": "Light",
-    "rarity": 1,
+    "rarity": 2,
     "deckStyle": 1
   },
   {
     "name": "Ultraviolet Volley",
     "role": 3,
     "archetype": "Light",
-    "rarity": 1,
+    "rarity": 2,
     "deckStyle": 1
   },
   {
     "name": "Amplify",
     "role": 4,
     "archetype": "Light",
-    "rarity": 1,
+    "rarity": 3,
     "deckStyle": 1
   },
   {
     "name": "Dark Destruction",
     "role": 5,
     "archetype": "Light",
-    "rarity": 1,
+    "rarity": 4,
     "deckStyle": 1
   },
   {
     "name": "Double Rainbow",
     "role": 0,
     "archetype": "Light",
-    "rarity": 1,
+    "rarity": 3,
     "deckStyle": 1
   },
   {
     "name": "Blue Beam Builder",
     "role": 1,
     "archetype": "Light",
-    "rarity": 1,
+    "rarity": 0,
     "deckStyle": 1
   },
   {
     "name": "Sunshine Shelter",
     "role": 2,
     "archetype": "Light",
-    "rarity": 1,
+    "rarity": 0,
     "deckStyle": 1
   },
   {
@@ -286,14 +334,14 @@
     "name": "Refraction Index",
     "role": 4,
     "archetype": "Light",
-    "rarity": 1,
+    "rarity": 2,
     "deckStyle": 1
   },
   {
     "name": "Malignant Mirror",
     "role": 5,
     "archetype": "Light",
-    "rarity": 1,
+    "rarity": 3,
     "deckStyle": 1
   },
   {
@@ -307,21 +355,22 @@
     "name": "Number Two Pencil",
     "role": 1,
     "archetype": "Writing Utensils",
-    "rarity": 1,
+    "rarity": 0,
     "deckStyle": 1
   },
   {
     "name": "Ink Wall",
     "role": 2,
     "archetype": "Writing Utensils",
-    "rarity": 1,
+    "rarity": 2,
     "deckStyle": 1
   },
   {
     "name": "Stabby Pen",
     "role": 3,
     "archetype": "Writing Utensils",
-    "rarity": 1
+    "rarity": 3,
+    "deckStyle": 1
   },
   {
     "name": "Writing Rush",
@@ -334,7 +383,7 @@
     "name": "Six Stroke Seige",
     "role": 5,
     "archetype": "Writing Utensils",
-    "rarity": 1,
+    "rarity": 4,
     "deckStyle": 1
   },
   {
@@ -376,7 +425,7 @@
     "name": "Triangulate",
     "role": 5,
     "archetype": "Shapes",
-    "rarity": 1,
+    "rarity": 0,
     "deckStyle": 0
   },
   {
@@ -397,7 +446,7 @@
     "name": "Tesselated Triangles",
     "role": 2,
     "archetype": "Shapes",
-    "rarity": 1,
+    "rarity": 2,
     "deckStyle": 0
   },
   {
@@ -411,7 +460,7 @@
     "name": "Rotate and Translate",
     "role": 4,
     "archetype": "Shapes",
-    "rarity": 1,
+    "rarity": 3,
     "deckStyle": 0
   },
   {
@@ -468,209 +517,209 @@
     "role": 0,
     "archetype": "Periodic Elements",
     "rarity": 1,
-    "deckStyle": 1
+    "deckStyle": 2
   },
   {
     "name": "Hydrogen",
     "role": 1,
     "archetype": "Periodic Elements",
-    "rarity": 1,
-    "deckStyle": 1
+    "rarity": 0,
+    "deckStyle": 2
   },
   {
     "name": "Helium",
     "role": 2,
     "archetype": "Periodic Elements",
     "rarity": 1,
-    "deckStyle": 1
+    "deckStyle": 2
   },
   {
     "name": "Oxygen",
     "role": 3,
     "archetype": "Periodic Elements",
     "rarity": 1,
-    "deckStyle": 1
+    "deckStyle": 2
   },
   {
     "name": "Electron Beam",
     "role": 4,
     "archetype": "Periodic Elements",
-    "rarity": 1,
-    "deckStyle": 1
+    "rarity": 2,
+    "deckStyle": 2
   },
   {
     "name": "Neutronic Blast",
     "role": 5,
     "archetype": "Periodic Elements",
-    "rarity": 1,
-    "deckStyle": 1
+    "rarity": 3,
+    "deckStyle": 2
   },
   {
     "name": "U-238",
     "role": 0,
     "archetype": "Periodic Elements",
-    "rarity": 2,
-    "deckStyle": 1
+    "rarity": 4,
+    "deckStyle": 2
   },
   {
     "name": "Deuterium",
     "role": 1,
     "archetype": "Periodic Elements",
     "rarity": 1,
-    "deckStyle": 1
+    "deckStyle": 2
   },
   {
     "name": "Argon",
     "role": 2,
     "archetype": "Periodic Elements",
     "rarity": 1,
-    "deckStyle": 1
+    "deckStyle": 2
   },
   {
     "name": "Sulfur",
     "role": 3,
     "archetype": "Periodic Elements",
     "rarity": 1,
-    "deckStyle": 1
+    "deckStyle": 2
   },
   {
     "name": "Protonic Vibes",
     "role": 4,
     "archetype": "Periodic Elements",
     "rarity": 2,
-    "deckStyle": 1
+    "deckStyle": 2
   },
   {
     "name": "Fizz",
     "role": 5,
     "archetype": "Periodic Elements",
     "rarity": 2,
-    "deckStyle": 1
+    "deckStyle": 2
   },
   {
     "name": "Oganesson",
     "role": 0,
     "archetype": "Periodic Elements",
     "rarity": 3,
-    "deckStyle": 1
+    "deckStyle": 2
   },
   {
     "name": "Triterium",
     "role": 1,
     "archetype": "Periodic Elements",
     "rarity": 1,
-    "deckStyle": 1
+    "deckStyle": 2
   },
   {
     "name": "Xenon",
     "role": 2,
     "archetype": "Periodic Elements",
     "rarity": 2,
-    "deckStyle": 1
+    "deckStyle": 2
   },
   {
     "name": "Potassium",
     "role": 3,
     "archetype": "Periodic Elements",
     "rarity": 1,
-    "deckStyle": 1
+    "deckStyle": 2
   },
   {
     "name": "Covalent Bond",
     "role": 4,
     "archetype": "Periodic Elements",
-    "rarity": 2,
-    "deckStyle": 1
+    "rarity": 1,
+    "deckStyle": 2
   },
   {
     "name": "Quantum Spin Liquid",
     "role": 5,
     "archetype": "Periodic Elements",
     "rarity": 2,
-    "deckStyle": 1
+    "deckStyle": 2
   },
   {
     "name": "Dathapatis Heron",
     "role": 0,
     "archetype": "Persian Space Birds",
     "rarity": 3,
-    "deckStyle": 0
+    "deckStyle": 2
   },
   {
     "name": "Parastu",
     "role": 1,
     "archetype": "Persian Space Birds",
-    "rarity": 2,
-    "deckStyle": 0
+    "rarity": 0,
+    "deckStyle": 2
   },
   {
     "name": "Great Cormorant",
     "role": 2,
     "archetype": "Persian Space Birds",
-    "rarity": 2,
-    "deckStyle": 0
+    "rarity": 0,
+    "deckStyle": 2
   },
   {
     "name": "Dathabam Flamingo",
     "role": 3,
     "archetype": "Persian Space Birds",
-    "rarity": 2,
-    "deckStyle": 0
+    "rarity": 0,
+    "deckStyle": 2
   },
   {
     "name": "Free Fall Frenzy",
     "role": 4,
     "archetype": "Persian Space Birds",
-    "rarity": 2,
-    "deckStyle": 0
+    "rarity": 0,
+    "deckStyle": 2
   },
   {
     "name": "Bird Lazer",
     "role": 5,
     "archetype": "Persian Space Birds",
     "rarity": 2,
-    "deckStyle": 0
+    "deckStyle": 2
   },
   {
     "name": "Hazarapatis Swan",
     "role": 0,
     "archetype": "Persian Space Birds",
-    "rarity": 3,
-    "deckStyle": 0
+    "rarity": 1,
+    "deckStyle": 2
   },
   {
     "name": "Hirundo",
     "role": 1,
     "archetype": "Persian Space Birds",
-    "rarity": 2,
-    "deckStyle": 0
+    "rarity": 1,
+    "deckStyle": 2
   },
   {
     "name": "Hoopoe",
     "role": 2,
     "archetype": "Persian Space Birds",
     "rarity": 2,
-    "deckStyle": 0
+    "deckStyle": 2
   },
   {
     "name": "Hazarabam Bustard",
     "role": 3,
     "archetype": "Persian Space Birds",
     "rarity": 2,
-    "deckStyle": 0
+    "deckStyle": 2
   },
   {
     "name": "Fly to the Mothership",
     "role": 4,
     "archetype": "Persian Space Birds",
-    "rarity": 2,
-    "deckStyle": 0
+    "rarity": 3,
+    "deckStyle": 2
   },
   {
     "name": "Space Debris Crane",
     "role": 5,
     "archetype": "Persian Space Birds",
-    "rarity": 2,
-    "deckStyle": 0
+    "rarity": 4,
+    "deckStyle": 2
   }
 ]
