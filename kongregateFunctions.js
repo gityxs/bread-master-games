@@ -1,38 +1,28 @@
 ﻿window.kongregateFunctions = {
-
-    getUsername:function() {
+    
+    getUsername: function () {
         // You can now access the Kongregate API with:
         // kongregate.services.getUsername(), etc
         // Proceed with loading your game...
-        
+
         if (window.kongregate.services.isGuest()) {
-            return "You are a guest.";
+            return "";
         } else {
             return window.kongregate.services.getUsername();
         }
     },
-    getUserID: function () {
+	    getUserID: function () {
         // You can now access the Kongregate API with:
         // kongregate.services.getUsername(), etc
         // Proceed with loading your game...
 
         if (window.kongregate.services.isGuest()) {
-            return "You are a guest.";
+            return "";
         } else {
             return window.kongregate.services.getUserId();
         }
     },
-    updateTotalLevelScore: function (totalLevel) {
-        window.kongregate.stats.submit("Total Level", totalLevel);
-    },
-    updatePensionTotal: function (pensionTotal) {
-        window.kongregate.stats.submit("Total Pension", pensionTotal);
-        return pensionTotal;
-    },
-    createSortableList: function (listElement) {
-        Sortable.create(listElement, {});
-    },
-    getToken: function () {
+	getToken: function () {
         if (window.kongregate.services.isGuest()) {
             return "";
         }
@@ -40,9 +30,13 @@
             return window.kongregate.services.getGameAuthToken();
         }
     },
-    LoginWithKongregateID: function () {
-        loginInUsingPlayFab();
+    showRegistration: function (dotNetInstance) {
+        window.dotNet = dotNetInstance;
+        window.kongregate.services.showRegistrationBox();
+        window.kongregate.services.addEventListener("login", window.kongregateFunctions.onKongregatePageLogin);
+    },
+    onKongregatePageLogin: function () {
+        window.dotNet.invokeMethodAsync('RefreshUI');
     }
-
-
+    
 };
