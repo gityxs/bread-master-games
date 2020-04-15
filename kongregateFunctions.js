@@ -22,6 +22,14 @@
             return window.kongregate.services.getUserId();
         }
     },
+    getUsername: function () {
+        if (window.kongregate.services.isGuest()) {
+            return "";
+        }
+        else {
+            return window.kongregate.services.getUsername();
+        }
+    },
 	getToken: function () {
         if (window.kongregate.services.isGuest()) {
             return "";
