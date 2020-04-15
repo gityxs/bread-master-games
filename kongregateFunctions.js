@@ -1,20 +1,22 @@
 ﻿window.kongregateFunctions = {
     
     getUsername: function () {
-
+        console.log("Getting username...");
         if (window.kongregate.services.isGuest()) {
+            console.log("Player is guest.");
             return "";
         } else {
+            console.log("Player is logged in.");
             return window.kongregate.services.getUsername();
         }
     },
-	    getUserID: function () {
+	getUserID: function () {
 
-        if (window.kongregate.services.isGuest()) {
-            return "";
-        } else {
-            return window.kongregate.services.getUserId();
-        }
+    if (window.kongregate.services.isGuest()) {
+        return "";
+    } else {
+        return window.kongregate.services.getUserId();
+    }
     },
 	getToken: function () {
         if (window.kongregate.services.isGuest()) {
