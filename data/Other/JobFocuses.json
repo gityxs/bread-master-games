@@ -33,5 +33,12 @@
     "state": "Normal",
     "ganbaruPointsPerExp": 1,
     "promotionValue": 0.25
+  },
+  {
+    "name": "Manipulate Opinions",
+    "ganbaruPointsPerExp": 3,
+    "maxLevel": 25,
+    "state": "Hidden",
+    "promotionValue": 1
   }
 ]

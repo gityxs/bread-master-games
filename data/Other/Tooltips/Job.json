@@ -88,5 +88,10 @@
     "name": "Legacy Level",
     "titleText": "Legacy Level",
     "dataText": "Your ancestors have proven their ability in this action in the past, and some of that has been passed on down to you. Things are a bit easier when they run in the family."
+  },
+  {
+    "name": "Manipulate Opinions",
+    "titleText": "Manipulate Opinions",
+    "dataText": "You're evil, so you have no issue with manipulating your coworkers to hate eachother, just to make yourself look better by comparison. It's very effective, but usually avoided by people with working consciences."
   }
 ]

@@ -56,19 +56,23 @@
   },
   {
     "name": "You're Pretty Good",
-    "description": "Level any action to level 100."
+    "description": "Level any action to level 100.",
+    "image": "ThumbsUp"
   },
   {
     "name": "You're Over-Overflowing",
-    "description": "Spend your whole career in overflow."
+    "description": "Spend your whole career in overflow.",
+    "image": "Overflow"
   },
   {
     "name": "You're The Boss' Boss Now",
-    "description": "Become a Kaichou"
+    "description": "Become a Kaichou",
+    "image": "Boss"
   },
   {
     "name": "Truly Content",
-    "description": "Never get promoted past Ippanshain."
+    "description": "Never get promoted past Ippanshain.",
+    "image": "Content"
   },
   {
     "name": "I Spent 100s of Hours Designing $",
@@ -76,51 +80,58 @@
   },
   {
     "name": "You're Sodai Gomi Now",
-    "description": "Spend over 90% of your waking hours at work."
+    "description": "Spend over 90% of your waking hours at work.",
+    "image": "Trash"
   },
   {
     "name": "Tired",
-    "description": "Spend 5 years getting too little sleep."
+    "description": "Spend 5 years getting too little sleep.",
+    "image": "HeavySleeper"
   },
   {
     "name": "The Power of Friendship",
-    "description": "Become friends with your boss at each promotion level."
+    "description": "Become friends with your boss at each promotion level.",
+    "image": "BossLove"
   },
   {
     "name": "Prodigy",
-    "description": "Get promoted in your first week on the job."
+    "description": "Get promoted in your first week on the job.",
+    "image": "Prodigy"
   },
   {
     "name": "So Now That You've Retired, Are You Moving Out?",
-    "description": "Never move out from your parent's house."
+    "description": "Never move out from your parent's house.",
+    "image": "StayHome"
   },
   {
     "name": "Where'd The Money Go???",
-    "description": "Retire with less than 10,000 yen in your bank account."
+    "description": "Retire with less than 10,000 yen in your bank account.",
+    "image": "NoMoney"
   },
   {
     "name": "Well Rested",
-    "description": "Spend your whole life sleeping."
+    "description": "Spend your whole life sleeping.",
+    "image": "Ironman"
   },
   {
     "name": "Twice As Smart",
-    "description": "Double your Intelligence through self-improvement."
+    "description": "Double your Intelligence through self-improvement.",
+    "image": "Smart"
   },
   {
     "name": "Twice As Strong",
-    "description": "Double your Strength through self-improvement."
+    "description": "Double your Strength through self-improvement.",
+    "image": "Strong"
   },
   {
     "name": "Twice As Cool",
-    "description": "Double your Charisma through self-improvement."
+    "description": "Double your Charisma through self-improvement.",
+    "image": "Charm"
   },
   {
     "name": "F Is For Friends",
-    "description": "Make at least 15 friends in one life."
-  },
-  {
-    "name": "EZ Game",
-    "description": "Submit a successful Work Project without revising it."
+    "description": "Make at least 15 friends in one life.",
+    "image": "Relationships"
   }
 
 ]

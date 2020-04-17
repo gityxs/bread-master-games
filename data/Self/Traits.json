@@ -97,16 +97,18 @@
     "Group": "Strength",
     "subGroup": "Healthy",
     "ModifiedStat": "Death Age",
+    "additiveBonus": true,
     "Image": "Healthy",
     "Power": 5
   },
   {
     "Name": "Strong Leader",
-    "Description": "Strong leaders inspire those beneath themselves to rise up to greater heights.",
+    "Description": "Strong leaders inspire those beneath themselves to rise up to greater heights. Boosts promotion speed by the number of times you've been promoted.",
     "Group": "Strength",
     "subGroup": "Powerful",
+    "modifiedStat": "Promotion Growth per Level",
     "Image": "StrongLeader",
-    "Power": 1
+    "Power": 0.01
   },
   {
     "Name": "Powerful Sleeper",
@@ -128,17 +130,19 @@
   },
   {
     "Name": "Clever Clogs",
-    "Description": "You're a know-it-all and you know it. +10% faster skill gain.",
+    "Description": "You're a know-it-all and you know it. +10% faster <img style=\"height:30px;width:30px;\" src=\"data/Images/JobFocus.png\" /> Skill gain.",
     "Group": "Intelligence",
     "subGroup": "Book",
+    "modifiedStat": "Skill",
     "Image": "Smart",
     "Power": 0.1
   },
   {
     "Name": "Pin Point Focus",
-    "Description": "Your massive brain can focus on one thing better than a regular person. +15% Job Focus Gain.",
+    "Description": "Your massive brain can focus on one thing better than a regular person. +15% Job Focus Gain per <img style=\"height:30px;width:30px;margin-top:35px;\" src=\"data/Images/Ganbaru3.png\"/>.",
     "Group": "Intelligence",
     "subGroup": "Street",
+    "modifiedStat": "Job Focus",
     "Image": "JobFocus",
     "Power": 0.15
   },
@@ -155,24 +159,26 @@
     "Name": "Price Comparer",
     "Description": "You've learned to do your research before buying anything. 10% Cost reduction on anything you buy.",
     "Group": "Intelligence",
+    "modifiedStat": "Cost",
     "subGroup": "Book",
     "Image": "PriceComparer",
     "Power": 0.1
   },
   {
     "Name": "Ironman",
-    "Description": "You've researched the science of sleep, and how to make sure every hour counts the most. -30 minutes Required Sleep.",
+    "Description": "You've researched the science of sleep, and how to make sure every hour counts the most. -10% Required Sleep.",
     "Group": "Intelligence",
     "subGroup": "Street",
+    "modifiedStat": "Sleep",
     "Image": "Ironman",
-    "Power": -30,
-    "additiveBonus": true
+    "Power": -0.1
   },
   {
     "Name": "Investor",
     "Description": "Learn the stock market, and invest a portion of your money every month. Gain +3% of your current Yen every month.",
     "Group": "Intelligence",
     "subGroup": "Book",
+    "modifiedStat": "Interest",
     "Image": "Investor",
     "Power": 0.03
   },
@@ -181,6 +187,7 @@
     "Description": "Plans are useless, but planning is essential. +15% Faster Planning in Work Projects.",
     "Group": "Intelligence",
     "subGroup": "Book",
+    "modifiedStat": "Planning",
     "Image": "Planner",
     "Power": 0.15
   },
@@ -195,11 +202,11 @@
   },
   {
     "Name": "Pension Pusher",
-    "Description": "You realize the only way to pay off the yakuza and free your family from debt is to pump money into your pension. +30% Monthly Pension Payments. (This does lower your take-home pay.)",
+    "Description": "You realize the only way to pay off the yakuza and free your family from debt is to pump money into your pension. +15% Monthly Pension Payments. (This does lower your take-home pay.)",
     "Group": "Intelligence",
     "subGroup": "Street",
     "Image": "Pension",
     "modifiedStat": "Pension",
-    "Power": 0.30
+    "Power": 0.15
   }
 ]

@@ -44,6 +44,7 @@
     "color": "purple",
     "category": "Table",
     "comfort": 2,
+    "cost": 10000,
     "description": "A cheap kotatsu. It might burn you, but at least its warm in the winter."
   },
   {
@@ -301,5 +302,38 @@
     "height": 2,
     "description": "A bathroom for rich people. Spacious, overdesigned, and extravagant. Enjoy your wealth from the comfort of your bathtub.",
     "cost": 2820000
+  },
+  {
+    "name": "Long Kotatsu",
+    "id": 30,
+    "height": 2,
+    "width": 1,
+    "color": "purple",
+    "category": "Table",
+    "comfort": 4,
+    "cost": 30000,
+    "description": "A long but thin table; a comfortable gathering spot in the winter."
+  },
+  {
+    "name": "Dining Kotatsu",
+    "id": 31,
+    "height": 2,
+    "width": 1,
+    "color": "purple",
+    "category": "Table",
+    "comfort": 4,
+    "cost": 110500,
+    "description": "No one asked for this, but here it is! A kotatsu you can eat dinner at. Comes with 4 fancy chairs and a sense of decadence."
+  },
+  {
+    "name": "Charcoal Kotatsu",
+    "id": 32,
+    "height": 3,
+    "width": 2,
+    "color": "purple",
+    "category": "Table",
+    "comfort": 12,
+    "cost": 287500,
+    "description": "With over 80 years of Kotatsu crafting experience, this hand-made charcoal kotatsu weighs as much as a grand piano. No idea if it's any good, though."
   }
 ]
