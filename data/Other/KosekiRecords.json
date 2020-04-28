@@ -5,14 +5,9 @@
     "image": "Boss"
   },
   {
-    "name": "Make 1000000000 Yen",
+    "name": "One Billion",
     "description": "Become a billionaire, in yen.",
     "image": "Yen"
-  },
-  {
-    "name": "Big Spender",
-    "description": "Buy everything you can from your house.",
-    "image": "Spender"
   },
   {
     "name": "Way to go, Romeo",
@@ -35,34 +30,9 @@
     "image": "GoodDad"
   },
   {
-    "name": "Ready to Work",
-    "description": "Complete 5 Work Projects.",
-    "image": "Work"
-  },
-  {
-    "name": "Work, Work",
-    "description": "Complete 25 Work Projects.",
-    "image": "Work"
-  },
-  {
-    "name": "More Work?",
-    "description": "Complete 100 Work Projects.",
-    "image": "Work"
-  },
-  {
-    "name": "Job's Done",
-    "description": "Complete 500 Work Projects.",
-    "image": "Work"
-  },
-  {
     "name": "You're Pretty Good",
     "description": "Level any action to level 100.",
     "image": "ThumbsUp"
-  },
-  {
-    "name": "You're Over-Overflowing",
-    "description": "Spend your whole career in overflow.",
-    "image": "Overflow"
   },
   {
     "name": "You're The Boss' Boss Now",
@@ -80,18 +50,13 @@
   },
   {
     "name": "You're Sodai Gomi Now",
-    "description": "Spend over 90% of your waking hours at work.",
+    "description": "Spend over two-thirds your life working.",
     "image": "Trash"
   },
   {
     "name": "Tired",
     "description": "Spend 5 years getting too little sleep.",
     "image": "HeavySleeper"
-  },
-  {
-    "name": "The Power of Friendship",
-    "description": "Become friends with your boss at each promotion level.",
-    "image": "BossLove"
   },
   {
     "name": "Prodigy",
@@ -112,21 +77,6 @@
     "name": "Well Rested",
     "description": "Spend your whole life sleeping.",
     "image": "Ironman"
-  },
-  {
-    "name": "Twice As Smart",
-    "description": "Double your Intelligence through self-improvement.",
-    "image": "Smart"
-  },
-  {
-    "name": "Twice As Strong",
-    "description": "Double your Strength through self-improvement.",
-    "image": "Strong"
-  },
-  {
-    "name": "Twice As Cool",
-    "description": "Double your Charisma through self-improvement.",
-    "image": "Charm"
   },
   {
     "name": "F Is For Friends",

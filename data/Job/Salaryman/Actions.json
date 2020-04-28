@@ -3,7 +3,7 @@
     "Name": "Meet Coworkers",
     "effect": "New Coworker",
     "effectDescription": "Meet a new coworker",
-    "difficultyMultiplier": 2,
+    "difficultyMultiplier": 6,
     "state": "Normal",
     "ID": 0,
     "maxLevel": 5
@@ -12,7 +12,7 @@
     "name": "Meet Boss",
     "effect": "Boss",
     "effectDescription": "Meet your boss",
-    "difficultyMultiplier": 3,
+    "difficultyMultiplier": 10,
     "state": "Normal",
     "ID": 1,
     "maxLevel": 1
@@ -44,7 +44,7 @@
     "name": "Develop Skill Learning Strategies",
     "effect": "Skill Bonus",
     "effectDescription": "Learn to learn: Skill gain +10% per <img style=\"width:25px;height:25px;margin-top:-3px;\"src=\"data/Images/Ganbaru3.png\" />",
-    "difficultyMultiplier": 5,
+    "difficultyMultiplier": 4,
     "state": "Normal",
     "showExp": true,
     "ID": 4,
@@ -59,6 +59,17 @@
     "state": "Normal",
     "showExp": true,
     "ID": 5,
+    "hideOnMax": false,
+    "maxLevel": 1000
+  },
+  {
+    "name": "Instill Loyalty",
+    "effect": "Underling Opinion",
+    "effectDescription": "Make those who are beneath you feel somehow grateful for working for such a great person as yourself",
+    "difficultyMultiplier": 9,
+    "state": "Normal",
+    "showExp": true,
+    "ID": 6,
     "hideOnMax": false,
     "maxLevel": 1000
   }

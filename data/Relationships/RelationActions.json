@@ -22,6 +22,30 @@
     "state": "Hidden"
   },
   {
+    "Name": "Be Nurturing Towards $",
+    "effect": "Improve Relations $",
+    "effectDescription": "Quickly become close with $",
+    "boostPerLevel": 1,
+    "difficultyMulitplier": 0.3,
+    "unlocksRequired": 1,
+    "hideOnMax": true,
+    "maxLevel": 50,
+    "state": "Hidden",
+    "requiredTrait": "Nurturing"
+  },
+  {
+    "Name": "Be Positive Around $",
+    "effect": "Improve Relations $",
+    "effectDescription": "Quickly become close with $",
+    "boostPerLevel": 1.3,
+    "difficultyMulitplier": 0.5,
+    "unlocksRequired": 1,
+    "hideOnMax": true,
+    "maxLevel": 50,
+    "state": "Hidden",
+    "requiredTrait": "Good"
+  },
+  {
     "name": "Go On Extremely Cheap Date With $",
     "effect": "Improve Relations $",
     "effectDescription": "Find the cheapest places; only the lowest prices for your date",
@@ -72,6 +96,36 @@
     "unlockIfDating": true,
     "maxLevel": 100,
     "requiredTrait": "Extravagant"
+  },
+  {
+    "name": "Teach $ How To Be Strong",
+    "effect": "Strength Boost",
+    "effectDescription": "Teach your son what you know about strength.",
+    "state": "Hidden",
+    "tooltip": "Teach your son what you know about strength. This is easier the stronger you are.",
+    "unlockIfSon": true,
+    "boostPerLevel": 1,
+    "maxLevel": 100
+  },
+  {
+    "name": "Teach $ How To Be Smart",
+    "effect": "Intelligence Boost",
+    "effectDescription": "Teach your son what you know about intelligence.",
+    "state": "Hidden",
+    "tooltip": "Teach your son what you know about intelligence. This is easier the smarter you are.",
+    "unlockIfSon": true,
+    "boostPerLevel": 1,
+    "maxLevel": 100
+  },
+  {
+    "name": "Teach $ How To Be Cool",
+    "effect": "Charisma Boost",
+    "effectDescription": "Teach your son what you know about being cool.",
+    "state": "Hidden",
+    "tooltip": "Teach your son what you know about being cool. This is easier the more charismatic you are.",
+    "unlockIfSon": true,
+    "boostPerLevel": 1,
+    "maxLevel": 100
   }
 
 

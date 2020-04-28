@@ -10,7 +10,7 @@
       "Meet Coworkers",
       "Meet Boss",
       "Optimize Time Use",
-      "Build Motivating Habits",
+      "Build Motivational Habits",
       "Develop Skill Learning Strategies",
       "Grow Your Yaruki"
     ],
@@ -24,7 +24,7 @@
     "minimumWorkMinutes": 480,
     "workLevel": 30,
     "DifficultyMultiplier": 50,
-    "nextPromotionName": "Kachoudairi",
+    "nextPromotionName": "Kakarichou",
     "description": "You're a regular employee now! But if you work hard you can become a Section Chief:Kakarichou."
   },
   {
@@ -55,7 +55,10 @@
     "workLevel": 50,
     "DifficultyMultiplier": 200,
     "nextPromotionName": "Buchoudairi",
-    "description": "You're the Kachou now. But don't think being manager is the end of your journey. Work hard and Buchou might take you on as his new assistant:Buchoudairi."
+    "description": "You're the Kachou now. But don't think being manager is the end of your journey. Work hard and Buchou might take you on as his new assistant:Buchoudairi.",
+    "AddedActionNames": [
+      "Instill Loyalty"
+    ]
   },
   {
     "Name": "Buchoudairi",

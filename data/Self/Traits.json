@@ -48,7 +48,7 @@
   },
   {
     "Name": "The Boss Likes You Now",
-    "Description": "Increasing your Boss Opinion Job Focus now costs -25% <img style=\"height:30px;width:30px;margin-top:35px;\" src=\"data/Images/Ganbaru3.png\"/>",
+    "Description": "Increasing your Boss Opinion Job Focus now costs -25% Ganbaru Points.",
     "Group": "Charisma",
     "subGroup": "Public",
     "modifiedStat": "Boss Opinion",
@@ -66,7 +66,7 @@
   },
   {
     "Name": "Office Hero",
-    "Description": "Increasing your Coworker Opinion Job Focus now costs -25% <img style=\"height:30px;width:30px;margin-top:35px;\" src=\"data/Images/Ganbaru3.png\"/>",
+    "Description": "Increasing your Coworker Opinion Job Focus now costs -25% Ganbaru Points.",
     "Group": "Charisma",
     "subGroup": "Private",
     "modifiedStat": "Coworker Opinion",
@@ -130,7 +130,7 @@
   },
   {
     "Name": "Clever Clogs",
-    "Description": "You're a know-it-all and you know it. +10% faster <img style=\"height:30px;width:30px;\" src=\"data/Images/JobFocus.png\" /> Skill gain.",
+    "Description": "You're a know-it-all and you know it. +10% faster Skill (Job Focus) gain.",
     "Group": "Intelligence",
     "subGroup": "Book",
     "modifiedStat": "Skill",
@@ -139,7 +139,7 @@
   },
   {
     "Name": "Pin Point Focus",
-    "Description": "Your massive brain can focus on one thing better than a regular person. +15% Job Focus Gain per <img style=\"height:30px;width:30px;margin-top:35px;\" src=\"data/Images/Ganbaru3.png\"/>.",
+    "Description": "Your massive brain can focus on one thing better than a regular person. +15% Job Focus Gain per Ganbaru Point.",
     "Group": "Intelligence",
     "subGroup": "Street",
     "modifiedStat": "Job Focus",

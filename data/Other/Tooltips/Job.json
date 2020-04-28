@@ -10,11 +10,6 @@
     "dataText": "You earn Ganbaru Points by going above and beyond at your job. Working beyond your required hours, or getting more done through the day with higher levels of Skill and Knowledge will further increase your Ganbaru Points."
   },
   {
-    "name": "Free Time",
-    "titleText": "Free Time",
-    "dataText": "Free Time is a necessary part of life, but you don't need very much of it to stay happy. The number will change red if you're too low on free time, and your efficiency will suffer as a result."
-  },
-  {
     "name": "Low Free Time",
     "titleText": "Low Free Time",
     "dataText": "You don't get enough free time during the day to recover before the next one! Your efficiency is reduced."
@@ -93,5 +88,15 @@
     "name": "Manipulate Opinions",
     "titleText": "Manipulate Opinions",
     "dataText": "You're evil, so you have no issue with manipulating your coworkers to hate eachother, just to make yourself look better by comparison. It's very effective, but usually avoided by people with working consciences."
+  },
+  {
+    "name": "Tokimochi",
+    "titleText": "Tokimochi",
+    "dataText": "You have some magical mochi you bought at the convenience store. Eating one makes the day go by twice as fast! Golden tokimochi makes time go thrice as fast!"
+  },
+  {
+    "name": "Buying vs Renting",
+    "titleText": "Buying vs Renting",
+    "dataText": "There are a few factors to consider in buying a house or renting an apartment. Firstly, apartments have a monthly income requirement, while houses only cost money up front. Houses tend to have worse commuting times if you commute to your job, and heirs won't inherit their parent's apartment, but they will inherit a house."
   }
 ]

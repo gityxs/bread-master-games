@@ -1,0 +1,39 @@
+[
+  {
+    "Logs": [
+      "Added changelog.",
+      "Added changelog page.",
+      "Fixed tooltips.",
+      "Made change log date a string.",
+      "Added version numbers to change log.",
+      "Added border and background to traits in Relationship view.",
+      "Added the remaining missing trait images.",
+      "Added traits to Koseki Family page."
+    ],
+    "Date": "4/26/20",
+    "Version": "1.0.1"
+  },
+  {
+    "Date": "4/27/20",
+    "Version": "1.0.2",
+    "Logs": [
+      "Added new lore.",
+      "Added pension payment screen.",
+      "Fixed a rounding issue with number formatting.",
+      "Added an alert for getting promoted.",
+      "Fixed a bug that hid all the actions when starting a new game.",
+      "Made the start menu UI show the correct version number.",
+      "Reworked early game balance to be better paced.",
+      "Gave starting parents realistic birthdays.",
+      "Added more tooltips for Job Focuses.",
+      "Made fewer people 20 years old.",
+      "Fixed new heir tooltip.",
+      "Made breakups reduce relationship points.",
+      "Proposals are now guaranteed above a certain threshold.",
+      "Rebalanced work action difficulties.",
+      "Added Underling Opinion Job Focus",
+      "Added Instill Loyalty Work Action",
+      "Uploaded for beta test."
+    ]
+  }
+]

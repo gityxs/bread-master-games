@@ -97,7 +97,7 @@
     "Description": "Extraverts make friends more quickly, but require more time to improve themselves and at hobbies.",
     "Group": "Personality",
     "Effect": "Extraverted",
-    "Image": "Koseki/GoodDad",
+    "Image": "GoodDad",
     "ModfiedStat": "Relationships",
     "Power": 0.05
   },
@@ -184,7 +184,7 @@
     "group": "Paternal Relationship",
     "power": 0.3,
     "modifiedStat": "Son Relationship",
-    "Image": "Koseki/GoodDad",
+    "Image": "GoodDad",
     "occursNaturally": false
   },
   {
@@ -195,5 +195,67 @@
     "modifiedStat": "Son Relationship",
     "Image": "Introverted",
     "occursNaturally": false
+  },
+  {
+    "Name": "Nurturing",
+    "Description": "Nurturing people want to take care of others. They like the idea of being helpful and a benefit to those in need.",
+    "Group": "Heir Relationship",
+    "Image": "Heir",
+    "Effect": "",
+    "modifiedStat": "Son Relationship",
+    "Power": 0.1
+  },
+  {
+    "Name": "Hates Kids",
+    "Description": "Some people hate kids. This person does, too.",
+    "Group": "Heir Relationship",
+    "Image": "HatesKids",
+    "Effect": "",
+    "modifiedStat": "Son Relationship",
+    "Power": -0.1
+  },
+  {
+    "Name": "Perceptive",
+    "Description": "A perceptive person lives in constant frustration as the world around themselves fail to notice what is plain to see.",
+    "Group": "Perception",
+    "Image": "Perceptive",
+    "Effect": "",
+    "Power": 0.1
+  },
+  {
+    "Name": "Grumpy",
+    "Description": "Grumpy people are hard to get to know, and they tend to be slower at getting to know others, too.",
+    "Group": "Relationship Growth",
+    "Image": "Grumpy",
+    "ModfiedStat": "Relationships",
+    "Effect": "",
+    "Power": -0.025
+  },
+  {
+    "Name": "Friendly",
+    "Description": "Friendly people are easy to get to know, and tend to be faster at getting to know others.",
+    "Group": "Relationship Growth",
+    "Image": "Friendly",
+    "Effect": "",
+    "ModfiedStat": "Relationships",
+    "Power": 0.025
+  },
+  {
+    "Name": "Ambitious",
+    "Description": "Ambitious people are always reaching for the next step in their life. They know what they want and they will work towards those goals.",
+    "Group": "Ambition",
+    "Image": "Ambitious",
+    "Effect": "",
+    "ModfiedStat": "Promotion Growth",
+    "Power": 0.1
+  },
+  {
+    "Name": "Content",
+    "Description": "Content people are happy with how things are now. It's harder for them to rise above their rank, but they're also happier in general.",
+    "Group": "Ambition",
+    "Image": "Content",
+    "Effect": "",
+    "ModfiedStat": "Promotion Growth",
+    "Power": -0.1
   }
 ]
