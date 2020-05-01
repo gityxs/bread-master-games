@@ -1,12 +1,9 @@
 ﻿window.kongregateFunctions = {
     
     getUsername: function () {
-        console.log("Getting username...");
         if (window.kongregate.services.isGuest()) {
-            console.log("Player is guest.");
             return "";
         } else {
-            console.log("Player is logged in.");
             return window.kongregate.services.getUsername();
         }
     },
