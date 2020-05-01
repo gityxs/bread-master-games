@@ -93,6 +93,7 @@
     "Logs": [
       "Added ability to link PlayFab Account to Kongregate Account.",
       "Added more pension info to the Heir Selection Menu.",
+      "The game now properly checks if a cloud save exists before trying to pull data from it.",
       "Launched the game!"
     ]
   }
