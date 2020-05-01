@@ -11,7 +11,7 @@
   },
   {
     "name": "One Room Apartment",
-    "rent": 20000,
+    "rent": 15000,
     "commute": 100,
     "description": "An incredibly small apartment. There's a separate room for the toilet, so it's technically two rooms! Cockroaches incl. at no cost.",
     "layoutGrid": [
@@ -22,7 +22,7 @@
   },
   {
     "name": "1K Apartment",
-    "rent": 35000,
+    "rent": 25000,
     "commute": 90,
     "description": "A very small apartment with a separate kitchen. You no longer need to heat your cup ramen in the same room you eat it in!",
     "layoutGrid": [
@@ -34,7 +34,7 @@
   },
   {
     "name": "2K Apartment",
-    "rent": 45000,
+    "rent": 35000,
     "commute": 90,
     "description": "An apartment with two rooms and a kitchen. What will you do with all that extra space?",
     "layoutGrid": [
@@ -47,7 +47,7 @@
   },
   {
     "name": "2DK Apartment",
-    "rent": 128000,
+    "rent": 68000,
     "commute": 90,
     "description": "A decent sized apartment, perfect for more than one person to live in at the same time.",
     "layoutGrid": [
@@ -60,7 +60,7 @@
   },
   {
     "name": "2LDK Apartment",
-    "rent": 280000,
+    "rent": 180000,
     "commute": 70,
     "description": "A full sized apartment with a living room, dining room, kitchen, and two bedrooms.",
     "layoutGrid": [
@@ -75,7 +75,7 @@
   },
   {
     "name": "Large 2LDK Apartment",
-    "rent": 650000,
+    "rent": 450000,
     "commute": 60,
     "description": "A very spacious 2LDK, perfect for a wealthy couple with no kids.",
     "layoutGrid": [
@@ -90,7 +90,7 @@
   },
   {
     "name": "3LDK Apartment",
-    "rent": 1490000,
+    "rent": 990000,
     "commute": 45,
     "description": "A full sized apartment with a living room, dining room, kitchen, and three bedrooms. Good for a growing family.",
     "layoutGrid": [
@@ -106,8 +106,8 @@
   },
   {
     "name": "4LDK Apartment",
-    "rent": 3220000,
-    "commute": 45,
+    "rent": 2220000,
+    "commute": 30,
     "description": "A massive apartment with 4 bedrooms located in downtown Tokyo.",
     "layoutGrid": [
       [ 0, 0, 1, 0, 0, 0, 0, 0 ],
@@ -124,7 +124,7 @@
   {
     "name": "Luxurious 4LDK",
     "rent": 4550000,
-    "commute": 30,
+    "commute": 15,
     "description": "An extremely luxurious apartment for a wealthy businessman.",
     "layoutGrid": [
       [ 0, 0, 1, 0, 0, 0, 0, 0, 0 ],
@@ -141,7 +141,7 @@
   },
   {
     "name": "Small Mansion",
-    "cost": 3500000,
+    "cost": 3200000,
     "commute": 120,
     "description": "A small condo for a starting family. High purchase cost but no rent price.",
     "layoutGrid": [
@@ -153,7 +153,7 @@
   },
   {
     "name": "Mansion",
-    "cost": 8800000,
+    "cost": 8100000,
     "commute": 120,
     "description": "A regular condo.",
     "layoutGrid": [

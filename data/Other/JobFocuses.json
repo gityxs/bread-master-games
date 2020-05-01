@@ -54,5 +54,12 @@
     "maxLevel": 100,
     "state": "Hidden",
     "promotionValue": 0.8
+  },
+  {
+    "name": "Mediate",
+    "ganbaruPointsPerExp": 10,
+    "maxLevel": 100,
+    "state": "Hidden",
+    "promotionValue": 3
   }
 ]

@@ -57,12 +57,12 @@
   {
     "name": "Comfort",
     "titleText": "Comfort",
-    "dataText": "Comfort is a measure of how comfortable your home is. Homes have a base comfort, and adding furniture can increase it. Be careful, though, duplicate furniture provides diminishing returns!"
+    "dataText": "Comfort is a measure of how comfortable your home is. Homes have a base comfort, and adding furniture can increase it. Be careful, though, duplicate furniture provides diminishing returns! A more comfortable home makes you more efficient in your relaxation and in your work."
   },
   {
     "name": "Convenience",
     "titleText": "Convenience",
-    "dataText": "Convenience is a measure of how efficient you can be at home. More expensive furniture can really add to the convenience of your home and make your time at home much better spent."
+    "dataText": "Convenience is a measure of how efficient you can be at home. More expensive furniture can really add to the convenience of your home and make your time at home much better spent. It works as a direct multiplier to the relationship growth you gain by spending time at home with your family."
   },
   {
     "name": "Relationship Points",
@@ -98,5 +98,10 @@
     "name": "Buying vs Renting",
     "titleText": "Buying vs Renting",
     "dataText": "There are a few factors to consider in buying a house or renting an apartment. Firstly, apartments have a monthly income requirement, while houses only cost money up front. Houses tend to have worse commuting times if you commute to your job, and heirs won't inherit their parent's apartment, but they will inherit a house."
+  },
+  {
+    "name": "Mediate",
+    "titleText": "Mediating",
+    "dataText": "As the lowest level employee who isn't a regular Ippanshain, the Kakarichou's job is to mediate and serve as an informational pipeline between disgruntled employees and clueless upper management."
   }
 ]

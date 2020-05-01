@@ -33,7 +33,7 @@
     "name": "Build Motivational Habits",
     "effect": "Motivation Bonus",
     "effectDescription": "Become a more driven person: Motivation gain +10% per <img style=\"width:25px;height:25px;margin-top:-3px;\"src=\"data/Images/Ganbaru3.png\" />",
-    "difficultyMultiplier": 1,
+    "difficultyMultiplier": 3,
     "state": "Normal",
     "ID": 3,
     "hideOnMax": false,

@@ -35,5 +35,66 @@
       "Added Instill Loyalty Work Action",
       "Uploaded for beta test."
     ]
+  },
+  {
+    "Date": "4/28/20",
+    "Version": "1.0.3",
+    "Logs": [
+      "Fixed promotion alert severity.",
+      "Added a message to let players know job focuses are buttons.",
+      "Redid the relationship view to be more legible.",
+      "Added more info to the relationships sidebar.",
+      "Added more info to the income sidebar.",
+      "Fixed a bug with interest rates applying improperly.",
+      "Fixed a relationship action bug.",
+      "Added alert for when Job Focus tab is unlocked.",
+      "Made it more apparent that the Self Traits are buttons.",
+      "Slowed relationship point growth.",
+      "Added alert for when the player can buy another self trait.",
+      "The settings menu properly unlocks now.",
+      "Lowered apartment costs."
+    ]
+  },
+  {
+    "Date": "4/29/20",
+    "Version": "1.0.4",
+    "Logs": [
+      "Fixed the UI for job focuses to show the right number.",
+      "Raised relationship point growth.",
+      "Fixed Work Project Overflow bug.",
+      "Added changelog to start menu.",
+      "Added Mediation Job Focus.",
+      "Made it more clear when buying furniture that the player actually bought furniture.",
+      "Added the commute time to the House menu.",
+      "Fixed the yen tooltip",
+      "Made it more clear that Self Action columns are buttons.",
+      "Added a daily promotion point counter to the Job Focus menu.",
+      "Added a notification for Work Project Completion.",
+      "Cleaned up proposal tooltip",
+      "Fixed spacing issue with Relationships sidebar."
+    ]
+  },
+  {
+    "Date": "4/30/20",
+    "Version": "1.0.5",
+    "Logs": [
+      "Fixed a bug that made alerts not disappear after clicking on them.",
+      "Added an alert for when the player's girlfriend breaks up with them.",
+      "Added a cooldown for proposing.",
+      "Added alert images for a number of alerts.",
+      "Made House tooltips more clear on the purpose of Comfort and Convenience.",
+      "Fixed a bug that gave the wrong last save time.",
+      "Added last save time to the save file."
+    ]
+  },
+  {
+    "Date": "5/1/20",
+    "Version": "1.0.6",
+    "Logs": [
+      "Added ability to link PlayFab Account to Kongregate Account.",
+      "Added more pension info to the Heir Selection Menu.",
+      "Launched the game!"
+    ]
   }
+
 ]
