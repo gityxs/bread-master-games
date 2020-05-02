@@ -89,7 +89,7 @@
   },
   {
     "Date": "5/1/20",
-    "Version": "1.0.6b",
+    "Version": "1.0.6c",
     "Logs": [
       "Added ability to link PlayFab Account to Kongregate Account.",
       "Added more pension info to the Heir Selection Menu.",
@@ -104,7 +104,8 @@
       "Removed some save data that is no longer used.",
       "Launched the game!",
       "Fixed a UI issue that caused the game to jump when getting and closing alerts.",
-      "Fixed a bug that made your second generation unable to marry or date."
+      "Fixed a bug that made your second generation unable to marry or date.",
+      "Fixed a few bugs with second generation heirs interacting with people."
     ]
   }
 
