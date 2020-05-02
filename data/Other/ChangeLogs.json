@@ -89,7 +89,7 @@
   },
   {
     "Date": "5/1/20",
-    "Version": "1.0.6",
+    "Version": "1.0.6b",
     "Logs": [
       "Added ability to link PlayFab Account to Kongregate Account.",
       "Added more pension info to the Heir Selection Menu.",
@@ -102,7 +102,9 @@
       "Fixed a bug with Work Project Alerts.",
       "Fixed the Discord invite link.",
       "Removed some save data that is no longer used.",
-      "Launched the game!"
+      "Launched the game!",
+      "Fixed a UI issue that caused the game to jump when getting and closing alerts.",
+      "Fixed a bug that made your second generation unable to marry or date."
     ]
   }
 
