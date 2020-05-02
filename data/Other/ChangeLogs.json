@@ -94,6 +94,14 @@
       "Added ability to link PlayFab Account to Kongregate Account.",
       "Added more pension info to the Heir Selection Menu.",
       "The game now properly checks if a cloud save exists before trying to pull data from it.",
+      "Fixed a bug that caused houses to crash if furniture was placed in certain places while buying a new one.",
+      "Fixed a bug that caused Job Focus experience to not properly save/load.",
+      "Fixed Self actions to show the Click Here to Select text more clearly.",
+      "Fixed a bug that made Self traits not properly load after loading a saved game.",
+      "Fixed a bug that made furniture load improperly.",
+      "Fixed a bug with Work Project Alerts.",
+      "Fixed the Discord invite link.",
+      "Removed some save data that is no longer used.",
       "Launched the game!"
     ]
   }
