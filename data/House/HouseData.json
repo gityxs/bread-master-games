@@ -140,10 +140,10 @@
     ]
   },
   {
-    "name": "Small Mansion",
+    "name": "Small 1K Condo",
     "cost": 3200000,
     "commute": 120,
-    "description": "A small condo for a starting family. High purchase cost but no rent price.",
+    "description": "A small condo for someone just starting out. High purchase cost but no rent price.",
     "layoutGrid": [
       [ 0, 0, 1, 0 ],
       [ 0, 0, 1, 0 ],
@@ -152,10 +152,10 @@
     ]
   },
   {
-    "name": "Mansion",
+    "name": "Medium 1K Condo",
     "cost": 8100000,
     "commute": 120,
-    "description": "A regular condo.",
+    "description": "A regular condo with enough space for all of the basic amenities.",
     "layoutGrid": [
       [ 0, 0, 1, 0, 0 ],
       [ 0, 0, 1, 0, 0 ],
@@ -164,10 +164,10 @@
     ]
   },
   {
-    "name": "Mansion",
+    "name": "Small 2DK Condo",
     "cost": 15600000,
     "commute": 120,
-    "description": "A regular condo.",
+    "description": "Space is very limited but at least there are 2 bedrooms.",
     "layoutGrid": [
       [ 0, 0, 1, 0, 0, 0 ],
       [ 0, 0, 1, 0, 0, 0 ],
@@ -179,10 +179,10 @@
     ]
   },
   {
-    "name": "Mansion",
+    "name": "Medium 2LDK Condo",
     "cost": 374800000,
     "commute": 100,
-    "description": "A regular condo.",
+    "description": "Space enough for a couple who like to live comfortably.",
     "layoutGrid": [
       [ 0, 1, 0, 0, 0, 0, 0 ],
       [ 0, 1, 0, 1, 0, 0, 0 ],
@@ -194,10 +194,10 @@
     ]
   },
   {
-    "name": "Mansion",
+    "name": "3LDK Condo",
     "cost": 558800000,
     "commute": 100,
-    "description": "A regular condo.",
+    "description": "A must for any large family to each have their own space.",
     "layoutGrid": [
       [ 0, 0, 1, 0, 0, 0, 0, 0 ],
       [ 0, 0, 1, 0, 0, 0, 0, 0 ],
@@ -210,10 +210,10 @@
     ]
   },
   {
-    "name": "Mansion",
+    "name": "Large 2LDK Condo",
     "cost": 880000000,
     "commute": 80,
-    "description": "A regular condo.",
+    "description": "A space closer to work but not sacrificing any comforts.",
     "layoutGrid": [
       [ 0, 0, 1, 0, 0, 0, 0, 0 ],
       [ 0, 0, 1, 0, 0, 0, 0, 0 ],
@@ -226,10 +226,10 @@
     ]
   },
   {
-    "name": "Mansion",
+    "name": "3LDK Mansion",
     "cost": 3500000000,
     "commute": 60,
-    "description": "A regular condo.",
+    "description": "Once you have enough money, space no longer seems so precious.",
     "layoutGrid": [
       [ 0, 0, 1, 0, 0, 0, 0, 0, 0 ],
       [ 0, 0, 1, 0, 1, 0, 0, 0, 0 ],
@@ -244,10 +244,10 @@
     ]
   },
   {
-    "name": "Mansion",
+    "name": "Penthouse Suite",
     "cost": 25900000000,
     "commute": 30,
-    "description": "A regular condo.",
+    "description": "A luxurious downtown suite with more than enough space.  It's like 4 separate apartments!",
     "layoutGrid": [
       [ 0, 0, 1, 0, 0, 0, 0, 0, 0, 0 ],
       [ 0, 0, 1, 0, 0, 1, 0, 0, 0, 0 ],

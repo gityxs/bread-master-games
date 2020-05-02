@@ -6,7 +6,8 @@
     "boostPerLevel": 0.1,
     "difficultyMultiplier": 1,
     "ID": 1000,
-    "maxLevel": 100
+    "maxLevel": 100,
+    "hasLegacyLevels": false
   },
   {
     "Name": "Charisma",
@@ -15,7 +16,8 @@
     "boostPerLevel": 0.1,
     "difficultyMultiplier": 1,
     "ID": 1001,
-    "maxLevel": 100
+    "maxLevel": 100,
+    "hasLegacyLevels": false
   },
   {
     "Name": "Intelligence",
@@ -24,7 +26,8 @@
     "boostPerLevel": 0.1,
     "difficultyMultiplier": 1,
     "ID": 1002,
-    "maxLevel": 100
+    "maxLevel": 100,
+    "hasLegacyLevels": false
   }
 
 ]

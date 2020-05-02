@@ -107,6 +107,32 @@
       "Fixed a bug that made your second generation unable to marry or date.",
       "Fixed a few bugs with second generation heirs interacting with people."
     ]
+  },
+  {
+    "Date": "5/2/20",
+    "Version": "1.0.7",
+    "Logs": [
+      "Fixed an issue where the Koseki menu never was unlocked.",
+      "Fixed a bug with the Price Comparer perk.",
+      "Fixed a bug where Self traits didn't reset properly",
+      "Office Hero and Boss Likes You Now traits have been fixed.",
+      "Fixed a bug that made promotions sometimes fail when they shouldn't",
+      "Job Focus progress bars now properly show progress.",
+      "Rotated furniture now properly loads back into the game.",
+      "The game now resets time allocation on starting with a new heir.",
+      "Work Projects and Self Actions no longer show Legacy Levels",
+      "Added a notification for maxing a Self trait",
+      "The list of traits in the Self Info menu now wrap instead of overflowing off screen.",
+      "The game now remembers your last selected Job Focus on load.",
+      "The game now remembers your current Self Action on load",
+      "Fixed a bug that let overloaded actions give extra bonuses beyond the max level.",
+      "Fixed a UI issue with overloaded actions being the wrong color after maxing.",
+      "The amount of extra Promotion Points you get from levelling a work project has been doubled.",
+      "The relationships screen now scrolls if you have enough relationships to require it.",
+      "Shortened the height of the House shop so you can see all of it at once.",
+      "Shortened the height of the Furniture Shop so you can see all the kitchens at once.",
+      "Added tooltips to Convenience and Comfort values to make it more clear what they are actually providing the player."
+    ]
   }
 
 ]

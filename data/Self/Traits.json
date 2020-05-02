@@ -48,12 +48,12 @@
   },
   {
     "Name": "The Boss Likes You Now",
-    "Description": "Increasing your Boss Opinion Job Focus now costs -25% Ganbaru Points.",
+    "Description": "Increasing your Boss Opinion Job Focus now gives +25% exp per Ganbaru Point.",
     "Group": "Charisma",
     "subGroup": "Public",
     "modifiedStat": "Boss Opinion",
     "Image": "BossLove",
-    "Power": -0.25
+    "Power": 0.25
   },
   {
     "Name": "Mind Reader",
@@ -66,12 +66,12 @@
   },
   {
     "Name": "Office Hero",
-    "Description": "Increasing your Coworker Opinion Job Focus now costs -25% Ganbaru Points.",
+    "Description": "Increasing your Coworker Opinion Job Focus now gives +25% exp per Ganbaru Point.",
     "Group": "Charisma",
     "subGroup": "Private",
     "modifiedStat": "Coworker Opinion",
     "Image": "OfficeLove",
-    "Power": -0.25
+    "Power": 0.25
   },
   {
     "Name": "Clear Mind",
@@ -162,7 +162,7 @@
     "modifiedStat": "Cost",
     "subGroup": "Book",
     "Image": "PriceComparer",
-    "Power": 0.1
+    "Power": -0.1
   },
   {
     "Name": "Ironman",
