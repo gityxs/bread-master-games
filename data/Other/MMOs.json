@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Place of Peacecraft",
+    "hoursToMax": 100,
+    "GPToYen": 10.5,
+    "attentionRequired": 3,
+    "maxGPPerHour": 1000
+  },
+  {
+    "name": "Oldschool Moonscape",
+    "hoursToMax": 6000,
+    "GPToYen": 105.5,
+    "attentionRequired": 25,
+    "maxGPPerHour": 500000
+  },
+  {
+    "name": "Skills Idle Online",
+    "hoursToMax": 45000,
+    "GPToYen": 0.01,
+    "attentionRequired": 0.1,
+    "maxGPPerHour": 2100000
+  }
+]

@@ -1,0 +1,148 @@
+[
+  {
+    "Name": "Learn New Recipes",
+    "effect": "Make a Dish",
+    "effectDescription": "Improves Dish Making Speed",
+    "boostPerLevel": 0.1,
+    "difficultyMultiplier": 0.5,
+    "id": 4000
+  },
+  {
+    "Name": "Make a Dish",
+    "effect": "Promotion",
+    "effectDescription": "Improves Hobby Growth Speed",
+    "boostPerLevel": 0.15,
+    "difficultyMulitplier": 2,
+    "id": 4001
+  },
+  {
+    "Name": "Take Cooking Classes",
+    "effect": "Promotion",
+    "effectDescription": "Costs Money But Improves Hobby Growth Speed",
+    "boostPerLevel": 0.3,
+    "difficultyMulitplier": 2,
+    "dailyCost": 3000,
+    "id": 4002
+  },
+  {
+    "Name": "Read Cookbook",
+    "effect": "Promotion",
+    "effectDescription": "Improves Hobby Growth Speed",
+    "boostPerLevel": 0.1,
+    "difficultyMulitplier": 5,
+    "id": 4003
+  },
+  {
+    "Name": "Eat Food",
+    "effect": "Make a Dish",
+    "effectDescription": "Improves Dish Making Speed",
+    "boostPerLevel": 0.15,
+    "difficultyMulitplier": 2,
+    "id": 4004
+  },
+  {
+    "Name": "Try New Recipe",
+    "effect": "Make a Dish",
+    "effectDescription": "Improves Dish Making Speed",
+    "boostPerLevel": 0.15,
+    "difficultyMulitplier": 10,
+    "id": 4005
+  },
+  {
+    "Name": "Create New Recipes",
+    "effect": "Make a Dish",
+    "effectDescription": "Improves Dish Making Speed",
+    "boostPerLevel": 0.15,
+    "difficultyMulitplier": 10,
+    "id": 4006
+  },
+  {
+    "Name": "Write Cookbooks",
+    "effect": "Create New Recipes",
+    "effectDescription": "Improves New Recipe Creation Speed",
+    "boostPerLevel": 0.15,
+    "difficultyMulitplier": 30,
+    "id": 4007
+  },
+  {
+    "Name": "Practice Techskill",
+    "effect": "Enter Tournaments, Enter Large Tournaments, Enter International Tournaments",
+    "effectDescription": "Improves Tournament Play",
+    "boostPerLevel": 0.15,
+    "difficultyMulitplier": 3,
+    "id": 4008
+  },
+  {
+    "Name": "Watch Matches",
+    "effect": "Enter Tournaments, Enter Large Tournaments, Enter International Tournaments",
+    "effectDescription": "Improves Tournament Play",
+    "boostPerLevel": 0.15,
+    "difficultyMulitplier": 3,
+    "id": 4009
+  },
+  {
+    "Name": "Play With Friends",
+    "effect": "Enter Tournaments, Enter Large Tournaments, Enter International Tournaments",
+    "effectDescription": "Improves Tournament Play",
+    "boostPerLevel": 0.15,
+    "difficultyMulitplier": 3,
+    "id": 4010
+  },
+  {
+    "Name": "Study Matches",
+    "effect": "Enter Tournaments, Enter Large Tournaments, Enter International Tournaments",
+    "effectDescription": "Improves Tournament Play",
+    "boostPerLevel": 0.15,
+    "difficultyMulitplier": 3,
+    "id": 4011
+  },
+  {
+    "Name": "Money Match Players",
+    "effect": "Enter Tournaments, Enter Large Tournaments, Enter International Tournaments",
+    "effectDescription": "Improves Tournament Play",
+    "boostPerLevel": 0.15,
+    "difficultyMulitplier": 3,
+    "id": 4012
+  },
+  {
+    "Name": "Enter Tournaments",
+    "effect": "Enter Tournaments, Enter Large Tournaments, Enter International Tournaments",
+    "effectDescription": "Improves Tournament Play",
+    "boostPerLevel": 0.15,
+    "difficultyMulitplier": 3,
+    "id": 4013
+  },
+  {
+    "Name": "Play Top Players",
+    "effect": "Enter Tournaments, Enter Large Tournaments, Enter International Tournaments",
+    "effectDescription": "Improves Tournament Play",
+    "boostPerLevel": 0.15,
+    "difficultyMulitplier": 3,
+    "id": 4014
+  },
+  {
+    "Name": "Enter Large Tournaments",
+    "effect": "Enter Tournaments, Enter Large Tournaments, Enter International Tournaments",
+    "effectDescription": "Improves Tournament Play",
+    "boostPerLevel": 0.15,
+    "difficultyMulitplier": 3,
+    "id": 4015
+  },
+  {
+    "Name": "Enter International Tournaments",
+    "effect": "Enter Tournaments, Enter Large Tournaments, Enter International Tournaments",
+    "effectDescription": "Improves Tournament Play",
+    "boostPerLevel": 0.15,
+    "difficultyMulitplier": 3,
+    "id": 4016
+  },
+  {
+    "Name": "Invite Top Players To Practice",
+    "effect": "Enter Tournaments, Enter Large Tournaments, Enter International Tournaments",
+    "effectDescription": "Improves Tournament Play",
+    "boostPerLevel": 0.15,
+    "difficultyMulitplier": 3,
+    "id": 4017
+  }
+
+]

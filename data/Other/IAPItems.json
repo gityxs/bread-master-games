@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Tokimochi",
+    "description": "A chewy rice-based time-altering snack. Eating these will make time fly by!",
+    "image": "Tokimochi"
+  },
+  {
+    "name": "Golden Tokimochi",
+    "description": "A golden mochi ball that speeds up time. It tastes like metal.",
+    "image": "GoldenTokimochi"
+  },
+  {
+    "name": "Yarinaoshi Cube",
+    "description": "A little glowing box. Squeeze it tight and it'll drag you right back to your youth. You won't remember anything, though.",
+    "image": "YarinaoshiCube"
+  },
+  {
+    "name": "Golden Yarinaoshi Cube",
+    "description": "A brightly glowing box. Squeezing it will send you back in time, with your memories and skills intact.",
+    "image": "GoldenYarinaoshiCube"
+  },
+  {
+    "name": "Momotarou Whistle",
+    "description": "Blow this whistle at the edge of a river and a momotarou baby will float to you.",
+    "image": "Peach"
+  }
+]

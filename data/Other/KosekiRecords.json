@@ -1,0 +1,87 @@
+[
+  {
+    "name": "You're The Boss Now",
+    "description": "Become a Buchou.",
+    "image": "Boss"
+  },
+  {
+    "name": "One Billion",
+    "description": "Become a billionaire, in yen.",
+    "image": "Yen"
+  },
+  {
+    "name": "Way to go, Romeo",
+    "description": "Marry the first girl you meet.",
+    "image": "Romeo"
+  },
+  {
+    "name": "Thanks, Mom",
+    "description": "Reach age 30 without getting married.",
+    "image": "Unmarried"
+  },
+  {
+    "name": "I Like This One",
+    "description": "Have a favorite son.",
+    "image": "Favorite"
+  },
+  {
+    "name": "Good Dad",
+    "description": "Be best friends with all your heirs.",
+    "image": "GoodDad"
+  },
+  {
+    "name": "You're Pretty Good",
+    "description": "Level any action to level 100.",
+    "image": "ThumbsUp"
+  },
+  {
+    "name": "You're The Boss' Boss Now",
+    "description": "Become a Kaichou",
+    "image": "Boss"
+  },
+  {
+    "name": "Truly Content",
+    "description": "Never get promoted past Ippanshain.",
+    "image": "Content"
+  },
+  {
+    "name": "I Spent 100s of Hours Designing $",
+    "description": "Max a Work Project."
+  },
+  {
+    "name": "You're Sodai Gomi Now",
+    "description": "Spend over two-thirds your life working.",
+    "image": "Trash"
+  },
+  {
+    "name": "Tired",
+    "description": "Spend 5 years getting too little sleep.",
+    "image": "HeavySleeper"
+  },
+  {
+    "name": "Prodigy",
+    "description": "Get promoted in your first week on the job.",
+    "image": "Prodigy"
+  },
+  {
+    "name": "So Now That You've Retired, Are You Moving Out?",
+    "description": "Never move out from your parent's house.",
+    "image": "StayHome"
+  },
+  {
+    "name": "Where'd The Money Go???",
+    "description": "Retire with less than 10,000 yen in your bank account.",
+    "image": "NoMoney"
+  },
+  {
+    "name": "Well Rested",
+    "description": "Spend your whole life sleeping.",
+    "image": "Ironman"
+  },
+  {
+    "name": "F Is For Friends",
+    "description": "Make at least 15 friends in one life.",
+    "image": "Relationships"
+  }
+
+]

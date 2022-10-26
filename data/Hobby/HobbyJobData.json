@@ -1,0 +1,66 @@
+[
+  {
+    "Name": "Cooking",
+    "ID": 0,
+    "LevelNames": [
+      "Microwaver",
+      "Egg Burner",
+      "Crockpot Novice",
+      "Successfully Cooks Some Dishes",
+      "Spice User",
+      "Sushi Slicer",
+      "Competent Cook",
+      "Recipe Designer",
+      "Culinary Artist",
+      "Amateur Chef",
+      "Skilled Chef",
+      "Brilliant Chef",
+      "Iron Chef",
+      "King Chef",
+      "Ryouri Jinbutsu",
+      "Sekai Ichi Ryouri Jinbutsu"
+    ]
+  },
+  {
+    "Name": "Competitive Splash Bros.",
+    "ID": 1,
+    "LevelNames": [
+      "Total Noob",
+      "Beginner",
+      "0-2 Fodder",
+      "Occasional Match Winner",
+      "Competent But Bad",
+      "Competent",
+      "Above Average",
+      "HM on PR",
+      "Power Ranked",
+      "Top 3 in City",
+      "Best Player in City",
+      "Top 5 in Japan",
+      "Best Player in Japan",
+      "Top 10 Worldwide",
+      "Top 5 Worldwide",
+      "Contender for Best in the World",
+      "Best in the World",
+      "The Greatest of All Time"
+    ]
+  },
+  {
+    "Name": "Anime",
+    "ID": 2,
+    "LevelNames": [
+      "Casual Viewer",
+      "Long-time Viewer",
+      "MAL User",
+      "Obscure Anime Viewer",
+      "Otaku",
+      "Merch Buyer",
+      "Pillow Owner",
+      "Anime Addict",
+      "Even Seen the Bad Ones",
+      "Practically 2D",
+      "Isekai Adventurer"
+    ]
+  }
+
+]

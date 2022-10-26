@@ -1,0 +1,212 @@
+[
+  {
+    "Name": "Friendly",
+    "Description": "Gain the power of people liking you more. Relationships improve 15% faster.",
+    "Group": "Charisma",
+    "subGroup": "Private",
+    "ModifiedStat": "Relationships",
+    "Image": "GoodDad",
+    "Power": 0.15
+  },
+  {
+    "Name": "Likable at a Distance",
+    "Description": "People like you before ever meeting you. Start relationships with 250 Relationship Points",
+    "Group": "Charisma",
+    "subGroup": "Public",
+    "ModifiedStat": "Relationship Points",
+    "additiveBonus": true,
+    "Image": "Charm",
+    "Power": 250
+  },
+  {
+    "Name": "Marriage Material",
+    "Description": "Who wouldn't want to marry you? Marriage success odds +30%",
+    "Group": "Charisma",
+    "subGroup": "Private",
+    "modifiedStat": "Marriage Success Chance",
+    "Image": "Marriage",
+    "Power": 0.3
+  },
+  {
+    "Name": "I Can Do It Myself, Mom!",
+    "Description": "Convince your mother to hold off on an arranged marriage for an extra 5 years.",
+    "Group": "Charisma",
+    "subGroup": "Private",
+    "ModifiedStat": "Auto Marry Age",
+    "additiveBonus": true,
+    "Image": "LoveTime",
+    "Power": 5
+  },
+  {
+    "Name": "Speed Dating",
+    "Description": "Unlocking this trait instantly pairs you with two new marriage candidates.",
+    "Group": "Charisma",
+    "subGroup": "Public",
+    "Effect": "Speed Dating",
+    "Image": "SpeedDate",
+    "Power": 2
+  },
+  {
+    "Name": "The Boss Likes You Now",
+    "Description": "Increasing your Boss Opinion Job Focus now gives +25% exp per Ganbaru Point.",
+    "Group": "Charisma",
+    "subGroup": "Public",
+    "modifiedStat": "Boss Opinion",
+    "Image": "BossLove",
+    "Power": 0.25
+  },
+  {
+    "Name": "Mind Reader",
+    "Description": "You've gotten to know enough people that reading them has become second nature. Know more things about the people around you.",
+    "Group": "Charisma",
+    "subGroup": "Private",
+    "modifiedStat": "",
+    "Image": "ClearMind",
+    "Power": 1
+  },
+  {
+    "Name": "Office Hero",
+    "Description": "Increasing your Coworker Opinion Job Focus now gives +25% exp per Ganbaru Point.",
+    "Group": "Charisma",
+    "subGroup": "Private",
+    "modifiedStat": "Coworker Opinion",
+    "Image": "OfficeLove",
+    "Power": 0.25
+  },
+  {
+    "Name": "Clear Mind",
+    "Description": "Build strength to build a better you. 15% faster Strength, Charisma, and Intelligence gain.",
+    "Group": "Strength",
+    "subGroup": "Healthy",
+    "ModifiedStat": "Self",
+    "Image": "ClearMind",
+    "Power": 0.15
+  },
+  {
+    "Name": "Intimidation",
+    "Description": "Intimidate everyone you meet with your superior Strength. Boosts Promotion Speed by 5%.",
+    "Group": "Strength",
+    "subGroup": "Powerful",
+    "modifiedStat": "Promotion Growth",
+    "Image": "Intimidate",
+    "Power": 0.05
+  },
+  {
+    "Name": "Healthy Lifestyle",
+    "Description": "You're strong and healthy. Extends your life by 5 years. (Note:This does not affect retirement age.)",
+    "Group": "Strength",
+    "subGroup": "Healthy",
+    "ModifiedStat": "Death Age",
+    "additiveBonus": true,
+    "Image": "Healthy",
+    "Power": 5
+  },
+  {
+    "Name": "Strong Leader",
+    "Description": "Strong leaders inspire those beneath themselves to rise up to greater heights. Boosts promotion speed by the number of times you've been promoted.",
+    "Group": "Strength",
+    "subGroup": "Powerful",
+    "modifiedStat": "Promotion Growth per Level",
+    "Image": "StrongLeader",
+    "Power": 0.01
+  },
+  {
+    "Name": "Powerful Sleeper",
+    "Description": "Work Hard, Sleep Hard. Reduce required sleep time by 10%",
+    "Group": "Strength",
+    "subGroup": "Healthy",
+    "ModifiedStat": "Sleep",
+    "Image": "PowerSleep",
+    "Power": -0.1
+  },
+  {
+    "Name": "Extra Strong",
+    "Description": "Being strong sometimes means being really strong. +5 Strength levels to anything that checks or requires Strength.",
+    "Group": "Strength",
+    "subGroup": "Powerful",
+    "modifiedStat": "Strength Bonus",
+    "Image": "Strong",
+    "Power": 5
+  },
+  {
+    "Name": "Clever Clogs",
+    "Description": "You're a know-it-all and you know it. +10% faster Skill (Job Focus) gain.",
+    "Group": "Intelligence",
+    "subGroup": "Book",
+    "modifiedStat": "Skill",
+    "Image": "Smart",
+    "Power": 0.1
+  },
+  {
+    "Name": "Pin Point Focus",
+    "Description": "Your massive brain can focus on one thing better than a regular person. +15% Job Focus Gain per Ganbaru Point.",
+    "Group": "Intelligence",
+    "subGroup": "Street",
+    "modifiedStat": "Job Focus",
+    "Image": "JobFocus",
+    "Power": 0.15
+  },
+  {
+    "Name": "Efficient Brain",
+    "Description": "Your intelligence has grown to become more efficient by its very nature. +8% Efficiency.",
+    "Group": "Intelligence",
+    "subGroup": "Book",
+    "modifiedStat": "Efficiency",
+    "Image": "EfficientBrain",
+    "Power": 0.08
+  },
+  {
+    "Name": "Price Comparer",
+    "Description": "You've learned to do your research before buying anything. 10% Cost reduction on anything you buy.",
+    "Group": "Intelligence",
+    "modifiedStat": "Cost",
+    "subGroup": "Book",
+    "Image": "PriceComparer",
+    "Power": -0.1
+  },
+  {
+    "Name": "Ironman",
+    "Description": "You've researched the science of sleep, and how to make sure every hour counts the most. -10% Required Sleep.",
+    "Group": "Intelligence",
+    "subGroup": "Street",
+    "modifiedStat": "Sleep",
+    "Image": "Ironman",
+    "Power": -0.1
+  },
+  {
+    "Name": "Investor",
+    "Description": "Learn the stock market, and invest a portion of your money every month. Gain +3% of your current Yen every month.",
+    "Group": "Intelligence",
+    "subGroup": "Book",
+    "modifiedStat": "Interest",
+    "Image": "Investor",
+    "Power": 0.03
+  },
+  {
+    "Name": "Planner",
+    "Description": "Plans are useless, but planning is essential. +15% Faster Planning in Work Projects.",
+    "Group": "Intelligence",
+    "subGroup": "Book",
+    "modifiedStat": "Planning",
+    "Image": "Planner",
+    "Power": 0.15
+  },
+  {
+    "Name": "No Time Wasted",
+    "Description": "Free time is for the lesser minded. You can go with the bare minimum to keep yourself sane. -25% Freetime Required.",
+    "Group": "Intelligence",
+    "subGroup": "Street",
+    "Image": "TimeWaste",
+    "modifiedStat": "Free Time",
+    "Power": -0.25
+  },
+  {
+    "Name": "Pension Pusher",
+    "Description": "You realize the only way to pay off the yakuza and free your family from debt is to pump money into your pension. +15% Monthly Pension Payments. (This does lower your take-home pay.)",
+    "Group": "Intelligence",
+    "subGroup": "Street",
+    "Image": "Pension",
+    "modifiedStat": "Pension",
+    "Power": 0.15
+  }
+]

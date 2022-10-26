@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Tottori",
+    "population": 191601,
+    "isUrban": true,
+    "oldRatio": 28.0,
+    "youthRatio": 13.2,
+    "wealthyRatio": 13,
+    "poorRatio": 11.3
+  },
+  {
+    "name": "Yonago",
+    "population": 148720,
+    "isUrban": true,
+    "oldRatio": 28.4,
+    "youthRatio": 13.5,
+    "wealthyRatio": 15,
+    "poorRatio": 12.3
+  },
+  {
+    "name": "Kurayoshi",
+    "population": 47980,
+    "isUrban": true,
+    "oldRatio": 33.1,
+    "youthRatio": 12.6,
+    "wealthyRatio": 12,
+    "poorRatio": 14.3
+  },
+  {
+    "name": "Sakaiminato",
+    "population": 33431,
+    "isUrban": true,
+    "oldRatio": 31.8,
+    "youthRatio": 12.4,
+    "wealthyRatio": 13,
+    "poorRatio": 13.3
+  },
+  {
+    "name": "Iwami",
+    "population": 11263,
+    "oldRatio": 35.2,
+    "youthRatio": 11.2,
+    "wealthyRatio": 12,
+    "poorRatio": 14.3
+  },
+  {
+    "name": "Wakasa",
+    "population": 3130,
+    "oldRatio": 46.4,
+    "youthRatio": 6.6,
+    "wealthyRatio": 12,
+    "poorRatio": 14.3
+  },
+  {
+    "name": "Chizu",
+    "population": 6905,
+    "oldRatio": 39.9,
+    "youthRatio": 10.1,
+    "wealthyRatio": 12,
+    "poorRatio": 14.3
+  },
+  {
+    "name": "Yazu",
+    "population": 16421,
+    "youthRatio": 11.7,
+    "wealthyRatio": 19,
+    "poorRatio": 11.3
+  },
+  {
+    "name": "Misasa",
+    "population": 6311,
+    "oldRatio": 37.9,
+    "youthRatio": 12.1,
+    "wealthyRatio": 11.3,
+    "poorRatio": 14.3
+  },
+  {
+    "name": "Yurihama",
+    "population": 16298,
+    "oldRatio": 31.2,
+    "youthRatio": 14.0,
+    "wealthyRatio": 15,
+    "poorRatio": 11.3
+  },
+  {
+    "name": "Kotoura",
+    "population": 17010,
+    "oldRatio": 35.7,
+    "youthRatio": 12.3,
+    "wealthyRatio": 15,
+    "poorRatio": 15.3
+  },
+  {
+    "name": "Hokuei",
+    "population": 14542,
+    "oldRatio": 33.0,
+    "youthRatio": 13.0,
+    "wealthyRatio": 18,
+    "poorRatio": 12.6
+  },
+  {
+    "name": "Hiezu",
+    "population": 3499,
+    "isUrban": true,
+    "oldRatio": 27.7,
+    "youthRatio": 15.2,
+    "wealthyRatio": 17,
+    "poorRatio": 12
+  },
+  {
+    "name": "Daisen",
+    "population": 16024,
+    "oldRatio": 39.3,
+    "youthRatio": 11.1,
+    "wealthyRatio": 14,
+    "poorRatio": 12.6
+  },
+  {
+    "name": "Nanbu",
+    "population": 10767,
+    "oldRatio": 35.6,
+    "youthRatio": 12.0,
+    "wealthyRatio": 12.1,
+    "poorRatio": 14.6
+  },
+  {
+    "name": "Houki",
+    "population": 10881,
+    "oldRatio": 37.9,
+    "youthRatio": 11.7,
+    "wealthyRatio": 14,
+    "poorRatio": 11.3
+  },
+  {
+    "name": "Nichinan",
+    "population": 4458,
+    "oldRatio": 50.9,
+    "youthRatio": 7.2,
+    "wealthyRatio": 12,
+    "poorRatio": 14.3
+  },
+  {
+    "name": "Hino",
+    "population": 3101,
+    "oldRatio": 48.7,
+    "youthRatio": 7.5,
+    "wealthyRatio": 10,
+    "poorRatio": 16.7
+  },
+  {
+    "name": "Kofu",
+    "population": 2891,
+    "oldRatio": 46.1,
+    "youthRatio": 8.4,
+    "wealthyRatio": 11,
+    "poorRatio": 15.1
+  }
+]

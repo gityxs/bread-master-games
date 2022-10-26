@@ -1,0 +1,138 @@
+[
+  {
+    "Logs": [
+      "Added changelog.",
+      "Added changelog page.",
+      "Fixed tooltips.",
+      "Made change log date a string.",
+      "Added version numbers to change log.",
+      "Added border and background to traits in Relationship view.",
+      "Added the remaining missing trait images.",
+      "Added traits to Koseki Family page."
+    ],
+    "Date": "4/26/20",
+    "Version": "1.0.1"
+  },
+  {
+    "Date": "4/27/20",
+    "Version": "1.0.2",
+    "Logs": [
+      "Added new lore.",
+      "Added pension payment screen.",
+      "Fixed a rounding issue with number formatting.",
+      "Added an alert for getting promoted.",
+      "Fixed a bug that hid all the actions when starting a new game.",
+      "Made the start menu UI show the correct version number.",
+      "Reworked early game balance to be better paced.",
+      "Gave starting parents realistic birthdays.",
+      "Added more tooltips for Job Focuses.",
+      "Made fewer people 20 years old.",
+      "Fixed new heir tooltip.",
+      "Made breakups reduce relationship points.",
+      "Proposals are now guaranteed above a certain threshold.",
+      "Rebalanced work action difficulties.",
+      "Added Underling Opinion Job Focus",
+      "Added Instill Loyalty Work Action",
+      "Uploaded for beta test."
+    ]
+  },
+  {
+    "Date": "4/28/20",
+    "Version": "1.0.3",
+    "Logs": [
+      "Fixed promotion alert severity.",
+      "Added a message to let players know job focuses are buttons.",
+      "Redid the relationship view to be more legible.",
+      "Added more info to the relationships sidebar.",
+      "Added more info to the income sidebar.",
+      "Fixed a bug with interest rates applying improperly.",
+      "Fixed a relationship action bug.",
+      "Added alert for when Job Focus tab is unlocked.",
+      "Made it more apparent that the Self Traits are buttons.",
+      "Slowed relationship point growth.",
+      "Added alert for when the player can buy another self trait.",
+      "The settings menu properly unlocks now.",
+      "Lowered apartment costs."
+    ]
+  },
+  {
+    "Date": "4/29/20",
+    "Version": "1.0.4",
+    "Logs": [
+      "Fixed the UI for job focuses to show the right number.",
+      "Raised relationship point growth.",
+      "Fixed Work Project Overflow bug.",
+      "Added changelog to start menu.",
+      "Added Mediation Job Focus.",
+      "Made it more clear when buying furniture that the player actually bought furniture.",
+      "Added the commute time to the House menu.",
+      "Fixed the yen tooltip",
+      "Made it more clear that Self Action columns are buttons.",
+      "Added a daily promotion point counter to the Job Focus menu.",
+      "Added a notification for Work Project Completion.",
+      "Cleaned up proposal tooltip",
+      "Fixed spacing issue with Relationships sidebar."
+    ]
+  },
+  {
+    "Date": "4/30/20",
+    "Version": "1.0.5",
+    "Logs": [
+      "Fixed a bug that made alerts not disappear after clicking on them.",
+      "Added an alert for when the player's girlfriend breaks up with them.",
+      "Added a cooldown for proposing.",
+      "Added alert images for a number of alerts.",
+      "Made House tooltips more clear on the purpose of Comfort and Convenience.",
+      "Fixed a bug that gave the wrong last save time.",
+      "Added last save time to the save file."
+    ]
+  },
+  {
+    "Date": "5/1/20",
+    "Version": "1.0.6c",
+    "Logs": [
+      "Added ability to link PlayFab Account to Kongregate Account.",
+      "Added more pension info to the Heir Selection Menu.",
+      "The game now properly checks if a cloud save exists before trying to pull data from it.",
+      "Fixed a bug that caused houses to crash if furniture was placed in certain places while buying a new one.",
+      "Fixed a bug that caused Job Focus experience to not properly save/load.",
+      "Fixed Self actions to show the Click Here to Select text more clearly.",
+      "Fixed a bug that made Self traits not properly load after loading a saved game.",
+      "Fixed a bug that made furniture load improperly.",
+      "Fixed a bug with Work Project Alerts.",
+      "Fixed the Discord invite link.",
+      "Removed some save data that is no longer used.",
+      "Launched the game!",
+      "Fixed a UI issue that caused the game to jump when getting and closing alerts.",
+      "Fixed a bug that made your second generation unable to marry or date.",
+      "Fixed a few bugs with second generation heirs interacting with people."
+    ]
+  },
+  {
+    "Date": "5/2/20",
+    "Version": "1.0.7",
+    "Logs": [
+      "Fixed an issue where the Koseki menu never was unlocked.",
+      "Fixed a bug with the Price Comparer perk.",
+      "Fixed a bug where Self traits didn't reset properly",
+      "Office Hero and Boss Likes You Now traits have been fixed.",
+      "Fixed a bug that made promotions sometimes fail when they shouldn't",
+      "Job Focus progress bars now properly show progress.",
+      "Rotated furniture now properly loads back into the game.",
+      "The game now resets time allocation on starting with a new heir.",
+      "Work Projects and Self Actions no longer show Legacy Levels",
+      "Added a notification for maxing a Self trait",
+      "The list of traits in the Self Info menu now wrap instead of overflowing off screen.",
+      "The game now remembers your last selected Job Focus on load.",
+      "The game now remembers your current Self Action on load",
+      "Fixed a bug that let overloaded actions give extra bonuses beyond the max level.",
+      "Fixed a UI issue with overloaded actions being the wrong color after maxing.",
+      "The amount of extra Promotion Points you get from levelling a work project has been doubled.",
+      "The relationships screen now scrolls if you have enough relationships to require it.",
+      "Shortened the height of the House shop so you can see all of it at once.",
+      "Shortened the height of the Furniture Shop so you can see all the kitchens at once.",
+      "Added tooltips to Convenience and Comfort values to make it more clear what they are actually providing the player."
+    ]
+  }
+
+]

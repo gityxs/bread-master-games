@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Boss Opinion",
+    "ganbaruPointsPerExp": 15,
+    "maxLevel": 100,
+    "state": "Hidden",
+    "promotionValue": 0.75
+  },
+  {
+    "name": "Coworker Opinion",
+    "ganbaruPointsPerExp": 8,
+    "maxLevel": 100,
+    "state": "Hidden",
+    "promotionValue": 0.45
+  },
+  {
+    "name": "Motivation",
+    "ganbaruPointsPerExp": 500,
+    "maxLevel": 100,
+    "state": "Hidden",
+    "promotionValue": 2
+  },
+  {
+    "name": "Declarative Knowledge",
+    "ganbaruPointsPerExp": 5,
+    "maxLevel": 100,
+    "state": "Hidden",
+    "promotionValue": 0.5
+  },
+  {
+    "name": "Skill",
+    "maxLevel": 100,
+    "state": "Normal",
+    "ganbaruPointsPerExp": 1,
+    "promotionValue": 0.25
+  },
+  {
+    "name": "Manipulate Opinions",
+    "ganbaruPointsPerExp": 3,
+    "maxLevel": 25,
+    "state": "Hidden",
+    "promotionValue": 1
+  },
+  {
+    "name": "Use Others for Personal Gain",
+    "ganbaruPointsPerExp": 2,
+    "maxLevel": 100,
+    "state": "Hidden",
+    "promotionValue": 1.3
+  },
+  {
+    "name": "Underling Opinion",
+    "ganbaruPointsPerExp": 4,
+    "maxLevel": 100,
+    "state": "Hidden",
+    "promotionValue": 0.8
+  },
+  {
+    "name": "Mediate",
+    "ganbaruPointsPerExp": 10,
+    "maxLevel": 100,
+    "state": "Hidden",
+    "promotionValue": 3
+  }
+]

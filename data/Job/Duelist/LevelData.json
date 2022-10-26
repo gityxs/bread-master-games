@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "Beginner Duelist",
+    "ID": 0,
+    "Salary": 10000,
+    "DifficultyMultiplier": 25000,
+    "workLevel": 1000,
+    "minimumWorkMinutes": 0,
+    "AddedActionNames": [
+      "Play Practice Games",
+      "Study Past Matches",
+      "Read Top Player Forum Posts"
+    ]
+  },
+  {
+    "Name": "In Tournament",
+    "ID": 1,
+    "Salary": 13000,
+    "DifficultyMultiplier": 35000,
+    "workLevel": 1000,
+    "minimumWorkMinutes": 0,
+    "AddedActionNames": [
+      "Meet Tournament Goers"
+    ]
+  }
+]

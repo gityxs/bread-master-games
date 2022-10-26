@@ -1,0 +1,185 @@
+[
+  {
+    "Name": "Shinyuusha",
+    "ID": 0,
+    "Salary": 12000,
+    "DifficultyMultiplier": 25,
+    "workLevel": 10,
+    "minimumWorkMinutes": 480,
+    "AddedActionNames": [
+      "Meet Coworkers",
+      "Meet Boss",
+      "Optimize Time Use",
+      "Build Motivational Habits",
+      "Develop Skill Learning Strategies",
+      "Grow Your Yaruki"
+    ],
+    "nextPromotionName": "Ippanshain",
+    "description": "You're a new recruit to the office. Get to know your coworkers and boss to reach the next level of Ippanshain:a regular employee."
+  },
+  {
+    "Name": "Ippanshain",
+    "ID": 1,
+    "Salary": 15000,
+    "minimumWorkMinutes": 480,
+    "workLevel": 30,
+    "DifficultyMultiplier": 50,
+    "nextPromotionName": "Kakarichou",
+    "description": "You're a regular employee now! But if you work hard you can become a Section Chief:Kakarichou."
+  },
+  {
+    "Name": "Kakarichou",
+    "ID": 2,
+    "Salary": 19000,
+    "minimumWorkMinutes": 480,
+    "workLevel": 50,
+    "DifficultyMultiplier": 100,
+    "nextPromotionName": "Kachoudairi",
+    "description": "You are officially better than other people now. But with more effort you could be promoted to a full-fledged Deputy Manager:Kachoudairi."
+  },
+  {
+    "Name": "Kachoudairi",
+    "ID": 3,
+    "Salary": 22000,
+    "minimumWorkMinutes": 480,
+    "workLevel": 50,
+    "DifficultyMultiplier": 100,
+    "nextPromotionName": "Kachou",
+    "description": "Well done, you've reached a true management position. But with more effort you could be promoted to a full-fledged Manager:Kachou."
+  },
+  {
+    "Name": "Kachou",
+    "ID": 4,
+    "Salary": 30000,
+    "minimumWorkMinutes": 480,
+    "workLevel": 50,
+    "DifficultyMultiplier": 200,
+    "nextPromotionName": "Buchoudairi",
+    "description": "You're the Kachou now. But don't think being manager is the end of your journey. Work hard and Buchou might take you on as his new assistant:Buchoudairi.",
+    "AddedActionNames": [
+      "Instill Loyalty"
+    ]
+  },
+  {
+    "Name": "Buchoudairi",
+    "ID": 5,
+    "Salary": 42000,
+    "minimumWorkMinutes": 480,
+    "workLevel": 50,
+    "DifficultyMultiplier": 700,
+    "nextPromotionName": "Buchou",
+    "description": "You're an Assistant Manager now. You were before, too, but this time it's a more important position, I assure you. Work hard and become the true manager:Buchou."
+  },
+  {
+    "Name": "Buchou",
+    "ID": 6,
+    "Salary": 70000,
+    "minimumWorkMinutes": 420,
+    "workLevel": 50,
+    "DifficultyMultiplier": 1000,
+    "nextPromotionName": "Torishimariyakudairi",
+    "description": "This is it, you're at the top of all the managers. Well, out of all the managerial positions that is, but you'll have to work harder to become Deputy Director:Torishimariyakudairi"
+  },
+  {
+    "Name": "Torishimariyakudairi",
+    "ID": 7,
+    "Salary": 90000,
+    "minimumWorkMinutes": 420,
+    "workLevel": 50,
+    "DifficultyMultiplier": 1400,
+    "nextPromotionName": "Torishimariyaku",
+    "description": "Well done! You're now a deputy director at your company. Keep working hard and you might even make Director before you retire:Torishimariyaku."
+  },
+  {
+    "Name": "Torishimariyaku",
+    "ID": 8,
+    "Salary": 138000,
+    "minimumWorkMinutes": 420,
+    "workLevel": 50,
+    "DifficultyMultiplier": 2500,
+    "nextPromotionName": "Jomu Torishimariyakudairi",
+    "description": "Excellent work. You're officially a director at your company. But you're not done yet! Keep up the good work and you'll be promoted to Deputy Managing Director:Jomu Torishimariyakudairi."
+  },
+  {
+    "Name": "Jomu Torishimariyakudairi",
+    "ID": 9,
+    "Salary": 180000,
+    "minimumWorkMinutes": 420,
+    "workLevel": 50,
+    "DifficultyMultiplier": 4500,
+    "nextPromotionName": "Jomu Torishimariyaku",
+    "description": "You're really working hard! Keep up the effort and you'll be promoted to a real Managing Director:Jomu Torishimariyaku."
+  },
+  {
+    "Name": "Jomu Torishimariyaku",
+    "ID": 10,
+    "Salary": 250000,
+    "minimumWorkMinutes": 360,
+    "workLevel": 50,
+    "DifficultyMultiplier": 9000,
+    "nextPromotionName": "Senmu Torishimariyakudairi",
+    "description": "Great job. You're reaching the upper levels of management now. Another promotion and you'll become a Deputy Senior Managing Director:Senmu Torishimariyakudairi"
+  },
+  {
+    "Name": "Senmu Torishimariyakudairi",
+    "ID": 11,
+    "Salary": 388000,
+    "minimumWorkMinutes": 360,
+    "workLevel": 50,
+    "DifficultyMultiplier": 16000,
+    "nextPromotionName": "Senmu Torishimariyaku",
+    "description": "The last of the major hurdles is over. Just one more promotion until you reach the peak of Directorial positions:Senmu Torishimariyaku"
+
+  },
+  {
+    "Name": "Senmu Torishimariyaku",
+    "ID": 12,
+    "Salary": 598000,
+    "minimumWorkMinutes": 360,
+    "workLevel": 50,
+    "DifficultyMultiplier": 45000,
+    "nextPromotionName": "Fukushachou",
+    "description": "Great work. You've reached the top of Directors, time to work hard to get into the coveted position of Executive Vice President:Fukushachou."
+
+  },
+  {
+    "Name": "Fukushachou",
+    "ID": 13,
+    "Salary": 1080000,
+    "minimumWorkMinutes": 300,
+    "workLevel": 50,
+    "DifficultyMultiplier": 80000,
+    "nextPromotionName": "Shachou",
+    "description": "Amazing dedication has brought you this far. Just a little more work and you'll become President:Shachou."
+  },
+  {
+    "Name": "Shachou",
+    "ID": 14,
+    "Salary": 2980000,
+    "minimumWorkMinutes": 240,
+    "workLevel": 50,
+    "DifficultyMultiplier": 1000000,
+    "nextPromotionName": "Fukukaichou",
+    "description": "Excellent. You're finally the President of your company. Some more effort and you might even make Vice Chairman:Fukukaichou."
+  },
+  {
+    "Name": "Fukukaichou",
+    "ID": 15,
+    "Salary": 5148000,
+    "minimumWorkMinutes": 300,
+    "workLevel": 50,
+    "DifficultyMultiplier": 10000000,
+    "nextPromotionName": "Kaichou",
+    "description": "You're so close! Just a few more years of work and you'll be promoted to Kaichou! The Chairman. The true top of the company."
+  },
+  {
+    "Name": "Kaichou",
+    "ID": 16,
+    "Salary": 12998000,
+    "minimumWorkMinutes": 300,
+    "workLevel": 50,
+    "DifficultyMultiplier": 100000000,
+    "nextPromotionName": "Shachou",
+    "description": "You did it! You're the boss now. Nowhere to promote from here! Time to run the company."
+  }
+]

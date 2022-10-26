@@ -1,0 +1,339 @@
+[
+  {
+    "name": "Delete",
+    "id": 0,
+    "height": 1,
+    "width": 1,
+    "color": "white",
+    "amount": 1,
+    "category": "Delete"
+  },
+  {
+    "name": "Wall",
+    "id": 1,
+    "height": 1,
+    "width": 1,
+    "color": "#BBBBBB",
+    "description": "It's a wall. It divides the room."
+  },
+  {
+    "name": "Cheap Futon",
+    "id": 2,
+    "height": 2,
+    "color": "blue",
+    "category": "Bed",
+    "comfort": 1,
+    "cost": 13500,
+    "description": "A cheap futon. You can sleep in it, but you won't like it."
+  },
+  {
+    "name": "Cheap Toilet",
+    "id": 3,
+    "color": "#24411B",
+    "category": "Toilet",
+    "cost": 30000,
+    "comfort": 1,
+    "convenience": 1,
+    "description": "It's a toilet. It's cheap. What more do you want?"
+  },
+  {
+    "name": "Cheap Kotatsu",
+    "id": 6,
+    "height": 2,
+    "width": 2,
+    "color": "purple",
+    "category": "Table",
+    "comfort": 2,
+    "cost": 10000,
+    "description": "A cheap kotatsu. It might burn you, but at least its warm in the winter."
+  },
+  {
+    "name": "Nice Futon",
+    "id": 7,
+    "height": 2,
+    "color": "blue",
+    "category": "Bed",
+    "comfort": 2,
+    "cost": 120000,
+    "description": "A nice futon for a nice rest."
+  },
+  {
+    "name": "Ultimate Down Futon",
+    "id": 8,
+    "height": 2,
+    "color": "blue",
+    "category": "Bed",
+    "comfort": 4,
+    "cost": 900000,
+    "description": "Every feather in the Ultimate Down Futon was hand plucked by a Duck Expert for maximum softness, volume, and color."
+  },
+  {
+    "name": "Nice Toilet",
+    "id": 9,
+    "color": "#266811",
+    "category": "Toilet",
+    "comfort": 2,
+    "cost": 85000,
+    "convenience": 1,
+    "description": "A substantial upgrade from a cheap toilet. Be the you you want to be."
+  },
+  {
+    "name": "Excellent Toilet",
+    "id": 10,
+    "color": "#228E00",
+    "category": "Toilet",
+    "comfort": 3,
+    "convenience": 1,
+    "cost": 155000,
+    "description": "An excellent toilet. Comes with all the add-ons you'd expect from a 20,000 yen toilet."
+  },
+  {
+    "name": "New Rest ARDH",
+    "id": 11,
+    "color": "#51CB2A",
+    "category": "Toilet",
+    "comfort": 4,
+    "convenience": 2,
+    "cost": 705000,
+    "description": "The ARDH improves significantly on previous models, its memory foam exterior ensures the perfect fit for every body shape. Bidet-included."
+  },
+  {
+    "name": "New Rest ARDX Super",
+    "id": 12,
+    "color": "#31CA00",
+    "category": "Toilet",
+    "comfort": 8,
+    "convenience": 2,
+    "cost": 1285000,
+    "description": "The ARDX Super is the latest in toilet technology. Shaped like a stasis pod, you'll forget what you were even doing in the first place."
+  },
+  {
+    "name": "Cheap Kitchen",
+    "id": 5,
+    "color": "orange",
+    "category": "Kitchen",
+    "convenience": 1,
+    "cost": 85000,
+    "description": "A cheap kitchen area that allows for heating instant ramen and water for tea."
+  },
+  {
+    "name": "Cheap Kitchen Wide",
+    "id": 13,
+    "color": "orange",
+    "category": "Kitchen",
+    "convenience": 2.2,
+    "width": 2,
+    "cost": 152000,
+    "description": "A wider cheap kitchen area that allows for heating instant ramen and water for tea, as well as some counter space."
+  },
+  {
+    "name": "Standard Grade Kitchen",
+    "id": 14,
+    "color": "orange",
+    "category": "Kitchen",
+    "convenience": 3,
+    "width": 2,
+    "cost": 210000,
+    "description": "A kitchen of standard quality. Not too great, not too bad."
+  },
+  {
+    "name": "Standard Grade Kitchen x 3",
+    "id": 15,
+    "color": "orange",
+    "category": "Kitchen",
+    "convenience": 5,
+    "width": 3,
+    "cost": 355000,
+    "description": "A kitchen of standard quality, but 50% wider!"
+  },
+  {
+    "name": "High Grade Kitchen",
+    "id": 16,
+    "color": "orange",
+    "category": "Kitchen",
+    "convenience": 11,
+    "width": 3,
+    "cost": 730000,
+    "description": "A high grade kitchen. Please don't ask what qualifies as high grade because we don't know either."
+  },
+  {
+    "name": "High Grade Kitchen x 4",
+    "id": 17,
+    "color": "orange",
+    "category": "Kitchen",
+    "convenience": 17,
+    "width": 4,
+    "cost": 1500000,
+    "description": "A high grade kitchen, with extra width for when you really need it."
+  },
+  {
+    "name": "Super High Grade Kitchen",
+    "id": 18,
+    "color": "orange",
+    "category": "Kitchen",
+    "convenience": 25,
+    "width": 3,
+    "cost": 32500000,
+    "description": "A super high grade kitchen area. You can feel the quality eminating from its glowing countertops."
+  },
+  {
+    "name": "Super High Grade Kitchen x 4",
+    "id": 19,
+    "color": "orange",
+    "category": "Kitchen",
+    "convenience": 35,
+    "width": 4,
+    "cost": 60000000,
+    "description": "A super high grade kitchen, but with more width, to accomodate your massive house."
+  },
+  {
+    "name": "Ultra Grade Kitchen",
+    "id": 20,
+    "color": "orange",
+    "category": "Kitchen",
+    "convenience": 50,
+    "width": 3,
+    "cost": 150000000,
+    "description": "An ultra grade kitchen. Who knew there was a level even beyond super high grade?"
+  },
+  {
+    "name": "Home Computer for the Thrifty Spender",
+    "id": 21,
+    "color": "gray",
+    "category": "Computer",
+    "convenience": 1,
+    "cost": 50000,
+    "workBoost": 0.05,
+    "description": "A cheap computer that enables you to do some work from home. 5% of your time at home contributes to time at work."
+  },
+  {
+    "name": "Modern Home PC Setup",
+    "id": 22,
+    "color": "gray",
+    "category": "Computer",
+    "convenience": 2,
+    "cost": 120000,
+    "workBoost": 0.1,
+    "description": "A decent computer that allows for some from home. 10% of your time at home contributes to time at work."
+  },
+  {
+    "name": "Extreme PC for Real Salarymen",
+    "id": 23,
+    "color": "gray",
+    "category": "Computer",
+    "convenience": 5,
+    "width": 2,
+    "cost": 350000,
+    "workBoost": 0.225,
+    "description": "A monstrous computer that allows for easy working from home. 22.5% of your time at home contributes to time at work."
+  },
+  {
+    "name": "Cheap Bathtub",
+    "id": 4,
+    "width": 2,
+    "color": "gray",
+    "category": "Bathtub",
+    "comfort": 1,
+    "description": "A small, likely moldy tub, in a musky salmon color that ensures quick and unpleasant baths.",
+    "cost": 66000
+  },
+  {
+    "name": "Half Bath",
+    "id": 24,
+    "color": "gray",
+    "category": "Bathtub",
+    "comfort": 1,
+    "description": "A very small tub that fits conveniently anywhere in a house.",
+    "cost": 118000
+  },
+  {
+    "name": "Polyethylene Bathtub",
+    "id": 25,
+    "color": "gray",
+    "category": "Bathtub",
+    "comfort": 2,
+    "convenience": 1,
+    "width": 2,
+    "description": "A standard tub found in many houses in Japan.",
+    "cost": 250000
+  },
+  {
+    "name": "Excellent Bathtub",
+    "id": 26,
+    "color": "gray",
+    "category": "Bathtub",
+    "comfort": 7,
+    "convenience": 2,
+    "width": 2,
+    "description": "A tub for someone above average. Prove your worth to your guests when they glance a peek at your slightly superstandard bathtub.",
+    "cost": 590000
+  },
+  {
+    "name": "Spacious Apartment Bathtub",
+    "id": 27,
+    "color": "gray",
+    "category": "Bathtub",
+    "comfort": 12,
+    "convenience": 3,
+    "width": 2,
+    "description": "A tub as large as can be in a 2x1 meter space. Comfortable and luxurious. It'll make you forget how small your tiny apartment really is.",
+    "cost": 1232000
+  },
+  {
+    "name": "Magic Bottle Bathtub",
+    "id": 28,
+    "color": "gray",
+    "category": "Bathtub",
+    "comfort": 32,
+    "convenience": 5,
+    "width": 2,
+    "height": 2,
+    "description": "An extra large bathtub.It's not actually magic, but it will feel like it. It's not a bottle either, please understand.",
+    "cost": 910000
+  },
+  {
+    "name": "First Class Bathroom Suite",
+    "id": 29,
+    "color": "gray",
+    "category": "Bathtub",
+    "comfort": 55,
+    "convenience": 8,
+    "width": 2,
+    "height": 2,
+    "description": "A bathroom for rich people. Spacious, overdesigned, and extravagant. Enjoy your wealth from the comfort of your bathtub.",
+    "cost": 2820000
+  },
+  {
+    "name": "Long Kotatsu",
+    "id": 30,
+    "height": 2,
+    "width": 1,
+    "color": "purple",
+    "category": "Table",
+    "comfort": 4,
+    "cost": 30000,
+    "description": "A long but thin table; a comfortable gathering spot in the winter."
+  },
+  {
+    "name": "Dining Kotatsu",
+    "id": 31,
+    "height": 2,
+    "width": 1,
+    "color": "purple",
+    "category": "Table",
+    "comfort": 4,
+    "cost": 110500,
+    "description": "No one asked for this, but here it is! A kotatsu you can eat dinner at. Comes with 4 fancy chairs and a sense of decadence."
+  },
+  {
+    "name": "Charcoal Kotatsu",
+    "id": 32,
+    "height": 3,
+    "width": 2,
+    "color": "purple",
+    "category": "Table",
+    "comfort": 12,
+    "cost": 287500,
+    "description": "With over 80 years of Kotatsu crafting experience, this hand-made charcoal kotatsu weighs as much as a grand piano. No idea if it's any good, though."
+  }
+]

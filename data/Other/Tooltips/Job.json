@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Overflow",
+    "titleText": "Overflowing",
+    "dataText": "This action is overflowing. It will continue to level up even if you stop putting effort into it."
+  },
+  {
+    "name": "Ganbaru",
+    "titleText": "Ganbaru Points",
+    "dataText": "You earn Ganbaru Points by going above and beyond at your job. Working beyond your required hours, or getting more done through the day with higher levels of Skill and Knowledge will further increase your Ganbaru Points."
+  },
+  {
+    "name": "Low Free Time",
+    "titleText": "Low Free Time",
+    "dataText": "You don't get enough free time during the day to recover before the next one! Your efficiency is reduced."
+  },
+  {
+    "name": "Yen",
+    "titleText": "Yen",
+    "dataText": "The yen is the official currency of Japan. You'll want a lot of it to live an extravagant life and eventually fund your heirs' educations."
+  },
+  {
+    "name": "Skill",
+    "titleText": "Skill",
+    "dataText": "Skill is one of the three stats that improve your Job Performance. Grow in skill to gain promotions more quickly! Impress your friends and colleagues with how skilled you are at being a Salaryman."
+  },
+  {
+    "name": "Boss Opinion",
+    "titleText": "Boss Opinion",
+    "dataText": "Your boss' opinion of your ability as an employee. It will reset when you are promoted past your current boss."
+  },
+  {
+    "name": "Coworker Opinion",
+    "titleText": "Coworker Opinion",
+    "dataText": "Your coworkers' opinion of you as a worker. Build this up to appear as a super-salaryman to your peers."
+  },
+  {
+    "name": "Salaryman",
+    "titleText": "Salaryman",
+    "dataText": "Your job is where you do your work. Focus on aspects of your job to get promoted and become the CEO!"
+  },
+  {
+    "name": "House",
+    "titleText": "House",
+    "dataText": "Your house is where your heart is. You can buy furniture, get a more expensive house and spend time improving it to improve your overall enjoyment of life."
+  },
+  {
+    "name": "Self",
+    "titleText": "Self",
+    "dataText": "Spend time growing and improving your base stats. More options for self-improvement can be unlocked by buying furniture and more expensive houses."
+  },
+  {
+    "name": "Office",
+    "titleText": "Office",
+    "dataText": "The office is where you get work done. Get to know who you work with, accelerate your promotion growth, and complete work projects for promotion boosts."
+  },
+  {
+    "name": "Comfort",
+    "titleText": "Comfort",
+    "dataText": "Comfort is a measure of how comfortable your home is. Homes have a base comfort, and adding furniture can increase it. Be careful, though, duplicate furniture provides diminishing returns! A more comfortable home makes you more efficient in your relaxation and in your work."
+  },
+  {
+    "name": "Convenience",
+    "titleText": "Convenience",
+    "dataText": "Convenience is a measure of how efficient you can be at home. More expensive furniture can really add to the convenience of your home and make your time at home much better spent. It works as a direct multiplier to the relationship growth you gain by spending time at home with your family."
+  },
+  {
+    "name": "Relationship Points",
+    "titleText": "Relationship Points",
+    "dataText": "Relationship points build as you interact with people. Meeting certain thresholds unlocks new interactions with them, depending on your relation to the person."
+  },
+  {
+    "name": "Auto Advance",
+    "titleText": "Auto Advance",
+    "dataText": "Auto advance will move on to the next step of the project at a set level. You can change the level on the right side of the action when Auto Advance is enabled."
+  },
+  {
+    "name": "Pension Desc.",
+    "titleText": "Pension",
+    "dataText": "Your pension builds up over time as you work. Every generation can choose to withdraw the pension to fund their heir, or deposit it into the Family Vault."
+  },
+  {
+    "name": "Legacy Level",
+    "titleText": "Legacy Level",
+    "dataText": "Your ancestors have proven their ability in this action in the past, and some of that has been passed on down to you. Things are a bit easier when they run in the family."
+  },
+  {
+    "name": "Manipulate Opinions",
+    "titleText": "Manipulate Opinions",
+    "dataText": "You're evil, so you have no issue with manipulating your coworkers to hate eachother, just to make yourself look better by comparison. It's very effective, but usually avoided by people with working consciences."
+  },
+  {
+    "name": "Tokimochi",
+    "titleText": "Tokimochi",
+    "dataText": "You have some magical mochi you bought at the convenience store. Eating one makes the day go by twice as fast! Golden tokimochi makes time go thrice as fast!"
+  },
+  {
+    "name": "Buying vs Renting",
+    "titleText": "Buying vs Renting",
+    "dataText": "There are a few factors to consider in buying a house or renting an apartment. Firstly, apartments have a monthly income requirement, while houses only cost money up front. Houses tend to have worse commuting times if you commute to your job, and heirs won't inherit their parent's apartment, but they will inherit a house."
+  },
+  {
+    "name": "Mediate",
+    "titleText": "Mediating",
+    "dataText": "As the lowest level employee who isn't a regular Ippanshain, the Kakarichou's job is to mediate and serve as an informational pipeline between disgruntled employees and clueless upper management."
+  }
+]

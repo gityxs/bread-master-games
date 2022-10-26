@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "Vampire Slayer",
+    "ID": 0,
+    "Salary": 0,
+    "minimumWorkMinutes": 0,
+    "workLevel": 200,
+    "DifficultyMultiplier": 90,
+    "AddedActionNames": [
+    ]
+  }
+]

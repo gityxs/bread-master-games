@@ -1,0 +1,81 @@
+[
+  {
+    "Name": "Salaryman",
+    "ID": 0,
+    "hasCommute": true,
+    "LevelNames": [
+      "Shinyuusha",
+      "Ippanshain",
+      "Kakarichou",
+      "Kachoudairi",
+      "Kachou",
+      "Buchoudairi",
+      "Buchou",
+      "Torishimariyakudairi",
+      "Torishimariyaku",
+      "Jomu Torishimariyakudairi",
+      "Jomu Torishimariyaku",
+      "Senmu Torishimariyakudairi",
+      "Senmu Torishimariyaku",
+      "Fukushachou",
+      "Shachou",
+      "Fukukaichou",
+      "Kaichou"
+    ]
+  },
+  {
+    "Name": "Politician",
+    "ID": 1,
+    "hasCommute": true,
+    "LevelNames": [
+      "Sonchou",
+      "Chouchou",
+      "Shichou",
+      "Chiji",
+      "Shuugiingiin",
+      "Kankyouchou Choukan",
+      "Kagaku Gijutsuchou Choukan",
+      "Shuugiin Fukugichou",
+      "Shuugiin Gichou",
+      "Naikaku Souri Daijin"
+    ]
+  },
+  {
+    "Name": "Unemployed",
+    "ID": 3,
+    "LevelNames": [
+      "Recently Quit",
+      "Looking For Work",
+      "Struggling to find Work",
+      "Not Looking For Work",
+      "NEET"
+    ]
+  },
+  {
+    "Name": "Duelist",
+    "ID": 4,
+    "LevelNames": [
+      "Beginner Duelist",
+      "In Tournament"
+    ]
+  },
+  {
+    "Name": "Salaryman Paperworker",
+    "ID": 5,
+    "LevelNames": [
+      "Paperwork Pusher",
+      "Paperwork Adept",
+      "Proficient Paperworker",
+      "Expert Paperworker",
+      "Master Paperworker",
+      "Grandmaster Paperworker"
+    ]
+  },
+  {
+    "Name": "Vampire Slayer",
+    "ID": 6,
+    "LevelNames": [
+      "Vampire Slayer"
+    ]
+  }
+]

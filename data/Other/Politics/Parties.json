@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Democratic Liberal Party",
+    "baseSupport": 19000000,
+    "color": "blue"
+  },
+  {
+    "name": "Work Harder Party",
+    "baseSupport": 4000000,
+    "color": "red"
+  },
+  {
+    "name": "Immortality or Bust Party",
+    "baseSupport": 200000,
+    "color": "LightGreen"
+  }
+]

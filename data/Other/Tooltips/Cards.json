@@ -1,0 +1,99 @@
+[
+  {
+    "name": "Basic",
+    "titleText": "Basic",
+    "dataText": "The most basic of cards, they only exist to fill packs."
+  },
+  {
+    "name": "Fruit",
+    "titleText": "Fruit",
+    "dataText": "A beginner's set of cards. Don't eat them!"
+  },
+  {
+    "name": "Quepland",
+    "titleText": "Quepland",
+    "dataText": "A card series based off the game Quepland."
+  },
+  {
+    "name": "Light",
+    "titleText": "Light",
+    "dataText": "Light cards are designed around controlling the field."
+  },
+  {
+    "name": "Writing Utensils",
+    "titleText": "Writing Utensils",
+    "dataText": "Writing Utensils are an aggresive deck filled with strong Attackers and Curses."
+  },
+  {
+    "name": "Shapes",
+    "titleText": "Shapes",
+    "dataText": "Shape cards are made for aggressive deck styles; the 3D cards are rarer than the 2D ones."
+  },
+  {
+    "name": "Periodic Elements",
+    "titleText": "Periodic Elements",
+    "dataText": "Periodic Elements are Control cards that play off of strong builders and defenders."
+  },
+  {
+    "name": "Persian Space Birds",
+    "titleText": "Persian Space Birds",
+    "dataText": "Persian Space Birds are an aggressive set of cards, some of which are exceptionally rare."
+  },
+  {
+    "name": "Normal",
+    "titleText": "Normal",
+    "dataText": "This card is a Normal. The most common type of card, and usually the weakest."
+  },
+  {
+    "name": "Rare",
+    "titleText": "Rare",
+    "dataText": "This card is a Rare. Rare cards are far less common than normals, and usually much stronger."
+  },
+  {
+    "name": "UltraRare",
+    "titleText": "Ultra Rare",
+    "dataText": "This is an Ultra Rare Card. Ultra Rares are very uncommon and can take hundreds of packs to find even one. It can be a good idea to build your deck around the ones you find."
+  },
+  {
+    "name": "SuperRare",
+    "titleText": "Super Rare",
+    "dataText": "Super Rare Cards are exceptionally rare, but very powerful. It can sometimes be better to use a Super Rare of a different Archetype over a Normal of the same Archetype."
+  },
+  {
+    "name": "UXRare",
+    "titleText": "Ultra Extra Rare",
+    "dataText": "Cards like these are of a limited release. Maybe the creators of the game were influenced by ancient magic to make them, maybe they just wanted to win at their own card game. Whatever the reason, these cards are extremely powerful and should always be used if possible."
+  },
+  {
+    "name": "Boss",
+    "titleText": "Boss",
+    "dataText": "Boss cards are the powerful cards you try to get out to win the game. They are strong, but having too many in your deck can make it impossible to use them."
+  },
+  {
+    "name": "Builder",
+    "titleText": "Builder",
+    "dataText": "Builders are cards that build up your own Tower. Having a lot of Builders is important to winning the game, but too many can leave you defenseless from your opponent's Attackers."
+  },
+  {
+    "name": "Attacker",
+    "titleText": "Attacker",
+    "dataText": "Attackers are cards that try to destroy the enemy Tower. They can be useful in preventing your opponent from winning, but you need to make sure to build your own Tower up as well."
+  },
+  {
+    "name": "Defender",
+    "titleText": "Defender",
+    "dataText": "Defenders are cards that protect you from attackers. They themselves can't attack, but they can keep your Tower safe while you're building it up."
+  },
+  {
+    "name": "Spell",
+    "titleText": "Spell",
+    "dataText": "Spell cards provide positive bonuses for your side of the field. They can boost your own units, or block incoming attacks or Curses."
+  },
+  {
+    "name": "Curse",
+    "titleText": "Curse",
+    "dataText": "Curses provide a secondary way to attack your opponent. Curses can weaken or destroy enemy units and spells."
+  }
+
+
+]

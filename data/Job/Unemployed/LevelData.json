@@ -1,0 +1,59 @@
+[
+  {
+    "Name": "Recently Quit",
+    "ID": 15,
+    "Salary": 0,
+    "workLevel": 1,
+    "AddedActionNames": [
+      "Make Some Tea",
+      "Do Nothing",
+      "Play MMOs"
+    ]
+  },
+  {
+    "Name": "Looking For Work",
+    "ID": 16,
+    "Salary": 0,
+    "workLevel": 6,
+    "DifficultyMultiplier": 3,
+    "AddedActionNames": [
+      "Watch Anime"
+    ]
+  },
+  {
+    "Name": "Struggling to find Work",
+    "ID": 17,
+    "Salary": 0,
+    "workLevel": 25,
+    "DifficultyMultiplier": 5
+  },
+  {
+    "Name": "Not Looking For Work",
+    "ID": 18,
+    "DifficultyMultiplier": 8,
+    "Salary": 0,
+    "workLevel": 40,
+    "RemovedActionNames": [
+      "Look For Work"
+    ]
+  },
+  {
+    "Name": "NEET",
+    "ID": 19,
+    "workLevel": 100,
+    "DifficultyMultiplier": 25,
+    "Salary": 0
+  },
+  {
+    "Name": "Beginner",
+    "ID": 20,
+    "Salary": 0,
+    "workLevel": 3,
+    "AddedActionNames": [
+      "Play Card Games",
+      "Improve Deck Composition",
+      "Buy Cards",
+      "Trade Cards"
+    ]
+  }
+]

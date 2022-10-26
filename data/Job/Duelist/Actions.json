@@ -1,0 +1,78 @@
+[
+  {
+    "Name": "Play Practice Games",
+    "effect": "Card Game Skill",
+    "effectDescription": "Increases your card game skill.",
+    "boostPerLevel": 25,
+    "difficultyMultiplier": 1.2,
+    "maxLevel": 1000,
+    "ID": 1,
+    "state": "Normal"
+  },
+  {
+    "Name": "Study Past Matches",
+    "effect": "Card Game Skill",
+    "effectDescription": "Learn from your mistakes. Gets a boost from recently completed matches.",
+    "boostPerLevel": 50,
+    "difficultyMultiplier": 0.8,
+    "maxLevel": 1000,
+    "ID": 2,
+    "state": "Normal"
+  },
+  {
+    "Name": "Read Top Player Forum Posts",
+    "effect": "Card Game Skill",
+    "effectDescription": "An easy way to slightly increase your skill.",
+    "boostPerLevel": 1,
+    "difficultyMultiplier": 0.03,
+    "maxLevel": 10000,
+    "ID": 3,
+    "state": "Normal"
+  },
+  {
+    "Name": "Learn from Low Level Matches",
+    "effect": "Card Game Skill",
+    "effectDescription": "An easy way to slightly increase your skill.",
+    "boostPerLevel": 40,
+    "difficultyMultiplier": 1,
+    "maxLevel": 100,
+    "ID": 4
+  },
+  {
+    "Name": "Learn from Med Level Matches",
+    "effect": "Card Game Skill",
+    "effectDescription": "An easy way to slightly increase your skill.",
+    "boostPerLevel": 90,
+    "difficultyMultiplier": 2,
+    "maxLevel": 100,
+    "ID": 5
+  },
+  {
+    "Name": "Learn from High Level Matches",
+    "effect": "Card Game Skill",
+    "effectDescription": "An easy way to slightly increase your skill.",
+    "boostPerLevel": 150,
+    "difficultyMultiplier": 3,
+    "maxLevel": 100,
+    "ID": 6
+  },
+  {
+    "Name": "Learn from Pro Level Matches",
+    "effect": "Card Game Skill",
+    "effectDescription": "An easy way to slightly increase your skill.",
+    "boostPerLevel": 250,
+    "difficultyMultiplier": 5,
+    "maxLevel": 1000,
+    "ID": 7
+  },
+  {
+    "Name": "Meet Tournament Goers",
+    "effect": "New Acquaintance",
+    "effectDescription": "Meet some other duelists at this tournament.",
+    "boostPerLevel": 1,
+    "difficultyMultiplier": 0.05,
+    "maxLevel": 4,
+    "ID": 8,
+    "state": "Normal"
+  }
+]

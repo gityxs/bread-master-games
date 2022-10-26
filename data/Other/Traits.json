@@ -1,0 +1,261 @@
+[
+  {
+    "Name": "Tall",
+    "Description": "This person is taller than most people.",
+    "Group": "Height",
+    "Effect": "Tall",
+    "Image": "Tall",
+    "Power": 0.1
+  },
+  {
+    "Name": "Short",
+    "Description": "This person is shorter than most people.",
+    "Group": "Height",
+    "Effect": "Tall",
+    "Image": "Short",
+    "Power": -0.05
+  },
+  {
+    "Name": "Giant",
+    "Description": "This person is taller than almost everyone.",
+    "Group": "Height",
+    "Effect": "Tall",
+    "Image": "Giant",
+    "Power": 0.2
+  },
+  {
+    "Name": "Tiny",
+    "Description": "This person is shorter than almost everyone.",
+    "Group": "Height",
+    "Effect": "Tall",
+    "Image": "Tiny",
+    "Power": -0.1
+  },
+  {
+    "Name": "Ugly",
+    "Description": "This person is uglier than most people.",
+    "Group": "Appearance",
+    "Effect": "Ugly",
+    "ModifiedStat": "Relationships",
+    "Image": "Ugly",
+    "Power": -0.05
+  },
+  {
+    "Name": "Beautiful",
+    "Description": "This person is more attractive than most people.",
+    "Group": "Appearance",
+    "Effect": "Beautiful",
+    "ModifiedStat": "Relationships",
+    "Image": "Beautiful",
+    "Power": 0.1
+  },
+  {
+    "Name": "Good",
+    "Description": "Good people have extra chances to do good, and sometimes can't be evil.",
+    "Group": "Morality",
+    "Effect": "Good",
+    "Image": "Good",
+    "Power": 0.1
+  },
+  {
+    "Name": "Evil",
+    "Description": "Evil people have extra chances to do evil, and sometimes can't do good.",
+    "Group": "Morality",
+    "Effect": "Evil",
+    "Image": "Evil",
+    "Power": 0.1
+  },
+  {
+    "Name": "Hardworking",
+    "Description": "A hard worker has a slight boost to general productivity at work.",
+    "Group": "Work Ethic",
+    "Effect": "Hardworking",
+    "Image": "Hardworking",
+    "ModifiedStat": "Work",
+    "Power": 0.1
+  },
+  {
+    "Name": "Lazy",
+    "Description": "Being lazy makes life a lot harder. Thankfully you can always just become a NEET.",
+    "Group": "Work Ethic",
+    "Effect": "Lazy",
+    "Image": "Lazy",
+    "ModifiedStat": "Work",
+    "Power": -0.05
+  },
+  {
+    "Name": "Introverted",
+    "Description": "Introverts make friends and get to know people more slowly, but gain levels at self improvement and personal hobbies more quickly.",
+    "Group": "Personality",
+    "Effect": "Introverted",
+    "Image": "Introverted",
+    "ModfiedStat": "Relationships",
+    "Power": -0.05
+  },
+  {
+    "Name": "Extraverted",
+    "Description": "Extraverts make friends more quickly, but require more time to improve themselves and at hobbies.",
+    "Group": "Personality",
+    "Effect": "Extraverted",
+    "Image": "GoodDad",
+    "ModfiedStat": "Relationships",
+    "Power": 0.05
+  },
+  {
+    "Name": "Lucky",
+    "Description": "Being lucky does very little unless you're playing games.",
+    "Group": "Luck",
+    "Image": "Lucky",
+    "Effect": "Lucky",
+    "Power": 0.1
+  },
+  {
+    "Name": "Unlucky",
+    "Description": "Being unlucky makes your life harder with no upsides. What did you expect?",
+    "Group": "Luck",
+    "Image": "Unlucky",
+    "Effect": "Unlucky",
+    "Power": -0.1
+  },
+  {
+    "Name": "Frugal",
+    "Description": "A frugal person will save money and pay less for almost everything.",
+    "Group": "Economic",
+    "Effect": "Frugal",
+    "Image": "Frugal",
+    "modifiedStat": "Cost",
+    "Power": -0.1
+  },
+  {
+    "Name": "Extravagant",
+    "Description": "An extravagant person is compelled to spend extra on almost everything they buy, but they'll look cool doing it.",
+    "Group": "Economic",
+    "Effect": "Extravagant",
+    "Image": "Extravagant",
+    "modifiedStat": "Cost",
+    "Power": 0.1
+  },
+  {
+    "Name": "Heavy Sleeper",
+    "Description": "A heavy sleeper gets by on less sleep without penalty.",
+    "Group": "Sleep",
+    "modifiedStat": "Sleep",
+    "Image": "HeavySleeper",
+    "Effect": "Heavy Sleeper",
+    "Power": -0.1
+  },
+  {
+    "Name": "Light Sleeper",
+    "Description": "A light sleeper wakes often at night and requires more sleep every day to be well rested.",
+    "Group": "Sleep",
+    "modifiedStat": "Sleep",
+    "Image": "LightSleeper",
+    "Effect": "Light Sleeper",
+    "Power": 0.1
+  },
+  {
+    "Name": "Neat",
+    "Description": "A neat person has a higher minimum comfortable cleanliness level, and won't be happy in a house below that level.",
+    "Group": "Cleanliness",
+    "Effect": "Neat",
+    "Image": "Neat",
+    "Power": 0.1
+  },
+  {
+    "Name": "Slob",
+    "Description": "A slob has a lower minimum comfortable cleanliness level. Potentially even 0. While it saves a lot of effort for them, it can be detrimental to their family.",
+    "Group": "Cleanliness",
+    "Effect": "Slob",
+    "Image": "Slob",
+    "Power": -0.1
+  },
+  {
+    "name": "Vampire",
+    "description": "A being that lives off the lifeforce of others.",
+    "group": "Vampire",
+    "power": 1,
+    "effect": "Vampire",
+    "Image": "Vampire",
+    "occursNaturally": false
+  },
+  {
+    "name": "Close to Father",
+    "description": "You were Best Friends with your Father. Relationship growth with your own children +30%",
+    "group": "Paternal Relationship",
+    "power": 0.3,
+    "modifiedStat": "Son Relationship",
+    "Image": "GoodDad",
+    "occursNaturally": false
+  },
+  {
+    "name": "Distant Father",
+    "description": "You hardly knew your father. Relationship growth with your own children -30%",
+    "group": "Paternal Relationship",
+    "power": -0.3,
+    "modifiedStat": "Son Relationship",
+    "Image": "Introverted",
+    "occursNaturally": false
+  },
+  {
+    "Name": "Nurturing",
+    "Description": "Nurturing people want to take care of others. They like the idea of being helpful and a benefit to those in need.",
+    "Group": "Heir Relationship",
+    "Image": "Heir",
+    "Effect": "",
+    "modifiedStat": "Son Relationship",
+    "Power": 0.1
+  },
+  {
+    "Name": "Hates Kids",
+    "Description": "Some people hate kids. This person does, too.",
+    "Group": "Heir Relationship",
+    "Image": "HatesKids",
+    "Effect": "",
+    "modifiedStat": "Son Relationship",
+    "Power": -0.1
+  },
+  {
+    "Name": "Perceptive",
+    "Description": "A perceptive person lives in constant frustration as the world around themselves fail to notice what is plain to see.",
+    "Group": "Perception",
+    "Image": "Perceptive",
+    "Effect": "",
+    "Power": 0.1
+  },
+  {
+    "Name": "Grumpy",
+    "Description": "Grumpy people are hard to get to know, and they tend to be slower at getting to know others, too.",
+    "Group": "Relationship Growth",
+    "Image": "Grumpy",
+    "ModfiedStat": "Relationships",
+    "Effect": "",
+    "Power": -0.025
+  },
+  {
+    "Name": "Friendly",
+    "Description": "Friendly people are easy to get to know, and tend to be faster at getting to know others.",
+    "Group": "Relationship Growth",
+    "Image": "Friendly",
+    "Effect": "",
+    "ModfiedStat": "Relationships",
+    "Power": 0.025
+  },
+  {
+    "Name": "Ambitious",
+    "Description": "Ambitious people are always reaching for the next step in their life. They know what they want and they will work towards those goals.",
+    "Group": "Ambition",
+    "Image": "Ambitious",
+    "Effect": "",
+    "ModfiedStat": "Promotion Growth",
+    "Power": 0.1
+  },
+  {
+    "Name": "Content",
+    "Description": "Content people are happy with how things are now. It's harder for them to rise above their rank, but they're also happier in general.",
+    "Group": "Ambition",
+    "Image": "Content",
+    "Effect": "",
+    "ModfiedStat": "Promotion Growth",
+    "Power": -0.1
+  }
+]

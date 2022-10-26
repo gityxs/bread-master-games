@@ -1,0 +1,36 @@
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            @if (Program.Game.schedule != null)
+            {
+                @foreach (Day day in Program.Game.schedule.GetDays())
+                {
+                    <th style="padding-right:3px;padding-left:3px">@day.Name</th>
+                }
+            }
+
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            @foreach (Day day in Program.Game.schedule.GetDays())
+            {
+                <td style="padding:5px;margin:5px"><ScheduleDropdown></ScheduleDropdown></td>
+            }
+        </tr>
+    </tbody>
+</table>
+
+
+@code {
+
+public void AddTask()
+{
+
+}
+
+protected override void OnInit()
+{
+    StateHasChanged();
+}
+}

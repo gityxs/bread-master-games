@@ -1,0 +1,61 @@
+@inject UIService UIService
+@implements IDisposable
+
+<p>@Program.Game.GetPlayerBudget().buyables.Count</p>
+
+@if (Program.Game.GetPlayerBudget().buyables != null && Program.Game.GetPlayerBudget().buyables.Count > 0)
+{
+    @foreach (Buyable b in Program.Game.GetPlayerBudget().buyables)
+    {
+        @LoadBuyable(b)
+    }
+}
+
+@code {
+
+private RenderFragment LoadBuyable(Buyable buyable)
+{
+    return builder =>
+    {
+        builder.OpenElement(0, "p");
+        builder.OpenElement(1, "button");
+        builder.AddAttribute(2, "class", "btn btn-info");
+        builder.AddAttribute(3, "style", "");
+        builder.AddAttribute(4, "title", buyable.Description);
+        if(Program.Game.GetPlayerBudget().Salary < buyable.Cost)
+        {
+            builder.AddAttribute(4, "disabled", true);
+        }
+        else
+        {
+            builder.AddAttribute(5, "onclick", () => Buy(buyable));
+        }
+        
+        builder.AddContent(6, buyable.Name);
+        builder.CloseElement();
+        builder.AddContent(7, " " + buyable.Cost + " Yen");
+        builder.CloseElement();
+    };
+}
+private void Buy(Buyable b)
+{
+    if(Program.Game.GetPlayerBudget().Savings >= b.Cost)
+    {
+        Program.Game.GetPlayerBudget().PayCost(b);
+        Program.Game.GetPlayer().Joy += b.JoyGain;
+    }
+}
+public void Update()
+{
+    StateHasChanged();
+}
+protected override void OnInit()
+{
+    UIService.StateChanged += OnUIChanged;
+}
+void IDisposable.Dispose()
+{
+    UIService.StateChanged -= OnUIChanged;
+}
+void OnUIChanged(object sender, EventArgs e) => StateHasChanged();
+}
