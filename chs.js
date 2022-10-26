@@ -94,7 +94,7 @@ var cnItems = {
     "Enter Crackers Market": "进入饼干市场",
     "Excellent Bathtub": "优秀的浴缸",
     "Excellent Toilet": "优秀的厕所",
-    "Exp To Go": "Exp To Go",
+    "Exp To Go": "所需经验",
     "Exp/Day": "经验/天",
     "Extreme PC for Real Salarymen": "真正工薪族的极限个人电脑",
     "Family": "家庭",
